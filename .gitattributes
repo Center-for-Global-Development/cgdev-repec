@@ -1,0 +1,4 @@
+# Never convert line endings or otherwise touch file bytes.
+# The archive contains legacy CRLF and CR-only files that RePEc has parsed
+# for years; they must round-trip through git unchanged.
+* -text

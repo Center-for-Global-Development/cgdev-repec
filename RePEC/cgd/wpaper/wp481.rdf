@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Dhruv Grover
+Author-X-Name-First: Dhruv
+Author-X-Name-Last: Grover
+Author-Workplace-Name: University of California, San Diego
+Author-Name: Sebastian Bauhoff
+Author-X-Name-First: Sebastian 
+Author-X-Name-Last: Bauhoff
+Author-Workplace-Name: Center for Global Development
+Author-Email: sbauhoff@cgdev.org
+Author-Name: Jed Friedman
+Author-X-Name-First: Jed
+Author-X-Name-Last: Friedman
+Author-Workplace-Name: World Bank
+Title: Using Supervised Learning to Select Audit Targets in Performance-Based Financing in Health: An Example from Zambia
+Abstract: Independent verification is a critical component of performance-based financing (PBF) in health care, in which facilities are offered incentives to increase the volume of specific services but the same incentives may lead them to over-report. We examine alternative strategies for targeted sampling of health clinics for independent verification. Specifically, we empirically compare several methods of random sampling and predictive modeling on data from a Zambian PBF pilot that contains reported and verified performance for quantity indicators of 140 clinics. Our results indicate that machine learning methods, particularly Random Forest, outperform other approaches and can increase the cost-effectiveness of verification activities.  
+Length: 25 pages
+Creation-Date: 2018-04-11
+File-URL: https://www.cgdev.org/publication/using-supervised-learning-select-audit-targets-performance-based-financing-health
+Number: 481
+Keywords: performance-based financing, performance verification, audits, machine learning, health care finance, health care providers
+Classification-JEL: C20, C52, C55, I15, I18
+Handle: RePEc:cgd:wpaper:481

@@ -1,0 +1,15 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: David Roodman
+Author-X-Name-First: David
+Author-X-Name-Last: Roodman
+Author-Email: droodman@cgdev.org
+Title: Estimating Fully Observed Recursive Mixed-Process Models with cmp
+Abstract: At the heart of many econometric models is a linear function and a normal error. Examples include the classical small-sample linear regression model and the probit, ordered probit, multinomial probit, Tobit, interval regression, and truncateddistribution regression models. Because the normal distribution has a natural multidimensional generalization, such models can be combined into multi-equation systems in which the errors share a multivariate normal distribution. The literature has historically focused on multi-stage procedures for estimating mixed models, which are more efficient computationally, if less so statistically, than maximum likelihood (ML). But faster computers and simulated likelihood methods such as the Geweke, Hajivassiliou, and Keane (GHK) algorithm for estimating higherdimensional cumulative normal distributions have made direct ML estimation practical. ML also facilitates a generalization to switching, selection, and other models in which the number and types of equations vary by observation. The Stata module cmp fits Seemingly Unrelated Regressions (SUR) models of this broad family. Its estimator is also consistent for recursive systems in which all endogenous variables appear on the right-hand-sides as observed. If all the equations are structural, then estimation is full-information maximum likelihood (FIML). If only the final stage or stages are, then it is limited-information maximum likelihood
+(LIML). cmp can mimic a dozen built-in Stata commands and several user-written ones. It is also appropriate for a panoply of models previously hard to estimate. Heteroskedasticity, however, can render it inconsistent. This paper explains the theory and implementation of cmp and of a related Mata function, ghk2(), that implements the GHK algorithm.
+Length:  56 pages
+Creation-Date:  2009-03
+File-URL: http://www.cgdev.org/content/publications/detail/1421516 
+Number: 168
+Classification-JEL: 
+Keywords: econometrics, cmp, GHK algorithm, seemingly unrelated regressions
+Handle: RePEc:cgd:wpaper:168

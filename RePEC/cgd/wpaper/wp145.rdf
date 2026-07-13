@@ -1,0 +1,38 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: David Wheeler
+Author-X-Name-First: David
+Author-X-Name-Last: Wheeler
+Author-Email: dwheeler@cgdev.org
+Author-Name: Kevin Ummel
+Author-X-Name-First: Kevin
+Author-X-Name-Last: Ummel
+Title: Calculating CARMA: Global Estimation of CO2 Emissions from the Power Sector
+Abstract: This paper provides a detailed description and assessment of CARMA (Carbon
+Monitoring for Action), a database that reports CO2 emissions from the power
+sector. We built CARMA to assist the millions of concerned global citizens who can
+act to reduce carbon emissions once they have timely, accurate information about
+emissions sources. CARMA also lays the groundwork for the global monitoring
+system that will be necessary to ensure the credibility of any post-Kyoto carbon
+emissions limitation agreement. CARMA focuses on the power sector because it is
+the largest carbon dioxide emitter (26% of the global total), and because power
+plants are much better-documented than many sources of carbon emissions. The
+CARMA database and website put anyone with web access a few keystrokes away
+from detailed knowledge about power plants and the companies that own and
+operate them. CARMA includes many aggregation tools, so it can be used for local,
+regional, national and international comparisons. The database also offers complete
+information about power plants and companies that do not emit carbon because they
+use non-fossil energy sources (nuclear, hydro, solar, wind, biofuels, geothermal,
+etc.). In this paper, we provide a description of CARMA’s methodology, an
+assessment of its strengths and weaknesses, and some tests of its accuracy across
+countries and at different geographical scales. While CARMA performs well in
+these tests, we recognize that it is far from perfect. We therefore extend the
+following invitation to any power plant or company that disputes our estimates:
+Provide us with better data, verified by an appropriate third party, and we will
+incorporate them in CARMA.
+Length:  37 pages
+Creation-Date:  2008-05
+File-URL: http://www.cgdev.org/content/publications/detail/16101
+Number: 145
+Classification-JEL: 
+Keywords:  global warming, climate change, emissions, energy
+Handle: RePEc:cgd:wpaper:145

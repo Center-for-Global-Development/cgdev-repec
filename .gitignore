@@ -1,0 +1,7 @@
+# Raw dump of the old shared-hosting server (kept locally for reference only)
+repec backup july 13 2026/
+
+# Build output
+_site/
+
+.DS_Store

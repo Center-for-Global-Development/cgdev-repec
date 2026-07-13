@@ -1,0 +1,30 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Dan Hammer
+Author-X-Name-First: Dan
+Author-X-Name-Last: Hammer
+Author-Name: Robin Kraft
+Author-X-Name-First: Robin
+Author-X-Name-Last: Kraft
+Author-Name: David Wheeler
+Author-X-Name-First: David
+Author-X-Name-Last: Wheeler
+Title: FORMA: Forest Monitoring for Action— Rapid Identification of Pan-tropical Deforestation Using Moderate-Resolution Remotely Sensed Data
+Abstract: Rising concern about carbon emissions from deforestation has led donors to finance UN-REDD (Reducing
+Emissions from Deforestation and Forest Degradation in Developing Countries), a program that offers direct
+compensation for forest conservation. Sustainable operation of UN-REDD and other direct-compensation
+programs will require a transparent, credible, frequently updated system for monitoring deforestation. In this
+paper, we introduce FORMA (Forest Monitoring for Action), a prototype system based on remotely sensed
+data. We test its accuracy against the best available information on deforestation in Brazil and Indonesia.
+Our results indicate that publicly available remotely sensed data can support accurate quarterly identification
+of new deforestation at 1 km spatial resolution. More rapid updates at higher spatial resolution may also be
+possible. At current resolution, with efficient coding in publicly available software, FORMA should produce
+global updates on one desktop computer in a few hours. Maps of probable deforestation at 1 km resolution
+will be accessible with Google Earth and Google Maps, with an open facility for ground-truthing each pixel
+via photographs and text comments.
+Length:  25 pages
+Creation-Date:  2009-11
+File-URL: http://www.cgdev.org/content/publications/detail/1423248
+Number: 192
+Classification-JEL: 
+Keywords: remote sensing; forest; deforestation; conservation; climate change
+Handle: RePEc:cgd:wpaper:192

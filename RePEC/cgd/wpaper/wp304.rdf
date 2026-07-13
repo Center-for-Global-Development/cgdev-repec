@@ -1,0 +1,32 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Kevin Ummel
+Author-X-Name-First: Kevin			 			
+Author-X-Name-Last: Ummel
+Title: CARMA Revisited: An Updated Database of Carbon Dioxide Emissions from Power Plants Worldwide 
+Abstract: The Carbon Monitoring for Action (CARMA) database provides information about the carbon dioxide
+emissions, electricity production, corporate ownership, and location of more than 60,000 power plants in
+over 200 countries. Originally launched in 2007, CARMA is provided freely to the public at www.carma.
+org and remains the only comprehensive data source of its kind. This paper documents the methodology
+underpinning CARMA v3.0, released in July, 2012. Comparison of CARMA model output with reported
+data highlights the general difficulty of precisely predicting annual electricity generation for a given plant
+and year. Estimating the rate at which a plant emits CO2 (per unit of electricity generated) generally faces
+fewer obstacles. Ultimately, greater disclosure of plant-specific data is needed to overcome these limitations,
+particularly in major emitting countries like China, Russia, and Japan. For any given plant in CARMA v3.0, it
+is estimated that the reported value is within 20 percent of the actual value in 85 percent of cases for CO2
+intensity, 75 percent for annual CO2 emissions, and 45 percent for annual electricity generation. CARMA’s
+prediction models are shown to offer significantly better estimates than more naïve approaches to estimating
+plant-specific performance.
+
+CARMA v3.0 also includes a significant upgrade in the quantity and quality of geographic data, including
+standardized geopolitical information for nearly all facilities. High-precision coordinates are now available for
+10 percent of plants (covering 30% of global CO2 emissions) and approximate coordinates are available for
+an additional 70 percent of facilities. The new version also lays the technical groundwork for future expansion
+to green house gases other than CO2, offering potential improvement in continental-scale modeling of the
+environmental and health consequences of conventional pollutants.
+Length: 30  pages
+Creation-Date: 2012-08
+File-URL:http://www.cgdev.org/files/1426429_file_Ummel_CARMA3.0_FINAL.pdf
+Number: 304
+Classification-JEL: Q50, Q53, Q54, Q55
+Keywords: CARMA, carbon monitoring, greenhouse gases, global warming.
+Handle: RePEc:cgd:wpaper:304
