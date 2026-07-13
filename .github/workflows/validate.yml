@@ -21,7 +21,7 @@ jobs:
           elif [ "${{ github.event.before }}" != "0000000000000000000000000000000000000000" ] && git cat-file -e "${{ github.event.before }}" 2>/dev/null; then
             BASE="${{ github.event.before }}"
           else
-            BASE="$(git rev-parse HEAD^ 2>/dev/null || git hash-object -t tree /dev/null)"
+            BASE="$(git rev-parse --verify -q HEAD^ || git hash-object -t tree /dev/null)"
           fi
           git diff --name-only --diff-filter=d "$BASE" HEAD -- 'RePEC/**/*.rdf' > changed.txt
           echo "count=$(wc -l < changed.txt | tr -d ' ')" >> "$GITHUB_OUTPUT"
