@@ -1,7 +1,13 @@
 Template-Type: ReDIF-Paper 1.0
-Author-Name: Sarah Dykstra, Benjamin Dykstra, and Justin Sandefur		
-Author-X-Name-First: Sarah			 			
+Author-Name: Sarah Dykstra
+Author-X-Name-First: Sarah
 Author-X-Name-Last: Dykstra
+Author-Name: Benjamin Dykstra
+Author-X-Name-First: Benjamin
+Author-X-Name-Last: Dykstra
+Author-Name: Justin Sandefur
+Author-X-Name-First: Justin
+Author-X-Name-Last: Sandefur
 Title: We Just Ran Twenty-Three Million Queries of the World Bank's Website - Working Paper 362
 Abstract: Much of the data underlying global poverty and inequality estimates is not in the public
 domain, but can be accessed in small pieces using the World Bank’s PovcalNet online tool. To

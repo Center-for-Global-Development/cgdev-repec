@@ -1,10 +1,11 @@
 Template-Type: ReDIF-Paper 1.0
-Author-Name: Lant Pritchett, Justin Sandefur
+Author-Name: Lant Pritchett
 Author-X-Name-First: Lant
 Author-X-Name-Last: Pritchett
+Author-Email: lpritchett@cgdev.org
+Author-Name: Justin Sandefur
 Author-X-Name-First: Justin
 Author-X-Name-Last: Sandefur
-Author-Email: lpritchett@cgdev.org
 Author-Email: jsandefur@cgdev.org
 Title: Context Matters for Size: Why External Validity Claims and Development Practice Don't Mix-Working Paper 336
 Abstract: In this paper we examine how policymakers and practitioners should interpret the impact evaluation literature when presented with conflicting experimental and non-experimental estimates of the same intervention across varying contexts. We show three things. First, as is well known, non-experimental estimates of a treatment effect comprise a causal treatment effect and a bias term due to endogenous selection into treatment. When non-experimental estimates vary across contexts any claim for external validity of an experimental result must make the assumption that (a) treatment effects are constant across contexts, while (b) selection processes vary across contexts. This assumption is rarely stated or defended in systematic reviews of evidence. Second, as an illustration of these issues, we examine two thoroughly researched literatures in the economics of education—class size effects and gains from private schooling—which provide experimental and non-experimental estimates of causal effects from the same context and across multiple contexts.
