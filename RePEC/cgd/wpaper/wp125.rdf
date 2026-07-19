@@ -1,8 +1,8 @@
 ﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: David Roodman
-Author-X-Name-First: David 
-Author-X-Name-Last: Roodman 
-Author-Email:  droodman@cgdev.org
+Author-X-Name-First: David
+Author-X-Name-Last: Roodman
+Author-Email: droodman@cgdev.org
 Title: A Note on the Theme of Too Many Instruments
 Abstract: The “difference” and “system” generalized method of moments (GMM) estimators for dynamic
 panel models are growing steadily in popularity. The estimators are designed for panels with short
@@ -22,10 +22,10 @@ Loayza, and Beck (LLB, 2000) on financial sector development. Endogenous causati
 to rule out in both papers. Going forward, for results from these GMM estimators to be credible,
 researchers must report the instrument count and aggressively test estimates and specification test
 results for robustness to reductions in that count.
-Length:  33 pages
-Creation-Date:  2007-08
+Length: 33 pages
+Creation-Date: 2007-08
 File-URL: http://www.cgdev.org/content/publications/detail/14256
 Number: 125
 Classification-JEL: C23, G0, O40
-Keywords:  dynamic panel estimation, difference GMM, system GMM, Stata, Arellano-Bond, Blundell-Bond, generalized method of moments, autocorrelation, finance and growth, inequality and growth
+Keywords: dynamic panel estimation, difference GMM, system GMM, Stata, Arellano-Bond, Blundell-Bond, generalized method of moments, autocorrelation, finance and growth, inequality and growth
 Handle: RePEc:cgd:wpaper:125

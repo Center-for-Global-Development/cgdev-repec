@@ -1,8 +1,8 @@
 ﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: David Roodman
-Author-X-Name-First: David 
-Author-X-Name-Last: Roodman 
-Author-Email:  droodman@cgdev.org
+Author-X-Name-First: David
+Author-X-Name-Last: Roodman
+Author-Email: droodman@cgdev.org
 Title: How to Do xtabond2: An Introduction to "Difference" and "System" GMM in Stata
 Abstract: The Arellano-Bond (1991) and Arellano-Bover (1995)/Blundell-Bond (1998)
 linear generalized method of moments (GMM) estimators are
@@ -19,10 +19,10 @@ Stata-based examples along the way. Next it shows how to apply these
 estimators with xtabond2. It also explains how to perform
 the Arellano-Bond test for autocorrelation in a panel after other Stata commands, using
 abar. The paper closes with some tips for proper use.
-Length:  42 pages
-Creation-Date:  2006-11
+Length: 42 pages
+Creation-Date: 2006-11
 File-URL: http://www.cgdev.org/content/publications/detail/11619
 Number: 103
 Classification-JEL: C23, C87
-Keywords:  dynamic panel estimation, difference GMM, system GMM, Stata, Arellano-Bond, Blundell-Bond, generalized method of moments, autocorrelation
+Keywords: dynamic panel estimation, difference GMM, system GMM, Stata, Arellano-Bond, Blundell-Bond, generalized method of moments, autocorrelation
 Handle: RePEc:cgd:wpaper:103
