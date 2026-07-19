@@ -8,7 +8,10 @@ Abstract: At the heart of many econometric models is a linear function and a nor
 (LIML). cmp can mimic a dozen built-in Stata commands and several user-written ones. It is also appropriate for a panoply of models previously hard to estimate. Heteroskedasticity, however, can render it inconsistent. This paper explains the theory and implementation of cmp and of a related Mata function, ghk2(), that implements the GHK algorithm.
 Length: 56 pages
 Creation-Date: 2009-03
-File-URL: http://www.cgdev.org/content/publications/detail/1421516
+File-URL: https://www.cgdev.org/publication/estimating-fully-observed-recursive-mixed-process-models-cmp-working-paper-168?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1421516_file_Roodman_cmp_FINAL.pdf
+File-Format: application/pdf
 Number: 168
 Keywords: econometrics, cmp, GHK algorithm, seemingly unrelated regressions
 Handle: RePEc:cgd:wpaper:168

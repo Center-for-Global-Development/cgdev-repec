@@ -7,7 +7,10 @@ Title: Through the Looking-Glass, and What OLS Found There: On Growth, Foreign A
 Abstract: The cross-country literature on foreign aid effectiveness has relied on the use of instruments to distinguish causality from mere correlation. This paper uses simple non-instrumental techniques in the spirit of Granger to demonstrate that the main aid-growth connection is a negative causal relationship from growth to aid—-aid, that is, as a fraction of recipient GDP. Coarsely, when GDP goes up, aid/GDP goes down. The endogeneity of aid, long suspected, is real. Less understood is that adding certain common controls to regressions puts this relationship through the looking glass, flipping both its sign and apparent direction: aid seems to cause growth. Ideally, instrumentation expunges the endogeneity shown here. In practice, estimates of aid’s impact have run into problems. Autocorrelation in the errors is widespread, and can render endogenous lagged variables used as regressors or instruments. The pitfalls of “difference” and “system” include invalidity and proliferation of instruments. Multicollinearity in term pairs of interest, such as aid and aid2 or “project” and “program” aid, can amplify endogeneity bias. The combination of specification problems and widespread fragility (shown in earlier work) leads to pessimism about the ability of cross-country econometrics to demonstrate aid effectiveness. This does not rule an average positive effect, nor does it contradict the fact that aid has saved millions of lives, but it does suggest that the average effect on economic growth is too small to be detected statistically.
 Length: 21 pages
 Creation-Date: 2008-01
-File-URL: http://www.cgdev.org/content/publications/detail/15105
+File-URL: https://www.cgdev.org/publication/through-looking-glass-and-what-ols-found-there-growth-foreign-aid-and-reverse-causality?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/15105_file_Looking_Glass.pdf
+File-Format: application/pdf
 Number: 137
 Classification-JEL: B40, F35, O11
 Keywords: foreign aid, economic growth

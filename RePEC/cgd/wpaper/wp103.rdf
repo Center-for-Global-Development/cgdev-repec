@@ -21,7 +21,10 @@ the Arellano-Bond test for autocorrelation in a panel after other Stata commands
 abar. The paper closes with some tips for proper use.
 Length: 42 pages
 Creation-Date: 2006-11
-File-URL: http://www.cgdev.org/content/publications/detail/11619
+File-URL: https://www.cgdev.org/publication/how-do-xtabond2-introduction-difference-and-system-gmm-stata-working-paper-103?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/11619_file_HowtoDoxtabond8_with_foreword_0.pdf
+File-Format: application/pdf
 Number: 103
 Classification-JEL: C23, C87
 Keywords: dynamic panel estimation, difference GMM, system GMM, Stata, Arellano-Bond, Blundell-Bond, generalized method of moments, autocorrelation
