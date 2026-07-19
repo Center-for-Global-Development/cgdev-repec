@@ -9,7 +9,7 @@ Author-Name: Justin Sandefur
 Author-Name-First: Justin
 Author-Name-Last: Sandefur
 Author-Person: psa778
-Title: We Just Ran Twenty-Three Million Queries of the World Bank's Website - Working Paper 362
+Title: We Just Ran Twenty-Three Million Queries of the World Bank's Website
 Abstract: Much of the data underlying global poverty and inequality estimates is not in the public
 domain, but can be accessed in small pieces using the World Bank’s PovcalNet online tool. To
 overcome these limitations and reproduce this database in a format more useful to researchers,
