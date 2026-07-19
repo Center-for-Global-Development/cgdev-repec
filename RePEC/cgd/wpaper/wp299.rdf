@@ -1,9 +1,13 @@
 ﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Lant Pritchett
-Author-Name: Matt Andrews
-Author-Name:Michael Woolcock
-Author-X-Name-First: Lant			 			
+Author-X-Name-First: Lant
 Author-X-Name-Last: Pritchett
+Author-Name: Matt Andrews
+Author-X-Name-First: Matt
+Author-X-Name-Last: Andrews
+Author-Name: Michael Woolcock
+Author-X-Name-First: Michael
+Author-X-Name-Last: Woolcock
 Title: Escaping Capability Traps through Problem-Driven Iterative Adaptation (PDIA)
 Abstract: Many reform initiatives in developing countries fail to achieve sustained improvements in 
 performance because they are merely isomorphic mimicry—that is, governments and organizations 
