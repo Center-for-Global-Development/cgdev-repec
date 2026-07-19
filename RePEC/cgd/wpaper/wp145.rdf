@@ -1,11 +1,11 @@
 ﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: David Wheeler
-Author-X-Name-First: David
-Author-X-Name-Last: Wheeler
+Author-Name-First: David
+Author-Name-Last: Wheeler
 Author-Email: dwheeler@cgdev.org
 Author-Name: Kevin Ummel
-Author-X-Name-First: Kevin
-Author-X-Name-Last: Ummel
+Author-Name-First: Kevin
+Author-Name-Last: Ummel
 Title: Calculating CARMA: Global Estimation of CO2 Emissions from the Power Sector
 Abstract: This paper provides a detailed description and assessment of CARMA (Carbon
 Monitoring for Action), a database that reports CO2 emissions from the power

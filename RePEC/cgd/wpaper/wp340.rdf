@@ -1,7 +1,7 @@
 ﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Kevin Ummel
-Author-X-Name-First: Kevin
-Author-X-Name-Last: Ummel
+Author-Name-First: Kevin
+Author-Name-Last: Ummel
 Author-Email: kevinummel@gmail.com
 Title: Planning for Large-Scale Wind and Solar Power in South Africa: Identifying Cost-Effective Deployment Strategies Using Spatiotemporal Modeling-Working Paper 340
 Abstract: South Africa and many other countries hope to aggressively expand wind and solar power (WSP) in coming decades. The challenge is to turn laudable aspirations into concrete plans that minimize costs, maximize benefits, and ensure reliability. Success hinges largely on the question of how and where to deploy intermittent WSP technologies. This study develops a 10-year database of expected hourly power generation for onshore wind, solar photovoltaic, and concentrating solar power technologies across South Africa. A simple power system model simulates the economic and environmental performance of different WSP spatial deployment strategies in 2040, while ensuring a minimum level of system reliability.
