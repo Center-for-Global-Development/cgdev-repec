@@ -1,10 +1,10 @@
-Template-Type: ReDIF-Paper 1.0
+ÔªøTemplate-Type: ReDIF-Paper 1.0
 Author-Name: David Roodman
 Author-X-Name-First: David 
 Author-X-Name-Last: Roodman 
 Author-Email:  droodman@cgdev.org
 Title: A Note on the Theme of Too Many Instruments
-Abstract: The ìdifferenceî and ìsystemî generalized method of moments (GMM) estimators for dynamic
+Abstract: The ‚Äúdifference‚Äù and ‚Äúsystem‚Äù generalized method of moments (GMM) estimators for dynamic
 panel models are growing steadily in popularity. The estimators are designed for panels with short
 time dimensions (T), and by default they generate instruments sets whose number grows
 quadratically in T. The dangers associated with having many instruments relative to observations are
@@ -15,7 +15,7 @@ test for subsets of instruments. The weakness of these specification tests is a 
 system GMM, whose distinctive instruments are only valid under a non-trivial assumption. Judging
 by current practice, many researchers do not fully appreciate that popular implementations of these
 estimators can by default generate results that simultaneously are invalid yet appear valid. The
-potential for type I errorsófalse positivesóis therefore substantial, especially after amplification by
+potential for type I errors‚Äîfalse positives‚Äîis therefore substantial, especially after amplification by
 publication bias. This paper explains the risks and illustrates them with reference to two early
 applications of the estimators to economic growth, Forbes (2000) on income inequality and Levine,
 Loayza, and Beck (LLB, 2000) on financial sector development. Endogenous causation proves hard

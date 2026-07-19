@@ -1,4 +1,4 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Elliott Ash
 Author-X-Name-First: Elliott
 Author-X-Name-Last: Ash
@@ -49,7 +49,7 @@ Author-Workplace-Name: Center for Global Development
 Author-Email: bilal.siddiqi@berkeley.edu
 Author-Person: psi909
 Title: In-Group Bias in the Indian Judiciary: Evidence from 5 Million Criminal Cases
-Abstract: We study judicial in-group bias in Indian criminal courts using a newly collected dataset on over 5 million criminal case records from 2010–2018. After detecting gender and religious identity using a neural-net classifier applied to judge and defendant names, we exploit quasi-random assignment of cases to judges to examine whether defendant outcomes are affected by assignment to a judge with a similar identity. In the aggregate, we estimate tight zero effects of in-group bias based on shared gender, religion, and last name (a proxy for caste). We do find limited in-group bias in some (but not all) settings where identity is salient—in particular, we find a small religious in-group bias during Ramadan, and we find shared-name in-group bias when judge and defendant match on a rare last name.
+Abstract: We study judicial in-group bias in Indian criminal courts using a newly collected dataset on over 5 million criminal case records from 2010â€“2018. After detecting gender and religious identity using a neural-net classifier applied to judge and defendant names, we exploit quasi-random assignment of cases to judges to examine whether defendant outcomes are affected by assignment to a judge with a similar identity. In the aggregate, we estimate tight zero effects of in-group bias based on shared gender, religion, and last name (a proxy for caste). We do find limited in-group bias in some (but not all) settings where identity is salientâ€”in particular, we find a small religious in-group bias during Ramadan, and we find shared-name in-group bias when judge and defendant match on a rare last name.
 Length: 60 pages
 Creation-Date: 2023-03-17
 File-URL: https://www.cgdev.org/publication/group-bias-indian-judiciary-evidence-5-million-criminal-cases?utm_source=repec&utm_medium=referral&utm_campaign=repec

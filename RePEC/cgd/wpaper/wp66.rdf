@@ -1,4 +1,4 @@
-Template-Type: ReDIF-Paper 1.0
+ÔªøTemplate-Type: ReDIF-Paper 1.0
 Author-Name:  David Roodman
 Author-X-Name-First: David
 Author-X-Name-Last: Roodman
@@ -11,9 +11,9 @@ imports; but these, as is well-known, are endogenous. Various authors have worke
 correct this endogeneity, but doing so is difficult in product areas where protection is
 both high and widespread. For this reason, I develop a new set of estimates of overall
 protection in rich countries with respect to developing ones that eschews import weights
-as much as possible in favor of weights based on the value of exporterís total production
-in each product area. The results are generally much higher than those from the BouÎt et
-al. (2004) ìMAcMapî data set; there, weights are based on imports of large reference
+as much as possible in favor of weights based on the value of exporter‚Äôs total production
+in each product area. The results are generally much higher than those from the Bou√´t et
+al. (2004) ‚ÄúMAcMap‚Äù data set; there, weights are based on imports of large reference
 groups of countries. I conclude that product areas in which protection is high and widespread
 are systematically de-emphasized when using pure MAcMap weights to aggregate
 across major product groups. In particular, when gauging rich-country protection with

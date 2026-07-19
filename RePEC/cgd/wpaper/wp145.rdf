@@ -1,4 +1,4 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: David Wheeler
 Author-X-Name-First: David
 Author-X-Name-Last: Wheeler
@@ -22,7 +22,7 @@ operate them. CARMA includes many aggregation tools, so it can be used for local
 regional, national and international comparisons. The database also offers complete
 information about power plants and companies that do not emit carbon because they
 use non-fossil energy sources (nuclear, hydro, solar, wind, biofuels, geothermal,
-etc.). In this paper, we provide a description of CARMA�s methodology, an
+etc.). In this paper, we provide a description of CARMA’s methodology, an
 assessment of its strengths and weaknesses, and some tests of its accuracy across
 countries and at different geographical scales. While CARMA performs well in
 these tests, we recognize that it is far from perfect. We therefore extend the
