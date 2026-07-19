@@ -14,17 +14,13 @@ Author-X-Name-First: Anna
 Author-X-Name-Last: Bershteyn
 Title: The Cost and Cost-Effectiveness of Alternative Strategies to Expand Treatment to HIV-Positive South Africans: Scale Economies and Outreach Costs - Working Paper 401
 Abstract: The South African government is currently discussing various alternative approaches to the further expansion of antiretroviral treatment (ART) in public-sector facilities. Alternatives under consideration include the criteria under which a patient would be eligible for free care, the level of coverage with testing and care, how much of the care will be delivered in small facilities located closer to the patients, and how to assure linkage to care and subsequent adherence by ART patients.
-
 We used the EMOD-HIV model to generate 12 epidemiological scenarios. The EMOD-HIV model is a model of HIV transmission which projects South African HIV incidence and prevalence and ARV treatment by age group for alternative combinations of treatment eligibility criteria and testing. We treat as sunk costs the projected future cost of one of these 12 scenarios, the baseline scenario characterizing South Africa’s 2013 policy to treat people with CD4 counts less than 350. We compute the cost and benefits of the other 11 scenarios relative to this baseline. Starting with our own bottom-up cost analyses in South Africa, we separate outpatient cost into non-scale-dependent costs (drugs and laboratory tests) and scale-dependent cost (staff, space, equipment and overheads) and model the cost of production according to the expected future number and size of clinics. On the demand side, we include the cost of creating and sustaining the projected incremental demand for testing and treatment.
-
 Previous research with EMOD-HIV has shown that more vigorous recruitment of patients with CD4 counts less than 350 appears to be an advantageous policy over a five-year horizon. Over 20 years, however, the model assumption that a person on treatment is 92 percent less infectious improves the cost-effectiveness of higher eligibility thresholds over more vigorous recruitment at the lower threshold of 350, averting HIV infections for between $1,700 and $2,800 (under our central assumptions), while more vigorous expansion under the current guidelines would cost more than $7,500 per incremental HIV infection averted.
-
 Granular spatial models of demand and cost facilitate the optimal targeting of new facility construction and outreach services. Based on analysis of the sensitivity of the results to 1,728 alternative parameter combinations at each of four discount rates, we conclude that better knowledge of the behavioral elasticities would be valuable, reducing the uncertainty of cost estimates by a factor of 4 to 10.
 Length:  58 pages
 Creation-Date:  2015-04
 File-URL: http://www.cgdev.org/publication/cost-and-cost-effectiveness-alternative-strategies-expand-treatment-hiv-positive-south
 Number: 401
 Classification-JEL:      I15, I18
-Keywords:      ART, HIV/AIDS, South Africa
+Keywords:      ART, HIV/AIDS, South Africa
 Handle: RePEc:cgd:wpaper:401
-
