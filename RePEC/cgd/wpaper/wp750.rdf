@@ -1,7 +1,7 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Andrew Powell
-Author-X-Name-First: Andrew
-Author-X-Name-Last: Powell
+Author-Name-First: Andrew
+Author-Name-Last: Powell
 Author-Workplace-Name: Center for Global Development
 Author-Workplace-Name: Williams College
 Author-Person: ppo64
@@ -10,5 +10,8 @@ Abstract: Inter-creditor issues have been blamed for protracted debt restructuri
 Length: 36 pages
 Creation-Date: 2026-06-18
 File-URL: https://www.cgdev.org/publication/comparability-treatment-where-do-we-stand?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/comparability-treatment-where-do-we-stand.pdf
+File-Format: application/pdf
 Number: 750
 Handle: RePEc:cgd:wpaper:750

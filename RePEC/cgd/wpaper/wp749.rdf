@@ -1,14 +1,17 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Lee Crawfurd
-Author-X-Name-First: Lee
-Author-X-Name-Last: Crawfurd
+Author-Name-First: Lee
+Author-Name-Last: Crawfurd
 Author-Workplace-Name: Center for Global Development
 Author-Person: pcr198
 Title: Schools in the Shadow of Toxic Sites: Pollution Proximity in Low- and Middle-Income Countries
-Abstract: How many children in low- and middle-income countries attend school near sources of pollution? We match the locations of 2.6 million schools across 17 countries to 11,301 documented toxic sites and find that 9.7 percent of schools in our sample lie within 5 km of a site. Weighting by enrollment, 12.7 percent of students in the 7 countries with enrollment data attend a school within this distance. These remain lower bounds: the available data capture only a fraction of actual contaminated sites. Proximity is overwhelmingly an urban phenomenon�urban schools are 4 to 28 times more likely than rural schools to be near a site, depending on the country. Within countries, schools in the wealthiest neighborhood quintile are about 14 times more likely to be near a site than schools in the poorest (34.5 percent versus 2.4 percent), reflecting the spatial concentration of industry in wealthier urban areas of LMICs. Where data on school management are available, private schools are also more likely than public schools to be near sites in all eight such countries.
+Abstract: How many children in low- and middle-income countries attend school near sources of pollution? We match the locations of 2.6 million schools across 17 countries to 11,301 documented toxic sites and find that 9.7 percent of schools in our sample lie within 5 km of a site. Weighting by enrollment, 12.7 percent of students in the 7 countries with enrollment data attend a school within this distance. These remain lower bounds: the available data capture only a fraction of actual contaminated sites. Proximity is overwhelmingly an urban phenomenon—urban schools are 4 to 28 times more likely than rural schools to be near a site, depending on the country. Within countries, schools in the wealthiest neighborhood quintile are about 14 times more likely to be near a site than schools in the poorest (34.5 percent versus 2.4 percent), reflecting the spatial concentration of industry in wealthier urban areas of LMICs. Where data on school management are available, private schools are also more likely than public schools to be near sites in all eight such countries.
 Length: 49 pages
 Creation-Date: 2026-06-13
 File-URL: https://www.cgdev.org/publication/schools-shadow-toxic-sites-pollution-proximity-low-and-middle-income-countries?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/schools-shadow-toxic-sites-pollution-proximity-low-and-middle-income-countries.pdf
+File-Format: application/pdf
 Classification-JEL: Q53, I25, O15, R14
 Keywords: pollution, schools, environmental justice, lead, low- and middle-income countries
 Number: 749

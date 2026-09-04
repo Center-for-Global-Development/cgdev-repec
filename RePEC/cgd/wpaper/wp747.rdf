@@ -1,7 +1,7 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Shantayanan Devarajan
-Author-X-Name-First: Shantayanan
-Author-X-Name-Last: Devarajan
+Author-Name-First: Shantayanan
+Author-Name-Last: Devarajan
 Author-Workplace-Name: Georgetown University
 Author-Workplace-Name: Center for Global Development
 Title: The Costs of Denial
@@ -9,6 +9,9 @@ Abstract: Noting that the recent performance of developing countries is signific
 Length: 19 pages
 Creation-Date: 2026-06-01
 File-URL: https://www.cgdev.org/publication/costs-denial?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/the-costs-denial.pdf
+File-Format: application/pdf
 Classification-JEL: O40, D73, P00
 Keywords: economic growth, corruption, political economy
 Number: 747
