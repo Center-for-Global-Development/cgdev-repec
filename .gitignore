@@ -7,3 +7,4 @@ _site/
 .DS_Store
 working_directory/
 __pycache__/
+REPEC_CLEANUP_REPORT.md
