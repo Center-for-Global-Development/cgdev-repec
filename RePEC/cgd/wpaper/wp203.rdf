@@ -1,8 +1,15 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Arturo J. Galindo, Alejandro Izquierdo, and Liliana
-Rojas-Suarez
-Author-X-Name-First: Liliana
-Author-X-Name-Last: Rojas-Suarez
+ï»¿Template-Type: ReDIF-Paper 1.0
+Author-Name: Arturo J. Galindo
+Author-Name-First: Arturo
+Author-Name-Middle: J.
+Author-Name-Last: Galindo
+Author-Name: Alejandro Izquierdo
+Author-Name-First: Alejandro
+Author-Name-Last: Izquierdo
+Author-Name: Liliana Rojas-Suarez
+Author-Name-First: Liliana
+Author-Name-Last: Rojas-Suarez
+Author-Person: pro527
 Title: Financial Integration and Foreign Banks in Latin America: Do They Amplify External Financial Shocks?
 Abstract: This paper explores the impact of international financial integration on credit markets in Latin America. Using
 a cross-country dataset covering 17 Latin American countries between 1996 and 2008, the authors find that
@@ -10,18 +17,21 @@ financial integration amplifies the impact of international financial shocks on 
 fluctuations. Despite this pernicious effect, the net impact of integration on deepening credit markets
 is positive and dominates for the large majority of states of nature. The paper also uses a detailed bank-level
 dataset covering more than 500 banks in Latin America for a similar time period to explore the role of
-financial integration—captured through the participation of foreign banks—in propagating external shocks.
+financial integrationâ€”captured through the participation of foreign banksâ€”in propagating external shocks.
 The authors find that interest rates charged and loans supplied by foreign-owned banks respond more to
 external financial shocks than those supplied by domestically owned banks. However, this result does not
 hold for all foreign banks: Spanish banks in the sample behave more like domestic banks and do not amplify
 the impact of foreign shocks on credit and interest rates. Important policy recommendations to avoid foreign
-banks’ amplification of external financial shocks include the establishment of ring-fencing mechanisms, the
+banksâ€™ amplification of external financial shocks include the establishment of ring-fencing mechanisms, the
 development of early-warning systems, and the incorporation for agreements between domestic and foreign
 supervisors.
-Length:  32 pages
-Creation-Date:  2010-03
-File-URL: http://www.cgdev.org/content/publications/detail/1423751/
+Length: 32 pages
+Creation-Date: 2010-03
+File-URL: https://www.cgdev.org/publication/financial-integration-and-foreign-banks-latin-america-do-they-amplify-external-financial?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1423751_file_Rojas_Suarez_Integration_Banks_FINAL.pdf
+File-Format: application/pdf
 Number: 203
-Classification-JEL:F36, G0, G21
+Classification-JEL: F36, G0, G21
 Keywords: foreign banks, credit, interest rates, financial shocks
 Handle: RePEc:cgd:wpaper:203

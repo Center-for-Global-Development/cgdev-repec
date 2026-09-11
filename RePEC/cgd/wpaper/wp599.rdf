@@ -1,29 +1,32 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Lin William Cong
-Author-X-Name-First: Lin
-Author-X-Name-Middle: William
-Author-X-Name-Last: Cong
+Author-Name-First: Lin
+Author-Name-Middle: William
+Author-Name-Last: Cong
 Author-Workplace-Name: Cornell University Johnson Graduate School of Management
 Author-Email: will.cong@cornell.edu
 Author-Person: pco1085
 Author-Name: Xiaohan Yang
-Author-X-Name-First: Xiaohan
-Author-X-Name-Last: Yang
+Author-Name-First: Xiaohan
+Author-Name-Last: Yang
 Author-Workplace-Name: Peking University National School of Development
 Author-Email: yangxh@pku.edu.cn
 Author-Name: Xiaobo Zhang
-Author-X-Name-First: Xiaobo
-Author-X-Name-Last: Zhang
+Author-Name-First: Xiaobo
+Author-Name-Last: Zhang
 Author-Workplace-Name: Peking University Guanghua School of Management
 Author-Workplace-Name: International Food Policy Research Institute
 Author-Workplace-Name: Center for Global Development
 Author-Email: x.zhang@gsm.pku.edu.cn
 Author-Person: pzh45
 Title: Small and Medium Enterprises Amidst the Pandemic and Reopening: Digital Edge and Transformation
-Abstract: Using administrative universal firm registration data as well as primary offline and online surveys of small business owners in China, we examine (i) whether the digitization of business operations helps small and medium enterprises (SMEs) better cope with the pandemic shock, and (ii) if the pandemic has induced digital technology adoption. We identify significant economic benefits of digitization in increasing SMEs� resilience against such a large shock, as seen through mitigated demand decline, sustainable cash flow, ability to quickly reopen, and positive outlook for growth. After the lockdown in January 2020, firm entries have exhibited a V-shaped pattern, with entries of e-commerce firms experiencing a less pronounced initial drop and a quicker rebound. The COVID-19 pandemic has also accelerated digital technology adoption of existing firms in various dimensions (captured by, e.g., the alteration of operation scope to include e-commerce activities, allowing remote work, and adoption of electronic information system), and the effect persists after one year of full reopening.
+Abstract: Using administrative universal firm registration data as well as primary offline and online surveys of small business owners in China, we examine (i) whether the digitization of business operations helps small and medium enterprises (SMEs) better cope with the pandemic shock, and (ii) if the pandemic has induced digital technology adoption. We identify significant economic benefits of digitization in increasing SMEs’ resilience against such a large shock, as seen through mitigated demand decline, sustainable cash flow, ability to quickly reopen, and positive outlook for growth. After the lockdown in January 2020, firm entries have exhibited a V-shaped pattern, with entries of e-commerce firms experiencing a less pronounced initial drop and a quicker rebound. The COVID-19 pandemic has also accelerated digital technology adoption of existing firms in various dimensions (captured by, e.g., the alteration of operation scope to include e-commerce activities, allowing remote work, and adoption of electronic information system), and the effect persists after one year of full reopening.
 Length: 44 pages
 Creation-Date: 2021-12-10
 File-URL: https://www.cgdev.org/publication/small-and-medium-enterprises-amidst-pandemic-and-reopening-digital-edge-and?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/SMEs-amidst-pandemic-and-reopening-digital-edge-and-transformation.pdf
+File-Format: application/pdf
 Keywords: SMEs, COVID-19, Digital economy, E-commerce
 Number: 599
 Handle: RePEc:cgd:wpaper:599

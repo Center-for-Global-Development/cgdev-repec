@@ -1,18 +1,21 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Lee Crawfurd
-Author-X-Name-First: Lee
-Author-X-Name-Last: Crawfurd
+Author-Name-First: Lee
+Author-Name-Last: Crawfurd
 Author-Workplace-Name: Center for Global Development
 Author-Person: pcr198
 Author-Name: Abdullah Alam
-Author-X-Name-First: Abdullah
-Author-X-Name-Last: Alam
+Author-Name-First: Abdullah
+Author-Name-Last: Alam
 Author-Workplace-Name: Institute for Social and Policy Sciences, Islamabad, Pakistan
 Title: Contracting Out Schools at Scale: Evidence from Pakistan
 Abstract: Can governments contract out school management at scale? In 2016 the Government of Punjab transferred management of over 4,000 failing primary schools to private operators. Schools remained free to students. Private operators received a government subsidy per enrolled student of less than half per-student spending in government schools. This paper evaluates the effects on performance of converted schools. Comparing early converters to later converters, we estimate that enrolment in treated schools increased by over 60 percent, and test scores declined sharply.
 Length: 19 pages
 Creation-Date: 2022-09-06
 File-URL: https://www.cgdev.org/publication/contracting-out-schools-scale-evidence-pakistan?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/contracting-out-schools-scale-evidence-pakistan.pdf
+File-Format: application/pdf
 Classification-JEL: I25, O15
 Keywords: Charter schools, difference-in-difference, Pakistan, PPPs, public-private partnerships
 Number: 622

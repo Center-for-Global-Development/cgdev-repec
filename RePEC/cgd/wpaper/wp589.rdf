@@ -1,27 +1,30 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Abhishek Anand
-Author-X-Name-First: Abhishek
-Author-X-Name-Last: Anand
+Author-Name-First: Abhishek
+Author-Name-Last: Anand
 Author-Workplace-Name: Harvard University
 Author-Email: abhishekanand@hks.harvard.edu
 Author-Name: Justin Sandefur
-Author-X-Name-First: Justin
-Author-X-Name-Last: Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
 Author-Workplace-Name: Center for Global Development
 Author-Email: jsandefur@cgdev.org
 Author-Person: psa778
 Author-Name: Arvind Subramanian
-Author-X-Name-First: Arvind
-Author-X-Name-Last: Subramanian
+Author-Name-First: Arvind
+Author-Name-Last: Subramanian
 Author-Workplace-Name: Center for Global Development
 Author-Workplace-Name: Brown University
 Author-Email: asubramanian@cgdev.org
 Author-Email: arvind_subramanian@brown.edu
 Author-Person: psu108
-Title: Three New Estimates of India’s All-Cause Excess Mortality during the COVID-19 Pandemic
-Abstract: India lacks an authoritative estimate of the death toll from the COVID-19 pandemic. We report excess mortality estimates from three different data sources from the pandemic’s start through June 2021. First, extrapolation of state-level civil registration from seven states suggests 3.4 million excess deaths. Second, applying international estimates of age-specific infection fatality rates (IFR) to Indian seroprevalence data implies a higher toll of around 4 million. Third, our analysis of the Consumer Pyramid Household Survey, a longitudinal panel of over 800,000 individuals across all states, yields an estimate of 4.9 million excess deaths. Each of these estimates has shortcomings and they also diverge in the pattern of deaths between the two waves of the pandemic. Estimating COVID-deaths with statistical confidence may prove elusive. But all estimates suggest that the death toll from the pandemic is likely to be an order of magnitude greater than the official count of 400,000; they also suggest that the first wave was more lethal than is believed. Understanding and engaging with the data-based estimates is necessary because in this horrific tragedy the counting—and the attendant accountability—will count for now but also the future.
+Title: Three New Estimates of Indiaâ€™s All-Cause Excess Mortality during the COVID-19 Pandemic
+Abstract: India lacks an authoritative estimate of the death toll from the COVID-19 pandemic. We report excess mortality estimates from three different data sources from the pandemicâ€™s start through June 2021. First, extrapolation of state-level civil registration from seven states suggests 3.4 million excess deaths. Second, applying international estimates of age-specific infection fatality rates (IFR) to Indian seroprevalence data implies a higher toll of around 4 million. Third, our analysis of the Consumer Pyramid Household Survey, a longitudinal panel of over 800,000 individuals across all states, yields an estimate of 4.9 million excess deaths. Each of these estimates has shortcomings and they also diverge in the pattern of deaths between the two waves of the pandemic. Estimating COVID-deaths with statistical confidence may prove elusive. But all estimates suggest that the death toll from the pandemic is likely to be an order of magnitude greater than the official count of 400,000; they also suggest that the first wave was more lethal than is believed. Understanding and engaging with the data-based estimates is necessary because in this horrific tragedy the countingâ€”and the attendant accountabilityâ€”will count for now but also the future.
 Length: 30 pages
 Creation-Date: 2021-07-20
 File-URL: https://www.cgdev.org/publication/three-new-estimates-indias-all-cause-excess-mortality-during-covid-19-pandemic?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/three-new-estimates-indias-all-cause-excess-mortality-during-covid-19-pandemic.pdf
+File-Format: application/pdf
 Number: 589
 Handle: RePEc:cgd:wpaper:589

@@ -1,66 +1,69 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Anthony McDonnell
-Author-X-Name-First: Anthony
-Author-X-Name-Last: McDonnell
+Author-Name-First: Anthony
+Author-Name-Last: McDonnell
 Author-Workplace-Name: Center for Global Development
 Author-Name: Robert Van Exan
-Author-X-Name-First: Robert
-Author-X-Name-Middle: Van
-Author-X-Name-Last: Exan
+Author-Name-First: Robert
+Author-Name-Middle: Van
+Author-Name-Last: Exan
 Author-Workplace-Name: Immunization Policy and Knowledge Translation
 Author-Name: Steve Lloyd
-Author-X-Name-First: Steve
-Author-X-Name-Last: Lloyd
+Author-Name-First: Steve
+Author-Name-Last: Lloyd
 Author-Workplace-Name: Queen Mary University of London
 Author-Name: Laura Subramanian
-Author-X-Name-First: Laura
-Author-X-Name-Last: Subramanian
+Author-Name-First: Laura
+Author-Name-Last: Subramanian
 Author-Workplace-Name: Ariadne Labs
 Author-Name: Kalipso Chalkidou
-Author-X-Name-First: Kalipso
-Author-X-Name-Last: Chalkidou
+Author-Name-First: Kalipso
+Author-Name-Last: Chalkidou
 Author-Workplace-Name: Center for Global Development
 Author-Name: Adrian La Porta
-Author-X-Name-First: Adrian
-Author-X-Name-Last: La Porta
+Author-Name-First: Adrian
+Author-Name-Last: La Porta
 Author-Workplace-Name: Bryden Wood
 Author-Name: Jiabin Li
-Author-X-Name-First: Jiabin
-Author-X-Name-Last: Li
+Author-Name-First: Jiabin
+Author-Name-Last: Li
 Author-Workplace-Name: Bryden Wood
 Author-Name: Eddine Maiza
-Author-X-Name-First: Eddine
-Author-X-Name-Last: Maiza
+Author-Name-First: Eddine
+Author-Name-Last: Maiza
 Author-Workplace-Name: Independent
 Author-Name: David Reader
-Author-X-Name-First: David
-Author-X-Name-Last: Reader
+Author-Name-First: David
+Author-Name-Last: Reader
 Author-Workplace-Name: Bryden Wood
 Author-Name: Julie Rosenberg
-Author-X-Name-First: Julie
-Author-X-Name-Last: Rosenberg
+Author-Name-First: Julie
+Author-Name-Last: Rosenberg
 Author-Workplace-Name: Ariadne Labs
 Author-Name: Jack Scannell
-Author-X-Name-First: Jack
-Author-X-Name-Last: Scannell
+Author-Name-First: Jack
+Author-Name-Last: Scannell
 Author-Workplace-Name: University of Edinburgh
 Author-Name: Vaughan Thomas
-Author-X-Name-First: Vaughan
-Author-X-Name-Last: Thomas
+Author-Name-First: Vaughan
+Author-Name-Last: Thomas
 Author-Workplace-Name: Tillingbourne Consulting and University College London
 Author-Name: Rebecca Weintraub
-Author-X-Name-First: Rebecca
-Author-X-Name-Last: Weintraub
+Author-Name-First: Rebecca
+Author-Name-Last: Weintraub
 Author-Workplace-Name: Ariadne Labs
 Author-Name: Prashant Yadav
-Author-X-Name-First: Prashant
-Author-X-Name-Last: Yadav
+Author-Name-First: Prashant
+Author-Name-Last: Yadav
 Author-Workplace-Name: Center for Global Development
 Author-Workplace-Name: INSEAD
 Title: COVID-19 Vaccine Predictions: Using Mathematical Modelling and Expert Opinions to Estimate Timelines and Probabilities of Success of COVID-19 Vaccines
-Abstract: We collected publicly available information, interviewed experts, and used our diverse range of expertise to analyse and model the COVID-19 vaccine portfolio. There is significant uncertainty surrounding the development, approval and manufacturing of COVID-19 vaccines. We find that the chances of developing a safe and efficacious vaccine are high but it will not occur in the immediate future, and it is unlikely to be the silver bullet that resolves the pandemic and returns our world to normal. Using inputs generated from expert interviews, our modelling suggests that there is a 50 percent chance that by the end of April 2021 there will be a vaccine safe and efficacious enough to win approval from a stringent regulator; by the end of 2021, this rises to 85 percent. Inputs more optimistic or pessimistic than those we gained through expert interviews lead to very different results. We also modelled how long it would take to manufacture COVID-19 vaccines once they are approved. Our modelling suggests that it will probably take more than a year to produce enough vaccines to inoculate the world�s 50 million medical staff, and that it could be September 2023 before we have enough doses for the whole world. It is not clear that these early vaccines will be efficacious enough to end the COVID-19 crisis. The vast majority of experts we spoke with predict that first-generation vaccines will not be effective enough to end the pandemic on their own, and that it will take longer to develop vaccines that fully prevent infection. This means that the world must be prepared to commit to other public health measures to control the spread of the virus for years, and should invest in a wider, more diversified portfolio of vaccines through better international collaboration and market incentives, as well as focus on diagnostics and treatments. All this while carefully managing the collateral damage from the ongoing policy response.
+Abstract: We collected publicly available information, interviewed experts, and used our diverse range of expertise to analyse and model the COVID-19 vaccine portfolio. There is significant uncertainty surrounding the development, approval and manufacturing of COVID-19 vaccines. We find that the chances of developing a safe and efficacious vaccine are high but it will not occur in the immediate future, and it is unlikely to be the silver bullet that resolves the pandemic and returns our world to normal. Using inputs generated from expert interviews, our modelling suggests that there is a 50 percent chance that by the end of April 2021 there will be a vaccine safe and efficacious enough to win approval from a stringent regulator; by the end of 2021, this rises to 85 percent. Inputs more optimistic or pessimistic than those we gained through expert interviews lead to very different results. We also modelled how long it would take to manufacture COVID-19 vaccines once they are approved. Our modelling suggests that it will probably take more than a year to produce enough vaccines to inoculate the world’s 50 million medical staff, and that it could be September 2023 before we have enough doses for the whole world. It is not clear that these early vaccines will be efficacious enough to end the COVID-19 crisis. The vast majority of experts we spoke with predict that first-generation vaccines will not be effective enough to end the pandemic on their own, and that it will take longer to develop vaccines that fully prevent infection. This means that the world must be prepared to commit to other public health measures to control the spread of the virus for years, and should invest in a wider, more diversified portfolio of vaccines through better international collaboration and market incentives, as well as focus on diagnostics and treatments. All this while carefully managing the collateral damage from the ongoing policy response.
 Length: 92 pages
 Creation-Date: 2020-10-01
 File-URL: https://www.cgdev.org/publication/covid-19-vaccine-predictions?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/COVID-19-Vaccine-Predictions-Full.pdf
+File-Format: application/pdf
 Number: 183
 Handle: RePEc:cgd:ppaper:183

@@ -1,14 +1,15 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Jere R. Behrman
-Author-X-Name-First: Jere
-Author-X-Name-Last: Behrman
+Author-Name-First: Jere
+Author-Name-Last: Behrman
 Author-Name: Nancy Birdsall
-Author-X-Name-First: Nancy
-Author-X-Name-Last: Birdsall
+Author-Name-First: Nancy
+Author-Name-Last: Birdsall
 Author-Email: nbirdsall@cgdev.org
+Author-Person: pbi249
 Author-Name: Gunilla Pettersson
-Author-X-Name-First: Gunilla
-Author-X-Name-Last: Pettersson
+Author-Name-First: Gunilla
+Author-Name-Last: Pettersson
 Title: Schooling Inequality, Crises, and Financial Liberalization in Latin America
 Abstract: Latin America is characterized by high and persistent schooling, land, and income
 inequalities and extreme income concentration. In a highly unequal setting,
@@ -16,8 +17,8 @@ powerful interests are more likely to dominate politics, pushing for policies th
 protect privileges rather than foster competition and growth. As a result, changes in
 policies that political elites resist may be postponed in high-inequality countries to
 the detriment of overall economic performance.
-This paper examines the relationship between structural, high inequality—measured
-by high levels of schooling inequality—and liberalization of the financial sector for a
+This paper examines the relationship between structural, high inequalityâ€”measured
+by high levels of schooling inequalityâ€”and liberalization of the financial sector for a
 sample of 37 developing and developed countries for the period 1975 to 2000.
 Liberalization of the financial sector can be broadly thought of in the Latin
 American pre-2000 context as opening credit markets that earlier were largely
@@ -27,10 +28,12 @@ used in this context. In our sample, we find that increases in financial liberal
 were associated with bank crises and other domestic and external shocks, and that
 higher schooling inequality reduces the impetus for liberalization brought on by
 bank crises.
-Length:  25 pages
-Creation-Date:  2009-03
-File-URL: http://www.cgdev.org/content/publications/detail/1421333
+Length: 25 pages
+Creation-Date: 2009-03
+File-URL: https://www.cgdev.org/publication/schooling-inequality-crises-and-financial-liberalization-latin-america-working-paper-165?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1421333_file_BehrmanBirdsallPettersson_FINAL.pdf
+File-Format: application/pdf
 Number: 165
-Classification-JEL: 
 Keywords: Latin America, education, inequality, financial liberalization
 Handle: RePEc:cgd:wpaper:165

@@ -1,28 +1,31 @@
-Template-Type: ReDIF-Paper 1.0
+ÔªøTemplate-Type: ReDIF-Paper 1.0
 Author-Name: Benedict Clements
-Author-X-Name-First: Benedict
-Author-X-Name-Last: Clements
+Author-Name-First: Benedict
+Author-Name-Last: Clements
 Author-Workplace-Name: Universidad de Las Americas
 Author-Name: Sanjeev Gupta
-Author-X-Name-First: Sanjeev
-Author-X-Name-Last: Gupta
+Author-Name-First: Sanjeev
+Author-Name-Last: Gupta
 Author-Workplace-Name: Center for Global Development
-Author-Name: Jo„o Tovar Jalles
-Author-X-Name-First: Jo„o
-Author-X-Name-Middle: Tovar
-Author-X-Name-Last: Jalles
+Author-Name: Jo√£o Tovar Jalles
+Author-Name-First: Jo√£o
+Author-Name-Middle: Tovar
+Author-Name-Last: Jalles
 Author-Workplace-Name: University of Lisbon-Lisbon School of Economics and Management
 Author-Person: pja203
 Author-Name: Victor Mylonas
-Author-X-Name-First: Victor
-Author-X-Name-Last: Mylonas
+Author-Name-First: Victor
+Author-Name-Last: Mylonas
 Author-Workplace-Name: University of Chicago
 Author-Person: pmy47
 Title: Why Do Governments Cut Their Deficits? Lessons for High-Debt Countries in a Post-Pandemic World
-Abstract: We construct a novel database covering more than 450 fiscal consolidation episodes in 185 countries during the period 1979-2019. Using discrete choice models, we then examine the (broader macroeconomic and political) factors motivating these fiscal consolidation episodes. In emerging and developing countries, consolidations are more likely during ìgood timesî: when growth is high, and countries experience positive terms of trade shocks with low inflation. In these countries, governments that have been in power longer, with a high margin of majority, are also more likely to consolidate fiscal accounts. The opposite seems to be the case in advanced economies, where new governments are more likely to implement fiscal consolidations and the consolidations themselves are more likely during ìbad times.î Evidence also suggests that tax-based consolidations may be relatively more politically challenging to implement. Finally, consolidations in advanced economies  are relatively more likely to take place in the presence of fiscal rules.
+Abstract: We construct a novel database covering more than 450 fiscal consolidation episodes in 185 countries during the period 1979-2019. Using discrete choice models, we then examine the (broader macroeconomic and political) factors motivating these fiscal consolidation episodes. In emerging and developing countries, consolidations are more likely during ‚Äúgood times‚Äù: when growth is high, and countries experience positive terms of trade shocks with low inflation. In these countries, governments that have been in power longer, with a high margin of majority, are also more likely to consolidate fiscal accounts. The opposite seems to be the case in advanced economies, where new governments are more likely to implement fiscal consolidations and the consolidations themselves are more likely during ‚Äúbad times.‚Äù Evidence also suggests that tax-based consolidations may be relatively more politically challenging to implement. Finally, consolidations in advanced economies  are relatively more likely to take place in the presence of fiscal rules.
 Length: 42 pages
 Creation-Date: 2022-10-31
 File-URL: https://www.cgdev.org/publication/why-do-governments-cut-their-deficits-lessons-high-debt-countries-post-pandemic-world?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/why-do-governments-cut-their-deficits-lessons-high-debt-countries-post-pandemic-world.pdf
+File-Format: application/pdf
 Classification-JEL: C23, E21, E62, H5, H62
 Keywords: fiscal consolidations, filtering, panel data, binary choice models, political economy
 Number: 625

@@ -1,10 +1,10 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Oeindrila Dube
-Author-X-Name-First: Oeindrila
-Author-X-Name-Last: Dube
+Author-Name-First: Oeindrila
+Author-Name-Last: Dube
 Author-Name: Suresh Naidu
-Author-X-Name-First: Suresh
-Author-X-Name-Last: Naidu
+Author-Name-First: Suresh
+Author-Name-Last: Naidu
 Title: Bases, Bullets, and Ballots: The Effect of U.S. Military Aid on Political Conflict in Colombia
 Abstract: Does foreign military assistance strengthen or further weaken fragile states facing internal confict? We address
 this question by estimating how U.S. military aid affects violence and electoral participation in Colombia.
@@ -17,10 +17,12 @@ are politically contested.
 Our results are robust to an instrument based on worldwide increases in U.S. military aid (excluding Latin
 America). The findings suggest that foreign military assistance may strengthen armed non-state actors,
 undermining domestic political institutions.
-Length:  47 pages
-Creation-Date:  2010-01
-File-URL: http://www.cgdev.org/content/publications/detail/1423498
+Length: 47 pages
+Creation-Date: 2010-01
+File-URL: https://www.cgdev.org/publication/bases-bullets-and-ballots-effect-us-military-aid-political-conflict-colombia-working?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1423498_file_Dube_Naidu_Military_Aid_FINAL.pdf
+File-Format: application/pdf
 Number: 197
-Classification-JEL: 
-Keywords: military aid; conflict; democracy; elections
+Keywords: military aid, conflict, democracy, elections
 Handle: RePEc:cgd:wpaper:197

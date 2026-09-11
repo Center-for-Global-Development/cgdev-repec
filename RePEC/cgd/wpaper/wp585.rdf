@@ -1,32 +1,35 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Girija Bahety
-Author-X-Name-First: Girija
-Author-X-Name-Last: Bahety
+Author-Name-First: Girija
+Author-Name-Last: Bahety
 Author-Workplace-Name: Tufts University, Department of Economics and the Fletcher School of Law and Diplomacy
 Author-Email: girija.bahety@tufts.edu
 Author-Name: Sebastian Bauhoff
-Author-X-Name-First: Sebastian
-Author-X-Name-Last: Bauhoff
+Author-Name-First: Sebastian
+Author-Name-Last: Bauhoff
 Author-Workplace-Name: Harvard TH Chan School of Public Health and Center for Global Development
 Author-Email: sbauhoff@hsph.harvard.edu
 Author-Person: pba1557
 Author-Name: Dev Patel
-Author-X-Name-First: Dev
-Author-X-Name-Last: Patel
+Author-Name-First: Dev
+Author-Name-Last: Patel
 Author-Workplace-Name: Harvard University, Department of Economics
 Author-Email: devpatel@fas.harvard.edu
 Author-Person: ppa1453
 Author-Name: James Potter
-Author-X-Name-First: James
-Author-X-Name-Last: Potter
+Author-Name-First: James
+Author-Name-Last: Potter
 Author-Workplace-Name: Harvard School of Public Health
 Author-Email: jpotter@g.harvard.edu
-Title: Texts Don’t Nudge: An Adaptive Trial to Prevent the Spread of COVID-19 in India
-Abstract: We conduct an adaptive randomized controlled trial to evaluate the impact of a SMS-based information campaign on the adoption of social distancing and handwashing in rural Bihar, India, six months into the COVID-19 pandemic. We test 10 arms that vary in delivery timing and message framing, changing content to highlight gains or losses for either one’s own family or community. We identify the optimal treatment separately for each targeted behavior by adaptively allocating shares across arms over 10 experimental rounds using exploration sampling (Kasy and Sautmann, 2021). Based on phone surveys with nearly 4,000 households and using several elicitation methods, we do not find evidence of impact on knowledge or adoption of preventive health behavior, and our confidence intervals cannot rule out positive effects as large as 5.5 percentage points, or 16 percent. Our results suggest that SMS-based information campaigns may have limited efficacy after the initial phase of a pandemic.
+Title: Texts Donâ€™t Nudge: An Adaptive Trial to Prevent the Spread of COVID-19 in India
+Abstract: We conduct an adaptive randomized controlled trial to evaluate the impact of a SMS-based information campaign on the adoption of social distancing and handwashing in rural Bihar, India, six months into the COVID-19 pandemic. We test 10 arms that vary in delivery timing and message framing, changing content to highlight gains or losses for either oneâ€™s own family or community. We identify the optimal treatment separately for each targeted behavior by adaptively allocating shares across arms over 10 experimental rounds using exploration sampling (Kasy and Sautmann, 2021). Based on phone surveys with nearly 4,000 households and using several elicitation methods, we do not find evidence of impact on knowledge or adoption of preventive health behavior, and our confidence intervals cannot rule out positive effects as large as 5.5 percentage points, or 16 percent. Our results suggest that SMS-based information campaigns may have limited efficacy after the initial phase of a pandemic.
 Length: 36 pages
 Creation-Date: 2021-06-08
 File-URL: https://www.cgdev.org/publication/texts-dont-nudge-adaptive-trial-prevent-spread-covid-19-india?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/Texts-dont-nudge-adaptive-trial-prevent-spread-COVID-19-India.pdf
+File-Format: application/pdf
 Classification-JEL: D8, D83, D91, I1, I12, I15, O1
-Keywords: Information and communication; health behaviors; adaptive trial; COVID-19; SMS; India
+Keywords: Information and communication, health behaviors, adaptive trial, COVID-19, SMS, India
 Number: 585
 Handle: RePEc:cgd:wpaper:585

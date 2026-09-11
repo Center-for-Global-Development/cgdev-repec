@@ -1,30 +1,30 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Gautam Anand
-Author-X-Name-First: Gautam
-Author-X-Name-Last: Anand
+Author-Name-First: Gautam
+Author-Name-Last: Anand
 Author-Workplace-Name: Global School Leaders
 Author-Email: gautam@globalschoolleaders.org
 Author-Name: Aishwarya Atluri
-Author-X-Name-First: Aishwarya
-Author-X-Name-Last: Atluri
+Author-Name-First: Aishwarya
+Author-Name-Last: Atluri
 Author-Workplace-Name: J-PAL South Asia
 Author-Email: aishwarya.atluri@ifmr.ac.in
 Author-Name: Lee Crawfurd
-Author-X-Name-First: Lee
-Author-X-Name-Last: Crawfurd
+Author-Name-First: Lee
+Author-Name-Last: Crawfurd
 Author-Workplace-Name: Center for Global Development
 Author-Email: lcrawfurd@cgdev.org
 Author-Person: pcr198
 Author-Name: Todd Pugatch
-Author-X-Name-First: Todd
-Author-X-Name-Last: Pugatch
+Author-Name-First: Todd
+Author-Name-Last: Pugatch
 Author-Workplace-Name: Oregon State University
 Author-Workplace-Name: IZA
 Author-Email: todd.pugatch@oregonstate.edu
 Author-Person: ppu75
 Author-Name: Ketki Sheth
-Author-X-Name-First: Ketki
-Author-X-Name-Last: Sheth
+Author-Name-First: Ketki
+Author-Name-Last: Sheth
 Author-Workplace-Name: University of Tennessee
 Author-Email: shethketki@gmail.com
 Title: Improving School Management in Low- and Middle-Income Countries: A Systematic Review
@@ -32,7 +32,10 @@ Abstract: Improving school quality in low- and middle-income countries (LMICs) i
 Length: 62 pages
 Creation-Date: 2023-06-28
 File-URL: https://www.cgdev.org/publication/improving-school-management-low-and-middle-income-countries-systematic-review?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/improving-school-management-low-and-middle-income-countries-systematic-review.pdf
+File-Format: application/pdf
 Classification-JEL: I21, I25, I28
-Keywords: school management; school principals; head teachers; systematic review; meta-analysis
+Keywords: school management, school principals, head teachers, systematic review, meta-analysis
 Number: 648
 Handle: RePEc:cgd:wpaper:648

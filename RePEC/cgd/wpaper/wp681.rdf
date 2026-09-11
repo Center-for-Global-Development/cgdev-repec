@@ -1,8 +1,8 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Philip Kofi Adom
-Author-X-Name-First: Philip
-Author-X-Name-Middle: Kofi
-Author-X-Name-Last: Adom
+Author-Name-First: Philip
+Author-Name-Middle: Kofi
+Author-Name-Last: Adom
 Author-Workplace-Name: School of Economics and Finance, University of Witwatersrand, Johannesburg, South Africa
 Author-Email: adomonline@yahoo.co.uk
 Author-Email: philip.adom@wits.ac.za
@@ -12,5 +12,8 @@ Abstract: This paper provides a discussion of future trends as established in th
 Length: 67 pages
 Creation-Date: 2024-02-15
 File-URL: https://www.cgdev.org/publication/socioeconomic-impact-climate-change-developing-countries-next-decades?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/socioeconomic-impact-climate-change-developing-countries-next-decades.pdf
+File-Format: application/pdf
 Number: 681
 Handle: RePEc:cgd:wpaper:681

@@ -1,36 +1,39 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Felipe A. Dunsch
-Author-X-Name-First: Felipe
-Author-X-Name-Middle: A.
-Author-X-Name-Last: Dunsch
+Author-Name-First: Felipe
+Author-Name-Middle: A.
+Author-Name-Last: Dunsch
 Author-Workplace-Name: World Bank
 Author-Workplace-Name: University of Hamburg
 Author-Person: pdu456
 Author-Name: David K. Evans
-Author-X-Name-First: David
-Author-X-Name-Middle: K.
-Author-X-Name-Last: Evans
+Author-Name-First: David
+Author-Name-Middle: K.
+Author-Name-Last: Evans
 Author-Workplace-Name: Center for Global Development
 Author-Email: devans@cgdev.org
 Author-Person: pev50
 Author-Name: Ezinne Eze-Ajoku
-Author-X-Name-First: Ezinne
-Author-X-Name-Last: Eze-Ajoku
+Author-Name-First: Ezinne
+Author-Name-Last: Eze-Ajoku
 Author-Workplace-Name: Johns Hopkins University
 Author-Name: Mario Macis
-Author-X-Name-First: Mario
-Author-X-Name-Last: Macis
+Author-Name-First: Mario
+Author-Name-Last: Macis
 Author-Workplace-Name: Johns Hopkins University
 Author-Workplace-Name: IZA
 Author-Workplace-Name: NBER
 Author-Email: mmacis@jhu.edu
 Author-Person: pma869
 Title: Management, Supervision, and Healthcare: A Field Experiment
-Abstract: We used a randomized management consulting intervention with 80 public-sector healthcare facilities in Nigeria to study the role of information, training, and supervision on the adoption of improved organizational practices. Facilities that received detailed improvement plans and nine months of implementation support—including regular visits to monitor progress and set intermediate goals related to the plans—showed large, significant short-term effects on the adoption of practices that were under the responsibility of facility staff. Facilities that received general improvement advice but no implementation support showed no change in practices. Implementation support appears crucial for improvements, especially in contexts without market incentives for the adoption of effective managerial practices.
+Abstract: We used a randomized management consulting intervention with 80 public-sector healthcare facilities in Nigeria to study the role of information, training, and supervision on the adoption of improved organizational practices. Facilities that received detailed improvement plans and nine months of implementation supportâ€”including regular visits to monitor progress and set intermediate goals related to the plansâ€”showed large, significant short-term effects on the adoption of practices that were under the responsibility of facility staff. Facilities that received general improvement advice but no implementation support showed no change in practices. Implementation support appears crucial for improvements, especially in contexts without market incentives for the adoption of effective managerial practices.
 Length: 75 pages
 Creation-Date: 2021-04-14
 File-URL: https://www.cgdev.org/publication/management-supervision-and-healthcare-field-experiment?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/WP578-Evans-Nigeria-healthcare-management-training.pdf
+File-Format: application/pdf
 Classification-JEL: I15, M10, O15
-Keywords: Management, Healthcare, Organizational practices, Supervision, Economic development, Field experiments.
+Keywords: Management, Healthcare, Organizational practices, Supervision, Economic development, Field experiments
 Number: 578
 Handle: RePEc:cgd:wpaper:578

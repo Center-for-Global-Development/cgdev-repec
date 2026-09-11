@@ -1,31 +1,34 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Jenny C. Aker
-Author-X-Name-First: Jenny
-Author-X-Name-Middle: C.
-Author-X-Name-Last: Aker
+Author-Name-First: Jenny
+Author-Name-Middle: C.
+Author-Name-Last: Aker
 Author-Workplace-Name: Cornell University
 Author-Workplace-Name: Center for Global Development
 Author-Email: jca253@cornell.edu
 Author-Name: Brian Dillon
-Author-X-Name-First: Brian
-Author-X-Name-Last: Dillon
+Author-Name-First: Brian
+Author-Name-Last: Dillon
 Author-Workplace-Name: Cornell University
 Author-Email: bmd28@cornell.edu
-Author-Name: Leticia Donoso-Peña
-Author-X-Name-First: Leticia
-Author-X-Name-Last: Donoso-Peña
+Author-Name: Leticia Donoso-PeÃ±a
+Author-Name-First: Leticia
+Author-Name-Last: Donoso-PeÃ±a
 Author-Workplace-Name: Tufts University
 Author-Email: Leticia.Donoso_Pena@tufts.edu
 Author-Name: Anne Krahn
-Author-X-Name-First: Anne
-Author-X-Name-Last: Krahn
+Author-Name-First: Anne
+Author-Name-Last: Krahn
 Author-Workplace-Name: Tufts University
 Author-Email: Anne.Krahn@tufts.edu
-Title: It’s All Fun and Games? The Persistent Treatment Effects of Willingness-to-Pay Experiments
+Title: Itâ€™s All Fun and Games? The Persistent Treatment Effects of Willingness-to-Pay Experiments
 Abstract: Willingness-to-pay (WTP) experiments have been widely used to assess demand for a variety of products. Do they also generate persistent treatment effects? We answer this question using a randomized controlled trial of a baseline WTP experiment, combined with in-person and phone survey data over a four-year period. We find that a simple experiment leads to positive and persistent effects on adoption and usage of an improved storage technology, as well as disadoption of traditional technologies. These results are primarily driven by households who experienced the product, rather than information or salience. Failing to account for demand elicitation experiments conducted at baseline may affect the external validity of the broader experiments in which they are embedded.
 Length: 32 pages
 Creation-Date: 2025-02-05
 File-URL: https://www.cgdev.org/publication/its-all-fun-and-games-persistent-treatment-effects-willingness-pay-experiments?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/persistent-treatment-effects-willingness-pay-experiments.pdf
+File-Format: application/pdf
 Classification-JEL: O12, O13, C93, D44
 Keywords: Willingness to pay, Becker-DeGroot-Marschak, Field Experiment, persistent treatment effects, agriculture
 Number: 714

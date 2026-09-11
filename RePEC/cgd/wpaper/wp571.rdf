@@ -1,26 +1,29 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Nazarius Mbona Tumwesigye
-Author-X-Name-First: Nazarius
-Author-X-Name-Middle: Mbona
-Author-X-Name-Last: Tumwesigye
+Author-Name-First: Nazarius
+Author-Name-Middle: Mbona
+Author-Name-Last: Tumwesigye
 Author-Workplace-Name: Makerere University School of Public Health, Uganda
 Author-Name: Okethwangu Denis
-Author-X-Name-First: Okethwangu
-Author-X-Name-Last: Denis
+Author-Name-First: Okethwangu
+Author-Name-Last: Denis
 Author-Workplace-Name: Makerere University School of Public Health, Uganda
 Author-Name: Mary Kaakyo
-Author-X-Name-First: Mary
-Author-X-Name-Last: Kaakyo
+Author-Name-First: Mary
+Author-Name-Last: Kaakyo
 Author-Workplace-Name: Makerere University School of Public Health, Uganda
 Author-Name: Claire Biribawa
-Author-X-Name-First: Claire
-Author-X-Name-Last: Biribawa
+Author-Name-First: Claire
+Author-Name-Last: Biribawa
 Author-Workplace-Name: Makerere University School of Public Health, Uganda
 Title: Effects of the COVID-19 Pandemic on Health Services and Mitigation Measures in Uganda
 Abstract: On 21st March 2020, Uganda reported its first COVID-19 case. The government responded by instituting a lockdown and other measures. We assess the effects of the COVID-19 containment measures on health services to better inform the next preventive measures. We use a case study approach that involved document reviews and secondary analysis of data on attendance of key health services and mortality for the years 2019 and 2020. The services included outpatient department (OPD), antenatal care (ANC), malaria, immunization, TB, and hypertension. Interrupted time series analysis was applied to test the significance of difference between pre-and postintervention. We find that from March to April 2020, attendance to health services reduced and then rose in June or July. Notable reduction was in general OPD (17%), malaria-OPD (7%), ANC (8%), immunization (10%), hypertension (17%), and diabetes (10%). Institutional mortality reduced in same period. The intervention significantly affected the level and trends of malaria-OPD and immunization. We conclude that the lockdown reduced access to health services while institutional mortality fell due to reduced number of patients. There is need to emphasize other mitigation measures rather than lockdowns.
-Length:  26 pages
+Length: 26 pages
 Creation-Date: 2021-03-30
 File-URL: https://www.cgdev.org/publication/effects-covid-19-pandemic-health-services-and-mitigation-measures-uganda-descriptive?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/WP571-Effects-of-COVID-19-Pandemic-and-mitigation-measures-in-Uganda.pdf
+File-Format: application/pdf
 Classification-JEL: I18
 Number: 571
-Handle: RePEc:cgd:wpaper: 571
+Handle: RePEc:cgd:wpaper:571

@@ -1,16 +1,16 @@
-Template-Type: ReDIF-Paper 1.0
+ÔªøTemplate-Type: ReDIF-Paper 1.0
 Author-Name: Alan Gelb
-Author-X-Name-First: Alan
-Author-X-Name-Last: Gelb
+Author-Name-First: Alan
+Author-Name-Last: Gelb
 Author-Name: Taye Mengistae
-Author-X-Name-First: Taye
-Author-X-Name-Last: Mengistae
+Author-Name-First: Taye
+Author-Name-Last: Mengistae
 Author-Name: Vijaya Ramachandran
-Author-X-Name-First: Vijaya
-Author-X-Name-Last: Ramachandran
+Author-Name-First: Vijaya
+Author-Name-Last: Ramachandran
 Author-Name: Manju Kedia Shah
-Author-X-Name-First: Manju Kedia
-Author-X-Name-Last: Shah
+Author-Name-First: Manju Kedia
+Author-Name-Last: Shah
 Title: To Formalize or Not to Formalize? Comparisons of Microenterprise Data from Southern and East Africa
 Abstract: Why do firms choose to locate in the informal sector? Researchers often argue that
 the high cost of regulation prevents informal firms from becoming formal and
@@ -20,12 +20,12 @@ Kenya, Uganda, Tanzania, and Rwanda, we find that the labor productivity of
 informal firms is virtually indistinguishable from that of formal firms in East Africa, but
 very different in Southern Africa. We provide a theoretical model to explain this
 result, based on the key assumption that firms may evade taxes subject to a cost (or
-concealment cost) that is increasing and convex in the firmís employment size.
+concealment cost) that is increasing and convex in the firm‚Äôs employment size.
 Consequently, the productivity distributions reflect the differences in concealment
 costs and the opportunity cost of formality. Greater enforcement of laws and better
 provision of services such as finance and electricity to formally registered firms in
 Southern Africa means that firms are more likely to register; those that do not are
-likely to be operating as ìsurvivalistî firms. But in East Africa, weak enforcement of
+likely to be operating as ‚Äúsurvivalist‚Äù firms. But in East Africa, weak enforcement of
 tax payment and no significant difference in access to services between formal and
 informal firms means that these variables do not explain the allocation of firms
 across the informal-formal divide.
@@ -36,10 +36,12 @@ But in countries with strong business environments such as those in Southern Afr
 owners of informal firms are likely to be better off entering the labor market as wage
 labor. In the latter case, investment in education or vocational training is probably
 more important.
-Length:  38 pages
-Creation-Date:  2009-07
-File-URL: http://www.cgdev.org/content/publications/detail/1422458
+Length: 38 pages
+Creation-Date: 2009-07
+File-URL: https://www.cgdev.org/publication/formalize-or-not-formalize-comparisons-microenterprise-data-southern-and-east-africa?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1422458_file_Ramachandran_Informal_Firms_FINAL_0.pdf
+File-Format: application/pdf
 Number: 175
-Classification-JEL: 
-Keywords: microenterprise; informal sector; Southern Africa; East Africa; formalization; regulations
+Keywords: microenterprise, informal sector, Southern Africa, East Africa, formalization, regulations
 Handle: RePEc:cgd:wpaper:175

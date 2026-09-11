@@ -1,17 +1,20 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Caitlin Brown
-Author-X-Name-First: Caitlin
-Author-X-Name-Last: Brown
+Author-Name-First: Caitlin
+Author-Name-Last: Brown
 Author-Workplace-Name: Central European University
 Author-Name: Dominique van de Walle
-Author-X-Name-First: Dominique
-Author-X-Name-Last: van de Walle
+Author-Name-First: Dominique
+Author-Name-Last: van de Walle
 Author-Workplace-Name: Center for Global Development
 Title: Headship and Poverty in Africa
 Abstract: With a little more care to take context and the confounding attributes that make female-headed households (FHHs) particularly prone to poverty into account, this paper argues that headship can be useful for identifying poor households in Africa. Standard welfare comparisons between FHHs and male-headed households (MHHs) have largely ignored two confounding factors: marital status (affecting access to markets and services) and heterogeneity in household demographics (with bearing on economies of scale in consumption). Both influence welfare and are correlated with gender of headship. As judged by the usual per capita welfare measures, FHHs, on average, have lower poverty rates than MHHs in Africa. However, even a modest adjustment for economies of scale in consumption changes the poverty comparisons, with FHHs faring significantly worse overall in East, Central, and Southern Africa. Marital status also matters. The households of female heads are poorer than MHHs except when the female head is married. Taking the head’s marital status and the household’s demographics into account is critical to the association between female headship and welfare outcomes.
 Length: 44 pages
 Creation-Date: 2020-04-14
 File-URL: https://www.cgdev.org/publication/headship-and-poverty-africa?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/headship-poverty-africa.pdf
+File-Format: application/pdf
 Classification-JEL: I31, I32, J12, J16
 Keywords: Female-headed households, gender, poverty, economies of scale, Africa, marital status
 Number: 531

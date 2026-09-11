@@ -1,24 +1,25 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Michael Clemens
-Author-X-Name-First: Michael
-Author-X-Name-Last: Clemens
+Author-Name-First: Michael
+Author-Name-Last: Clemens
 Author-Email: mclemens@cgdev.org
+Author-Person: pcl20
 Author-Name: Claudio Montenegro
-Author-X-Name-First: Claudio
-Author-X-Name-Last: Montenegro
+Author-Name-First: Claudio
+Author-Name-Last: Montenegro
 Author-Name: Lant Pritchett
-Author-X-Name-First: Lant
-Author-X-Name-Last: Pritchett
-Title: The Place Premium: Wage Differences for Identical Workers across the U.S. Border 
+Author-Name-First: Lant
+Author-Name-Last: Pritchett
+Title: The Place Premium: Wage Differences for Identical Workers across the U.S. Border
 Abstract: We compare the wages of workers inside the United States to the wages of
-observably identical workers outside the United States—controlling for country of
+observably identical workers outside the United Statesâ€”controlling for country of
 birth, country of education, years of education, work experience, sex, and ruralurban
 residence. This is made possible by new and uniquely rich microdata on the
 wages of over two million individual formal-sector wage-earners in 43 countries. We
 then use five independent methods to correct these estimates for unobserved
 differences between the productivity of migrants and non-migrants, as well as for the
 wage effects of natural barriers to international movement in the absence of policy
-barriers. We also introduce a selection model to estimate how migrants’ wage gains
+barriers. We also introduce a selection model to estimate how migrantsâ€™ wage gains
 depend on their position in the distribution of unobserved wage determinants both at
 the origin and at the destination, as well as the relationship between these positions.
 For example, in the median wage gap country, a typical Bolivian-born, Bolivianeducated,
@@ -31,12 +32,15 @@ as high as 8.4 (for Nigeria). We document that (1) for many countries, the wage 
 caused by barriers to movement across international borders are among the largest
 known forms of wage discrimination; (2) these gaps represent one of the largest
 remaining price distortions in any global market; and (3) these gaps imply that imply
-allowing labor mobility can reduce a given household’s poverty to a much greater
+allowing labor mobility can reduce a given householdâ€™s poverty to a much greater
 degree than most known in situ antipoverty interventions.
-Length:  55 pages
-Creation-Date:  2008-07
-File-URL: http://www.cgdev.org/content/publications/detail/16352
+Length: 55 pages
+Creation-Date: 2008-07
+File-URL: https://www.cgdev.org/publication/place-premium-wage-differences-identical-workers-across-us-border-working-paper-148?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/16352_file_CMP_place_premium_148.pdf
+File-Format: application/pdf
 Number: 148
 Classification-JEL: F22, J61, J71, O15
-Keywords:  wage, migration, economic development
+Keywords: wage, migration, economic development
 Handle: RePEc:cgd:wpaper:148

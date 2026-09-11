@@ -1,22 +1,24 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Lant Pritchett, Marla Spivack
-Author-X-Name-First: Lant
-Author-X-Name-Last: Pritchett
-Author-X-Name-First: Marla
-Author-X-Name-Last: Spivack
+ÔªøTemplate-Type: ReDIF-Paper 1.0
+Author-Name: Lant Pritchett
+Author-Name-First: Lant
+Author-Name-Last: Pritchett
 Author-Email: lpritchett@cgdev.org
+Author-Name: Marla Spivack
+Author-Name-First: Marla
+Author-Name-Last: Spivack
 Author-Email: mspivack@cgdev.org
-Title: Estimating Income/Expenditure Differences across Populations: New Fun with Old Engel's Law-Working Paper 339
+Title: Estimating Income/Expenditure Differences across Populations: New Fun with Old Engel's Law
 Abstract: How much larger are the consumption possibilities of an urban US household with per capita expenditures of 1,000 US dollars per month than a rural Indonesian household with per capita expenditures of 1,000,000 Indonesian Rupiah per month? Consumers in different markets face widely different consumption possibilities and prices and hence the conversion of incomes or expenditures to truly comparable units of purchasing power is extremely difficult. We propose a simple supplement to existing purchasing power adjusted currency conversions.
- 
-The Pritchett-Spivack Ratio (PSR) estimates the differences in household per capita expenditure using a simple inversion of the Engelís law relationship between the share of food in consumption and total income/expenditures. Intuitively, we ask: ìHow much higher (as a ratio) would the expenditures of a household at 1,000,000 Indonesian Rupiah need to be along a given Engel relationship before they were predicted to have the same food share as a US household with consumption of 1,000 US dollars?î The striking empirical stability of Working-Lesser Engel coefficient estimates across time and space and widely available estimates of consumptions expenditures and hence food shares allow us to make two robust points using the PSR.
- 
-First, the consumption of the typical (median) household in a developing country would have to rise 5 to10 fold to reach that of a household at the poverty line in an OECD country. Second, even the ìrich of the poorîóthe 90th or 95th percentile in developing countriesóhave food shares substantially higher than the ìpoor of the rich.î
-Length:  45 pages
-Creation-Date:  2013-08
-File-URL: http://www.cgdev.org/sites/default/files/estimating-income-expenditure-differences-populations_wcvr_2.pdf
+The Pritchett-Spivack Ratio (PSR) estimates the differences in household per capita expenditure using a simple inversion of the Engel‚Äôs law relationship between the share of food in consumption and total income/expenditures. Intuitively, we ask: ‚ÄúHow much higher (as a ratio) would the expenditures of a household at 1,000,000 Indonesian Rupiah need to be along a given Engel relationship before they were predicted to have the same food share as a US household with consumption of 1,000 US dollars?‚Äù The striking empirical stability of Working-Lesser Engel coefficient estimates across time and space and widely available estimates of consumptions expenditures and hence food shares allow us to make two robust points using the PSR.
+First, the consumption of the typical (median) household in a developing country would have to rise 5 to10 fold to reach that of a household at the poverty line in an OECD country. Second, even the ‚Äúrich of the poor‚Äù‚Äîthe 90th or 95th percentile in developing countries‚Äîhave food shares substantially higher than the ‚Äúpoor of the rich.‚Äù
+Length: 45 pages
+Creation-Date: 2013-08
+File-URL: https://www.cgdev.org/publication/estimating-incomeexpenditure-differences-across-populations-new-fun-old-engel%E2%80%99s-law?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/estimating-income-expenditure-differences-populations_wcvr_2.pdf
+File-Format: application/pdf
 Number: 339
 Classification-JEL: O10, I32, D12, D31
-Keywords: Engel curve, material standard of living, international development, poverty assessment 
+Keywords: Engel curve, material standard of living, international development, poverty assessment
 income inequality
 Handle: RePEc:cgd:wpaper:339

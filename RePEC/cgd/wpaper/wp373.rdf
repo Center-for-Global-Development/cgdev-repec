@@ -1,8 +1,12 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Justin Sandefur and Amanda Glassman
-Author-X-Name-First: Justin		 			
-Author-X-Name-Last: Sandefur
-Title: The Political Economy of Bad Data: Evidence from African Survey & Administrative Studies- Working Paper 373
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Justin Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
+Author-Person: psa778
+Author-Name: Amanda Glassman
+Author-Name-First: Amanda
+Author-Name-Last: Glassman
+Title: The Political Economy of Bad Data: Evidence from African Survey & Administrative Statistics
 Abstract: Across multiple African countries, discrepancies between administrative data and independent household
 surveys suggest official statistics systematically exaggerate development progress. We provide evidence for two
 distinct explanations of these discrepancies. First, governments misreport to foreign donors, as in the case of a
@@ -10,12 +14,13 @@ results-based aid program rewarding reported vaccination rates. Second, national
 by frontline service providers, as in the case of primary education, where official enrollment numbers diverged from
 survey estimates after funding shifted from user fees to per pupil government grants. Both syndromes highlight the
 need for incentive compatibility between data systems and funding rules.
-
-
-Length:  28 pages
+Length: 28 pages
 Creation-Date: 2014-07
-File-URL: http://www.cgdev.org/publication/political-economy-bad-data-evidence-african-survey-administrative-statistics-working
+File-URL: https://www.cgdev.org/publication/political-economy-bad-data-evidence-african-survey-administrative-statistics-working?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/political-economy-bad-data.pdf
+File-Format: application/pdf
 Number: 373
-Classification-JEL:  C83, E31, I15, I25, I32
-Keywords:  Africa, national statistics systems, household surveys, administrative data, immunization, school enrollment, EMIS, HMIS
+Classification-JEL: C83, E31, I15, I25, I32
+Keywords: Africa, national statistics systems, household surveys, administrative data, immunization, school enrollment, EMIS, HMIS
 Handle: RePEc:cgd:wpaper:373

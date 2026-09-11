@@ -1,19 +1,19 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Meghana Ayyagari
-Author-X-Name-First: Meghana
-Author-X-Name-Last: Ayyagari
+Author-Name-First: Meghana
+Author-Name-Last: Ayyagari
 Author-Workplace-Name: School of Business, George Washington University
 Author-Email: ayyagari@gwu.edu
 Author-Person: pay26
 Author-Name: Asli Demirguc-Kunt
-Author-X-Name-First: Asli
-Author-X-Name-Last: Demirguc-Kunt
+Author-Name-First: Asli
+Author-Name-Last: Demirguc-Kunt
 Author-Workplace-Name: Center for Global Development
 Author-Email: Ademirguckunt@gmail.com
 Author-Person: pde226
 Author-Name: Vojislav Maksimovic
-Author-X-Name-First: Vojislav
-Author-X-Name-Last: Maksimovic
+Author-Name-First: Vojislav
+Author-Name-Last: Maksimovic
 Author-Workplace-Name: Robert H. Smith School of Business at the University of Maryland
 Author-Email: vmaksimovic@rhsmith.umd.edu
 Author-Person: pma549
@@ -22,6 +22,9 @@ Abstract: In this paper, we analyze micro panel data from over 70 countries over
 Length: 44 pages
 Creation-Date: 2024-04-04
 File-URL: https://www.cgdev.org/publication/corporate-inequality-role-competition-and-institutions?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/corporate-inequality-role-competition-and-institutions.pdf
+File-Format: application/pdf
 Classification-JEL: E22, L1
 Number: 690
 Handle: RePEc:cgd:wpaper:690

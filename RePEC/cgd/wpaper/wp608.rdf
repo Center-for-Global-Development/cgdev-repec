@@ -1,15 +1,15 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Alexis Le Nestour
-Author-X-Name-First: Alexis
-Author-X-Name-Last: Le Nestour
+Author-Name-First: Alexis
+Author-Name-Last: Le Nestour
 Author-Workplace-Name: UNICEF Office of Research (Innocenti)
 Author-Name: Laura Moscoviz
-Author-X-Name-First: Laura
-Author-X-Name-Last: Moscoviz
+Author-Name-First: Laura
+Author-Name-Last: Moscoviz
 Author-Workplace-Name: Center for Global Development
 Author-Name: Justin Sandefur
-Author-X-Name-First: Justin
-Author-X-Name-Last: Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
 Author-Workplace-Name: Center for Global Development
 Author-Person: psa778
 Title: The Long-Run Decline of Education Quality in the Developing World
@@ -18,6 +18,9 @@ Length: 55 pages
 Creation-Date: 2022-02-23
 Revision-Date: 2023-09-22
 File-URL: https://www.cgdev.org/publication/long-run-decline-education-quality-developing-world?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/long-run-decline-education.pdf
+File-Format: application/pdf
 Classification-JEL: I25, N37, O15
 Keywords: literacy, education quality, access to education
 Number: 608

@@ -1,13 +1,13 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Sebastian Bauhoff
-Author-X-Name-First: Sebastian
-Author-X-Name-Last: Bauhoff
+Author-Name-First: Sebastian
+Author-Name-Last: Bauhoff
 Author-Workplace-Name: Department of Global Health and Population, Harvard T.H. Chan School of Public Health
 Author-Email: sbauhoff@hsph.harvard.edu
 Author-Person: pba1557
 Author-Name: Eeshani Kandpal
-Author-X-Name-First: Eeshani
-Author-X-Name-Last: Kandpal
+Author-Name-First: Eeshani
+Author-Name-Last: Kandpal
 Author-Workplace-Name: Center for Global Development
 Author-Email: ekandpal@cgdev.org
 Author-Person: pka920
@@ -16,7 +16,10 @@ Abstract: A two-stage experiment disentangles the effect of various aspects of p
 Length: 82 pages
 Creation-Date: 2024-01-29
 File-URL: https://www.cgdev.org/publication/pay-performance-contracts-lab-and-real-world-evidence-nigeria?utm_source=repec&utm_medium=referral&utm_campaign=repec
-Classification-JEL: C93; I11; I15; J41; J45; M52; O15
-Keywords: Pay-for-performance; Health workers; Lab-in-the-field experiment
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/pay-performance-contracts-lab-and-real-world-evidence-nigeria.pdf
+File-Format: application/pdf
+Classification-JEL: C93, I11, I15, J41, J45, M52, O15
+Keywords: Pay-for-performance, Health workers, Lab-in-the-field experiment
 Number: 677
 Handle: RePEc:cgd:wpaper:677

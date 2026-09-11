@@ -1,24 +1,33 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: David Wheeler, Dan Hammer, and Robin Kraft
-Author-X-Name-First: David  			 			
-Author-X-Name-Last: Wheeler
-Title: FCPR–Forest Conservation Performance Rating for the Pan-Tropics - Working Paper 294
-Abstract: This note introduces and illustrates fCPR (Forest Conservation Performance Rating), a system of 
-color-coded ratings for tropical forest conservation performance that can be implemented for local 
-areas, countries, regions, and the entire pan-tropics. The ratings reward tropical forest conservation 
-in three dimensions: (1) exceeding expectations, given an area’s forest clearing history and 
-development status; (2) meeting or exceeding global REDD+ goals; and (3) achieving an immediate 
-reduction in forest clearing. We assign green ratings to areas that meet condition (2); yellow to 
-areas that meet (1) only; and red to countries that fail to meet either condition. We have developed 
-fCPR at the Center for Global Development (CGD), using monthly forest clearing indicators from 
-CGD’s FORMA (Forest Monitoring for Action). This first release rates the quarterly conservation 
-performance of 27 countries currently tracked by FORMA, as well as 242 of their states and 
-provinces that contain tropical forests. The 27 countries accounted for 94 percent of tropical forest 
-clearing during the period 2000–2005. Future releases will include additional countries as FORMA 
+ï»¿Template-Type: ReDIF-Paper 1.0
+Author-Name: David Wheeler
+Author-Name-First: David
+Author-Name-Last: Wheeler
+Author-Name: Dan Hammer
+Author-Name-First: Dan
+Author-Name-Last: Hammer
+Author-Name: Robin Kraft
+Author-Name-First: Robin
+Author-Name-Last: Kraft
+Title: FCPRâ€“Forest Conservation Performance Rating for the Pan-Tropics
+Abstract: This note introduces and illustrates fCPR (Forest Conservation Performance Rating), a system of
+color-coded ratings for tropical forest conservation performance that can be implemented for local
+areas, countries, regions, and the entire pan-tropics. The ratings reward tropical forest conservation
+in three dimensions: (1) exceeding expectations, given an areaâ€™s forest clearing history and
+development status; (2) meeting or exceeding global REDD+ goals; and (3) achieving an immediate
+reduction in forest clearing. We assign green ratings to areas that meet condition (2); yellow to
+areas that meet (1) only; and red to countries that fail to meet either condition. We have developed
+fCPR at the Center for Global Development (CGD), using monthly forest clearing indicators from
+CGDâ€™s FORMA (Forest Monitoring for Action). This first release rates the quarterly conservation
+performance of 27 countries currently tracked by FORMA, as well as 242 of their states and
+provinces that contain tropical forests. The 27 countries accounted for 94 percent of tropical forest
+clearing during the period 2000â€“2005. Future releases will include additional countries as FORMA
 begins tracking them.
-Length:  21 pages
+Length: 21 pages
 Creation-Date: 2012-05
-File-URL: http://www.cgdev.org/files/1426160_file_ForestConservationPerformanceRating_FINAL.pdf
+File-URL: https://www.cgdev.org/publication/fcpr%E2%80%93forest-conservation-performance-rating-pan-tropics-working-paper-294?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1426160_file_ForestConservationPerformanceRating_FINAL_0.pdf
+File-Format: application/pdf
 Number: 294
 Classification-JEL: Q20, Q23, Q27
 Keywords: forests, conservation, satellite imagery

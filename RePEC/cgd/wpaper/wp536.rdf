@@ -1,39 +1,43 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Gaurav Khanna
-Author-X-Name-First: Gaurav
-Author-X-Name-Last: Khanna
+Author-Name-First: Gaurav
+Author-Name-Last: Khanna
 Author-Workplace-Name: University of California – San Diego
+Author-Workplace-Homepage: https://econgaurav.com
 Author-Email: gakhanna@ucsd.edu
-Author-Workplace-Homepage: econgaurav.com
+Author-Person: pkh511
 Author-Name: Kevin Shih
-Author-X-Name-First: Kevin
-Author-X-Name-Last: Shih
+Author-Name-First: Kevin
+Author-Name-Last: Shih
 Author-Workplace-Name: Queens College CUNY
-Author-Workplace-Homepage: kevinyshih.weebly.com
+Author-Workplace-Homepage: https://kevinyshih.weebly.com
 Author-Email: Kevin.Shih@qc.cuny.edu
 Author-Name: Ariel Weinberger
-Author-X-Name-First: Ariel
-Author-X-Name-Last: Weinberger
+Author-Name-First: Ariel
+Author-Name-Last: Weinberger
 Author-Workplace-Name: George Washington University
-Author-Workplace-Homepage:aweinberger.weebly.com
+Author-Workplace-Homepage: https://aweinberger.weebly.com
 Author-Email: AWeinberger@gwu.edu
 Author-Name: Mingzhi Xu
-Author-X-Name-First: Mingzhi
-Author-X-Name-Last: Xu
+Author-Name-First: Mingzhi
+Author-Name-Last: Xu
 Author-Workplace-Name: Peking University
-Author-Workplace-Homepage:mingzhixu.com
+Author-Workplace-Homepage: https://mingzhixu.com
 Author-Email: mingzhixu@nsd.pku.edu.cn
 Author-Name: Miaojie Yu
-Author-X-Name-First: Miaojie
-Author-X-Name-Last: Yu
+Author-Name-First: Miaojie
+Author-Name-Last: Yu
 Author-Workplace-Name: Peking University
-Author-Workplace-Homepage:mjyu.ccer.pku.edu.cn
+Author-Workplace-Homepage: http://mjyu.ccer.pku.edu.cn
 Author-Email: mjyu@ccer.pku.edu.cn
 Title: Trade Liberalization and Chinese Students in US Higher Education
 Abstract: We highlight a lesser known consequence of China’s growth and integration into the world economy in relation to the United States: the rise of services trade. We demonstrate that the US’s trade deficit in goods cycle back as a surplus in exports of education services. Focusing on China’s accession to the World Trade Organization, we show that Chinese cities more exposed to this trade liberalization episode sent more students to US universities. Results indicate that growth in housing income/wealth was an important channel that allowed Chinese families in the top of the income distribution to afford US tuition, consistent with large growth in the share of Chinese students who financed their studies using personal funds. Other mechanisms, such as changing returns to education or information flows, appear to play less of a role. We also inform distributional consequences for the US. Trade liberalization relatively induced increases in the shares of Chinese students studying non-STEM fields and attending less-selective US universities. Student inflows were similar in destinations with low and high levels of human capital, indicating that educational exports dampened regional inequalities. Our estimates suggest that recent trade wars could cost US universities around $1.15 bn in tuition revenue.
 Length: 59 pages
 Creation-Date: 2020-07-10
 File-URL: https://www.cgdev.org/publication/trade-liberalization-and-chinese-students-us-higher-education?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/trade-liberalization-and-chinese-students-us-higher-education.pdf
+File-Format: application/pdf
 Classification-JEL: F16, I25, J24, J61
 Keywords: Trade Liberalization, Migration, International Students, Services
 Number: 536

@@ -1,21 +1,24 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Getnet Alemu
-Author-X-Name-First: Getnet
-Author-X-Name-Last: Alemu
+Author-Name-First: Getnet
+Author-Name-Last: Alemu
 Author-Workplace-Name: Addis Ababa University
 Author-Name: Tadele Ferede
-Author-X-Name-First: Tadele
-Author-X-Name-Last: Ferede
+Author-Name-First: Tadele
+Author-Name-Last: Ferede
 Author-Workplace-Name: Addis Ababa University
 Author-Person: pfe248
 Author-Name: Alejandro Fiorito
-Author-X-Name-First: Alejandro
-Author-X-Name-Last: Fiorito
+Author-Name-First: Alejandro
+Author-Name-Last: Fiorito
 Author-Workplace-Name: Center for Global Development
 Title: Identifying Binding Constraints on Digital Payment Services in Ethiopia: An Application of a Decision Tree Framework
-Abstract: While several comparable countries in sub-Saharan Africa have seen a significant increase in financial inclusion, mainly driven by digital financial services, Ethiopia still performs poorly. Even digital payment and transfer services, which lower-income and less literate segments of the population could benefit from, are rarely used. Given the low development level of Ethiopia, numerous supply and demand factors could explain this disappointing outcome. We use a decision tree framework to isolate and analyze potential constraints to find which are binding�that is, which constraints limit the expansion of digital payment services in Ethiopia. Our analysis indicates that supply-side problems are pervasive, and we find that competition problems in the essential digital infrastructure market and in the financial sector are responsible for the inadequate provision of digital payment services in Ethiopia. However, the root cause of inadequate competition, and therefore of low financial inclusion through digital payment services, is institutional deficiencies. The two key institutional deficiencies are the lack of capacity of regulatory and supervisory institutions, and the unwillingness of the central government to enable and promote competition. The dominance of public enterprises, Ethio Telecom and the Commercial Bank of Ethiopia, has kept the prices of digital payment services high, particularly for low-income populations, as fees charged for undertaking low-value transactions are very high and the cost of digital infrastructure (mobile phones and plans) is also substantial. Unless these institutional binding constraints are removed, digital payment services in Ethiopia, and digital financial services more generally, will hit a very short ceiling that limits their enormous potential to improve livelihoods in the country.
+Abstract: While several comparable countries in sub-Saharan Africa have seen a significant increase in financial inclusion, mainly driven by digital financial services, Ethiopia still performs poorly. Even digital payment and transfer services, which lower-income and less literate segments of the population could benefit from, are rarely used. Given the low development level of Ethiopia, numerous supply and demand factors could explain this disappointing outcome. We use a decision tree framework to isolate and analyze potential constraints to find which are binding—that is, which constraints limit the expansion of digital payment services in Ethiopia. Our analysis indicates that supply-side problems are pervasive, and we find that competition problems in the essential digital infrastructure market and in the financial sector are responsible for the inadequate provision of digital payment services in Ethiopia. However, the root cause of inadequate competition, and therefore of low financial inclusion through digital payment services, is institutional deficiencies. The two key institutional deficiencies are the lack of capacity of regulatory and supervisory institutions, and the unwillingness of the central government to enable and promote competition. The dominance of public enterprises, Ethio Telecom and the Commercial Bank of Ethiopia, has kept the prices of digital payment services high, particularly for low-income populations, as fees charged for undertaking low-value transactions are very high and the cost of digital infrastructure (mobile phones and plans) is also substantial. Unless these institutional binding constraints are removed, digital payment services in Ethiopia, and digital financial services more generally, will hit a very short ceiling that limits their enormous potential to improve livelihoods in the country.
 Length: 79 pages
 Creation-Date: 2021-07-08
 File-URL: https://www.cgdev.org/publication/identifying-binding-constraints-digital-payment-services-ethiopia-application-decision?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/Ethiopia_%20decision_tree.pdf
+File-Format: application/pdf
 Number: 220
 Handle: RePEc:cgd:ppaper:220

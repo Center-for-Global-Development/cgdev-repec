@@ -1,7 +1,7 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name:  David Roodman
-Author-X-Name-First: David
-Author-X-Name-Last: Roodman
+ÔªøTemplate-Type: ReDIF-Paper 1.0
+Author-Name: David Roodman
+Author-Name-First: David
+Author-Name-Last: Roodman
 Author-Email: droodman@cgdev.org
 Title: Production-weighted Estimates of Aggregate Protection in Rich Countries toward Developing Countries
 Abstract: A challenge in the development of aggregate indexes of trade protection is finding
@@ -11,9 +11,9 @@ imports; but these, as is well-known, are endogenous. Various authors have worke
 correct this endogeneity, but doing so is difficult in product areas where protection is
 both high and widespread. For this reason, I develop a new set of estimates of overall
 protection in rich countries with respect to developing ones that eschews import weights
-as much as possible in favor of weights based on the value of exporterís total production
-in each product area. The results are generally much higher than those from the BouÎt et
-al. (2004) ìMAcMapî data set; there, weights are based on imports of large reference
+as much as possible in favor of weights based on the value of exporter‚Äôs total production
+in each product area. The results are generally much higher than those from the Bou√´t et
+al. (2004) ‚ÄúMAcMap‚Äù data set; there, weights are based on imports of large reference
 groups of countries. I conclude that product areas in which protection is high and widespread
 are systematically de-emphasized when using pure MAcMap weights to aggregate
 across major product groups. In particular, when gauging rich-country protection with
@@ -25,12 +25,13 @@ protection in turn dominates goods protection generally. Japan is most protectiv
 because of rice tariffs near 900%, followed by Norway and Switzerland. Because of their
 greater reliance on agriculture, the poorest countries face higher trade barriers than
 wealthier developing countries, despite tariff preferences.
-Length:  24 pages
-Creation-Date:  2005-08
-File-URL: http://www.cgdev.org/content/publications/detail/3534
+Length: 24 pages
+Creation-Date: 2005-08
+File-URL: https://www.cgdev.org/publication/production-weighted-estimates-aggregate-protection-rich-countries-toward-developing?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/3534_file_WP_66.pdf
+File-Format: application/pdf
 Number: 66
 Classification-JEL: F13, O19, H25
 Keywords: Doha Round, measuring trade openness, agricultural subsidies
 Handle: RePEc:cgd:wpaper:66
-
- 

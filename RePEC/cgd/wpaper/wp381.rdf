@@ -1,16 +1,19 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Kevin Ummel
-Author-X-Name-First: Kevin
-Author-X-Name-Last: Ummel
-Title: Who Pollutes? A Household-Level Database of America’s Greenhouse Gas Footprint - Working Paper 381
+Author-Name-First: Kevin
+Author-Name-Last: Ummel
+Title: Who Pollutes? A Household-Level Database of Americaâ€™s Greenhouse Gas Footprint
 Abstract: This paper describes the creation of a database providing estimated greenhouse gas (GHG) footprints for 6 million US households over the period 2008-2012. The database allows analysis of footprints for 52 types of consumption (e.g. electricity, gasoline, apparel, beef, air travel, etc.) within and across geographic regions as small as individual census tracts. Potential research applications with respect to carbon pricing and tax policy are discussed. Preliminary analysis reveals:
-The top 10% of US polluters are responsible for 25% of the country’s GHG footprint. The least-polluting 40% of the population accounts for only 20% of the total. The average GHG footprint of individuals in the top 2% of the income distribution is more than four times that of those in the bottom quintile.
-The highest GHG footprints are found in America’s suburbs, where relatively inefficient housing and transport converge with higher incomes. Rural areas exhibit moderate GHG footprints. High-density urban areas generally exhibit the lowest GHG footprints, but location-specific results are highly dependent on income.
-Residents of Republican-held congressional districts have slightly higher average GHG footprints than those in Democratic districts – but the difference is small (21.8 tCO2e/person/year in Republican districts; 20.6 in Democratic). There is little relationship between the strength of a district’s party affiliation and average GHG footprint. 
-Length:  23 pages
-Creation-Date:  2014-10
-File-URL: http://www.cgdev.org/publication/who-pollutes-household-level-database-americas-greenhouse-gas-footprint-working-paper
+The top 10% of US polluters are responsible for 25% of the countryâ€™s GHG footprint. The least-polluting 40% of the population accounts for only 20% of the total. The average GHG footprint of individuals in the top 2% of the income distribution is more than four times that of those in the bottom quintile.
+The highest GHG footprints are found in Americaâ€™s suburbs, where relatively inefficient housing and transport converge with higher incomes. Rural areas exhibit moderate GHG footprints. High-density urban areas generally exhibit the lowest GHG footprints, but location-specific results are highly dependent on income.
+Residents of Republican-held congressional districts have slightly higher average GHG footprints than those in Democratic districts â€“ but the difference is small (21.8 tCO2e/person/year in Republican districts; 20.6 in Democratic). There is little relationship between the strength of a districtâ€™s party affiliation and average GHG footprint.
+Length: 23 pages
+Creation-Date: 2014-10
+File-URL: https://www.cgdev.org/publication/who-pollutes-household-level-database-americas-greenhouse-gas-footprint-working-paper?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/who_pollutes_greenhouse_gas_footprint_0.pdf
+File-Format: application/pdf
 Number: 381
 Classification-JEL: Q53, Q57
-Keywords:   air pollution, greenhouse gases, climate change, environment
+Keywords: air pollution, greenhouse gases, climate change, environment
 Handle: RePEc:cgd:wpaper:381

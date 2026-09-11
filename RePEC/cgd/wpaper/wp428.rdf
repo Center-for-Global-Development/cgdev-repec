@@ -1,19 +1,23 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Michael Clemens
-Author-X-Name-First: Michael
-Author-X-Name-Last: Clemens
+Author-Name-First: Michael
+Author-Name-Last: Clemens
+Author-Person: pcl20
 Author-Name: Claudio E. Montenegro
-Author-X-Name-First: Claudio
-Author-X-Name-Last: Montenegro
+Author-Name-First: Claudio
+Author-Name-Last: Montenegro
 Author-Name: Lant Pritchett
-Author-X-Name-First: Lant
-Author-X-Name-Last: Pritchett
-Title: Bounding the Price Equivalent of Migration Barriers - Working Paper 428
-Abstract: Large international differences in the price of labor can be sustained by differences between workers, or by natural and policy barriers to worker mobility. We use migrant selection theory and evidence to place lower bounds on the ad valorem equivalent of labor mobility barriers to the United States, with unique nationally-representative microdata on both US immigrant workers and workers in their 42 home countries. The average price equivalent of migration barriers in this setting, for low-skill males, is greater than $13,700 per worker per year. Natural and policy barriers may each create annual global losses of trillions of dollars.
+Author-Name-First: Lant
+Author-Name-Last: Pritchett
+Title: Bounding the Price Equivalent of Migration Barriers
+Abstract: Large international differences in the price of labor can be sustained by differences between workers, or by natural and policy barriers to worker mobility. We use migrant selection theory and evidence to place lower bounds on the ad valorem equivalent of labor mobility barriers to the United States, with unique nationally-representative microdata on both US immigrant workers and workers in their 42 home countries. The average price equivalent of migration barriers in this setting, for low-skill males, is greater than $13,700 per worker per year. Natural and policy barriers may each create annual global losses of trillions of dollars.
 Length: 49 pages
 Creation-Date: 2016-07
-File-URL: http://www.cgdev.org/publication/bounding-price-equivalent-migration-barriers
+File-URL: https://www.cgdev.org/publication/bounding-price-equivalent-migration-barriers?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/Clemens-Montenegro-Pritchett-Price-Equivalent-Migration-Barriers_CGDWP428.pdf
+File-Format: application/pdf
 Number: 428
 Classification-JEL: F22, J61, J71, O15
-Keywords: migration, labor mobility, migrant selection theory, migration barriers, policy
+Keywords: migration, labor mobility, migrant selection theory, migration barriers, policy
 Handle: RePEc:cgd:wpaper:428

@@ -1,11 +1,11 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Christopher Hoy
-Author-X-Name-First: Christopher
-Author-X-Name-Last: Hoy
+Author-Name-First: Christopher
+Author-Name-Last: Hoy
 Author-Workplace-Name: Australian National University
 Author-Name: Andy Sumner
-Author-X-Name-First: Andy
-Author-X-Name-Last: Sumner
+Author-Name-First: Andy
+Author-Name-Last: Sumner
 Author-Workplace-Name: King’s College London
 Author-Workplace-Name: Center for Global Development
 Title: Growth with Adjectives: Global Poverty and Inequality after the Pandemic
@@ -13,6 +13,9 @@ Abstract: This paper is concerned with the following question: In a post-COVID-1
 Length: 26 pages
 Creation-Date: 2020-07-20
 File-URL: https://www.cgdev.org/publication/growth-adjectives-global-poverty-and-inequality-after-pandemic?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/growth-adjectives-global-poverty-and-inequality-after-pandemic.pdf
+File-Format: application/pdf
 Classification-JEL: I32
 Keywords: Global Poverty, SDGs, Inequality, COVID-19
 Number: 537

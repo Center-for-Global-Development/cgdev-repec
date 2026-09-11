@@ -1,17 +1,20 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Michael A. Clemens
-Author-X-Name-First: Michael
-Author-X-Name-Middle: A.
-Author-X-Name-Last: Clemens
+Author-Name-First: Michael
+Author-Name-Middle: A.
+Author-Name-Last: Clemens
 Author-Workplace-Name: Center for Global Development
 Author-Workplace-Name: IZA
 Author-Workplace-Name: CReAM/UCL
 Author-Person: pcl20
 Title: The Fiscal Effect of Immigration: Reducing Bias in Influential Estimates
-Abstract: Immigration policy can have important net fiscal effects that vary by immigrants’ skill level. But mainstream methods to estimate these effects are problematic. Methods based on cash-flow accounting offer precision at the cost of bias; methods based on general equilibrium modeling address bias with limited precision and transparency. A simple adjustment greatly reduces bias in the most influential and precise estimates: conservatively accounting for capital taxes paid by the employers of immigrant labor. The adjustment is required by firms’ profit-maximizing behavior, unconnected to general equilibrium effects. Adjusted estimates of the positive net fiscal impact of average recent U.S. immigrants rise by a factor of 3.2, with a much shallower education gradient. They are positive even for an average recent immigrant with less than high school education, whose presence causes a present-value subsidy of at least $128,000 to all other taxpayers collectively.
+Abstract: Immigration policy can have important net fiscal effects that vary by immigrantsâ€™ skill level. But mainstream methods to estimate these effects are problematic. Methods based on cash-flow accounting offer precision at the cost of bias; methods based on general equilibrium modeling address bias with limited precision and transparency. A simple adjustment greatly reduces bias in the most influential and precise estimates: conservatively accounting for capital taxes paid by the employers of immigrant labor. The adjustment is required by firmsâ€™ profit-maximizing behavior, unconnected to general equilibrium effects. Adjusted estimates of the positive net fiscal impact of average recent U.S. immigrants rise by a factor of 3.2, with a much shallower education gradient. They are positive even for an average recent immigrant with less than high school education, whose presence causes a present-value subsidy of at least $128,000 to all other taxpayers collectively.
 Length: 46 pages
 Creation-Date: 2023-02-21
 File-URL: https://www.cgdev.org/publication/fiscal-effect-immigration-reducing-bias-influential-estimates?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/fiscal-effect-immigration-reducing-bias-influential-estimates.pdf
+File-Format: application/pdf
 Classification-JEL: F22, H68, J61
 Number: 632
 Handle: RePEc:cgd:wpaper:632

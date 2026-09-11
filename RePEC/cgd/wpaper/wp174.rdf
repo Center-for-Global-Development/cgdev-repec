@@ -1,16 +1,19 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: David Roodman
-Author-X-Name-First: David
-Author-X-Name-Last: Roodman
+Author-Name-First: David
+Author-Name-Last: Roodman
 Author-Name: Jonathan Morduch
-Author-X-Name-First: Jonathan
-Author-X-Name-Last: Morduch
+Author-Name-First: Jonathan
+Author-Name-Last: Morduch
 Title: The Impact of Microcredit on the Poor in Bangladesh: Revisiting the Evidence
-Abstract: The most-noted studies on the impact of microcredit on households are based on a survey fielded in Bangladesh in the 1990s. Contradictions among them have produced lasting controversy and confusion. Pitt and Khandker (PK, 1998) apply a quasi-experimental design to 1991–92 data; they conclude that microcredit raises household consumption, especially when lent to women. Khandker (2005) applies panel methods using a 1999 resurvey; he concurs and extrapolates to conclude that microcredit helps the extremely poor even more than the moderately poor. But using simpler estimators than PK, Morduch (1999) finds no impact on the level of consumption in the 1991–92 data, even as he questions PK’s identifying assumptions. He does find evidence that microcredit reduces consumption volatility. Partly because of the sophistication of PK’s Maximum Likelihood estimator, the conflicting results were never directly confronted and reconciled. We end the impasse. A replication exercise shows that all these studies’ evidence for impact is weak. As for PK’s headline results, we obtain opposite signs. But we do not conclude that lending to women does harm. Rather, all three studies appear to fail in expunging endogeneity. We conclude that for non-experimental methods to retain a place in the program evaluator’s portfolio, the quality of the claimed natural experiments must be high and demonstrated.
-Length:  47 pages
-Creation-Date:  2009-06
-File-URL: http://www.cgdev.org/content/publications/detail/1422302
+Abstract: The most-noted studies on the impact of microcredit on households are based on a survey fielded in Bangladesh in the 1990s. Contradictions among them have produced lasting controversy and confusion. Pitt and Khandker (PK, 1998) apply a quasi-experimental design to 1991â€“92 data; they conclude that microcredit raises household consumption, especially when lent to women. Khandker (2005) applies panel methods using a 1999 resurvey; he concurs and extrapolates to conclude that microcredit helps the extremely poor even more than the moderately poor. But using simpler estimators than PK, Morduch (1999) finds no impact on the level of consumption in the 1991â€“92 data, even as he questions PKâ€™s identifying assumptions. He does find evidence that microcredit reduces consumption volatility. Partly because of the sophistication of PKâ€™s Maximum Likelihood estimator, the conflicting results were never directly confronted and reconciled. We end the impasse. A replication exercise shows that all these studiesâ€™ evidence for impact is weak. As for PKâ€™s headline results, we obtain opposite signs. But we do not conclude that lending to women does harm. Rather, all three studies appear to fail in expunging endogeneity. We conclude that for non-experimental methods to retain a place in the program evaluatorâ€™s portfolio, the quality of the claimed natural experiments must be high and demonstrated.
+Length: 47 pages
+Creation-Date: 2009-06
+File-URL: https://www.cgdev.org/publication/impact-microcredit-poor-bangladesh-revisiting-evidence-working-paper-174-june-2013?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/impact-of-microcredit-on-poor-in-bangladesh-2013.pdf
+File-Format: application/pdf
 Number: 174
 Classification-JEL: C21, C23, C24, C25, O12, O16
-Keywords: microcredit; impact evaluation; Grameen Bank; Bangladesh; replication; mixed-process models
+Keywords: microcredit, impact evaluation, Grameen Bank, Bangladesh, replication, mixed-process models
 Handle: RePEc:cgd:wpaper:174

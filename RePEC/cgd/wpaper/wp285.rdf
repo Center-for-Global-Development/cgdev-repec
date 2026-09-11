@@ -1,27 +1,31 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Randall Akee, Devesh Kapur
-Author-X-Name-First: Randall 			 			
-Author-X-Name-Last: Akee
-Title: Remittances and Rashomon- Working Paper 285
-Abstract: 
-Utilizing a novel data set on remittance data for India that matches household surveys to 
-administrative bank data, we investigate the differences in self-reported and actual deposits to 
-Non-Resident  Indian (NRI) accounts. There is a striking difference between the perceived and 
-actual frequency, as well as the amount of deposits, to NRI accounts. Our results indicate the 
-presence of non-classical measurement error in the reporting of remittances in the form of deposits 
-to NRI accounts. As a consequence,  regression analyses using remittances as an explanatory 
-variable may contain large upward biases instead of the usual attenuation of results under classical 
-measurement error. Instrumental variables estimates are no better; the estimated coefficients from 
-these regressions are more than three times the size of the OLS regression results. The results point 
-to the need to more carefully check the accuracy of the international remittance flows. The wide 
-discrepancies in the Indian case could be both because of inaccuracies in the household survey as 
-well as mis-classification of the Balance of Payment data with some fraction of reported remittances 
-being disguised capital flows (and hence likely to be less stable) rather than current account flows for 
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Randall Akee
+Author-Name-First: Randall
+Author-Name-Last: Akee
+Author-Name: Devesh Kapur
+Author-Name-First: Devesh
+Author-Name-Last: Kapur
+Title: Remittances and Rashomon
+Abstract: Utilizing a novel data set on remittance data for India that matches household surveys to
+administrative bank data, we investigate the differences in self-reported and actual deposits to
+Non-Resident  Indian (NRI) accounts. There is a striking difference between the perceived and
+actual frequency, as well as the amount of deposits, to NRI accounts. Our results indicate the
+presence of non-classical measurement error in the reporting of remittances in the form of deposits
+to NRI accounts. As a consequence,  regression analyses using remittances as an explanatory
+variable may contain large upward biases instead of the usual attenuation of results under classical
+measurement error. Instrumental variables estimates are no better; the estimated coefficients from
+these regressions are more than three times the size of the OLS regression results. The results point
+to the need to more carefully check the accuracy of the international remittance flows. The wide
+discrepancies in the Indian case could be both because of inaccuracies in the household survey as
+well as mis-classification of the Balance of Payment data with some fraction of reported remittances
+being disguised capital flows (and hence likely to be less stable) rather than current account flows for
 family maintenance
-Length:  31 pages
+Length: 31 pages
 Creation-Date: 2012-01
-File-URL: http://www.cgdev.org/files/1425889_file_Akee_Kapur_Rashomon_FINAL.pdf
+File-URL: https://www.cgdev.org/publication/remittances-and-rashomon-working-paper-285?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1425889_file_Akee_Kapur_Rashomon_FINAL.pdf
+File-Format: application/pdf
 Number: 285
-Classification-JEL: 
-Keywords:  Remittances; Measurement Error; Migration
+Keywords: Remittances, Measurement Error, Migration
 Handle: RePEc:cgd:wpaper:285

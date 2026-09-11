@@ -1,38 +1,41 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Victoria Y. Fan
-Author-X-Name-First: Victoria
-Author-X-Name-Middle: Y.
-Author-X-Name-Last: Fan
+Author-Name-First: Victoria
+Author-Name-Middle: Y.
+Author-Name-Last: Fan
 Author-Workplace-Name: Center for Global Development
 Author-Person: pfa325
 Author-Name: Brian S. Webster
-Author-X-Name-First: Brian
-Author-X-Name-Middle: S.
-Author-X-Name-Last: Webster
+Author-Name-First: Brian
+Author-Name-Middle: S.
+Author-Name-Last: Webster
 Author-Workplace-Name: Center for Global Development
 Author-Name: Venkatesh Subramanian
-Author-X-Name-First: Venkatesh
-Author-X-Name-Last: Subramanian
+Author-Name-First: Venkatesh
+Author-Name-Last: Subramanian
 Author-Workplace-Name: The University of Texas at Dallas
-Author-Name: Karen A. Grépin
-Author-X-Name-First: Karen
-Author-X-Name-Middle: A.
-Author-X-Name-Last: Grépin
+Author-Name: Karen A. GrÃ©pin
+Author-Name-First: Karen
+Author-Name-Middle: A.
+Author-Name-Last: GrÃ©pin
 Author-Workplace-Name: Hong Kong University
 Author-Name: David A. Watkins
-Author-X-Name-First: David
-Author-X-Name-Middle: A.
-Author-X-Name-Last: Watkins
+Author-Name-First: David
+Author-Name-Middle: A.
+Author-Name-Last: Watkins
 Author-Workplace-Name: University of Washington
 Author-Name: Joseph L. Dieleman
-Author-X-Name-First: Joseph
-Author-X-Name-Middle: L.
-Author-X-Name-Last: Dieleman
+Author-Name-First: Joseph
+Author-Name-Middle: L.
+Author-Name-Last: Dieleman
 Author-Workplace-Name: University of Washington
 Title: The Cost-Effectiveness of Health Aid: An Exploratory Quantitative Analysis
 Abstract: One approach to development assistance for health, or health aid, emphasizes the ex ante selection of cost-effective health interventions, an approach that began with the World Development Report (1993) on Investing in Health and has since been adopted by the Effective Altruism community. But just how much of health aid is cost-effective? In this paper, we examine projects in the Organisation for Economic Co-operation and Development (OECD) Creditor Reporting System, the standard dataset that measures and characterizes development assistance for health, for the years 2019 to 2021, and count the number of projects that refer to interventions from a list of highly cost-effective interventions as defined by the Disease Control Priorities Project, third edition. This exploratory quantitative analysis indicates that 61% of projects used a key word/phrase of a cost-effective intervention. There were 11.9 interventions mapped per project on average. There is little evidence that donors tailor the set of interventions to country income levels by cost-effectiveness. Policymakers may benefit from reviewing the full portfolio of interventions covered by domestic and external resources.
 Length: 24 pages
 Creation-Date: 2024-08-26
 File-URL: https://www.cgdev.org/publication/cost-effectiveness-health-aid-exploratory-quantitative-analysis?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/cost-effectiveness-health-aid-exploratory-quantitative-analysis.pdf
+File-Format: application/pdf
 Number: 700
 Handle: RePEc:cgd:wpaper:700

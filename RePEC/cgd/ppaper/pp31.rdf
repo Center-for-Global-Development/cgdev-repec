@@ -1,21 +1,24 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Victoria Fan
-Author-X-Name-First: Victoria
-Author-X-Name-Last: Fan
+Author-Name-First: Victoria
+Author-Name-Last: Fan
 Author-Person: pfa325
 Author-Name: Denizhan Duran
-Author-X-Name-First: Denizhan
-Author-X-Name-Last: Duran
+Author-Name-First: Denizhan
+Author-Name-Last: Duran
 Author-Name: Rachel Silverman
-Author-X-Name-First: Rachel
-Author-X-Name-Last: Silverman
+Author-Name-First: Rachel
+Author-Name-Last: Silverman
 Author-Name: Amanda Glassman
-Author-X-Name-First: Amanda
-Author-X-Name-Last: Glassman
+Author-Name-First: Amanda
+Author-Name-Last: Glassman
 Title: Grant Performance and Payments at the Global Fund
-Abstract: Performance-based financing can be used by global-health funding agencies to improve program performance and thus value for money. The Global Fund to Fight AIDS, Tuberculosis and Malaria was one of the first global-health funders to deploy a performance-based financing system. However, its complex, multistep system for calculating and paying on grant ratings has several components that are subjective and discretionary. We aimed to test the association between grant ratings and disbursements, an indication of the extent to which incentives for performance are transmitted to grant recipients. We obtained publicly available data for 508 Global Fund grants from 2002 to 2011 with performance ratings and corresponding disbursements, merged with other datasets that contained data for relevant country characteristics. We used regression analysis to identify predictors of grant disbursements in phase 2 (typically the latter 3 of 5 years of a grant), using two dependent variables: whether a grant had any phase-2 disbursements, and the phase-2 disbursement amount. In a separate analysis, we also investigated the predictors of grant performance ratings. Grant performance rating in phase 1 was positively associated with having any disbursements in phase 2, but no association was seen between phase-1 ratings and phase-2 disbursement amounts. Furthermore, performance ratings are not replicable by external observers, both because subjective and discretionary decisions are made in the generation of performance measures and because the underlying data are not available. Based on these findings, we conclude that the Global Fund�s present performance-based funding system does not adequately convey incentives for performance to recipients. The organization should redesign this system to explicitly link a portion of the funds to a simple performance measure in health coverage or outcomes, measured independently and robustly.
+Abstract: Performance-based financing can be used by global-health funding agencies to improve program performance and thus value for money. The Global Fund to Fight AIDS, Tuberculosis and Malaria was one of the first global-health funders to deploy a performance-based financing system. However, its complex, multistep system for calculating and paying on grant ratings has several components that are subjective and discretionary. We aimed to test the association between grant ratings and disbursements, an indication of the extent to which incentives for performance are transmitted to grant recipients. We obtained publicly available data for 508 Global Fund grants from 2002 to 2011 with performance ratings and corresponding disbursements, merged with other datasets that contained data for relevant country characteristics. We used regression analysis to identify predictors of grant disbursements in phase 2 (typically the latter 3 of 5 years of a grant), using two dependent variables: whether a grant had any phase-2 disbursements, and the phase-2 disbursement amount. In a separate analysis, we also investigated the predictors of grant performance ratings. Grant performance rating in phase 1 was positively associated with having any disbursements in phase 2, but no association was seen between phase-1 ratings and phase-2 disbursement amounts. Furthermore, performance ratings are not replicable by external observers, both because subjective and discretionary decisions are made in the generation of performance measures and because the underlying data are not available. Based on these findings, we conclude that the Global Fund’s present performance-based funding system does not adequately convey incentives for performance to recipients. The organization should redesign this system to explicitly link a portion of the funds to a simple performance measure in health coverage or outcomes, measured independently and robustly.
 Length: 40 pages
 Creation-Date: 2013-08-22
 File-URL: https://www.cgdev.org/publication/grant-performance-and-payments-global-fund?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/Global-Fund-PBF-layout_0.pdf
+File-Format: application/pdf
 Number: 31
 Handle: RePEc:cgd:ppaper:31

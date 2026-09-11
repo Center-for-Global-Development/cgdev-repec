@@ -1,11 +1,11 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: David Wheeler
-Author-X-Name-First: David
-Author-X-Name-Last: Wheeler
+Author-Name-First: David
+Author-Name-Last: Wheeler
 Author-Email: dwheeler@cgdev.org
 Author-Name: Kevin Ummel
-Author-X-Name-First: Kevin
-Author-X-Name-Last: Ummel
+Author-Name-First: Kevin
+Author-Name-Last: Ummel
 Title: Calculating CARMA: Global Estimation of CO2 Emissions from the Power Sector
 Abstract: This paper provides a detailed description and assessment of CARMA (Carbon
 Monitoring for Action), a database that reports CO2 emissions from the power
@@ -22,17 +22,19 @@ operate them. CARMA includes many aggregation tools, so it can be used for local
 regional, national and international comparisons. The database also offers complete
 information about power plants and companies that do not emit carbon because they
 use non-fossil energy sources (nuclear, hydro, solar, wind, biofuels, geothermal,
-etc.). In this paper, we provide a description of CARMA�s methodology, an
+etc.). In this paper, we provide a description of CARMA’s methodology, an
 assessment of its strengths and weaknesses, and some tests of its accuracy across
 countries and at different geographical scales. While CARMA performs well in
 these tests, we recognize that it is far from perfect. We therefore extend the
 following invitation to any power plant or company that disputes our estimates:
 Provide us with better data, verified by an appropriate third party, and we will
 incorporate them in CARMA.
-Length:  37 pages
-Creation-Date:  2008-05
-File-URL: http://www.cgdev.org/content/publications/detail/16101
+Length: 37 pages
+Creation-Date: 2008-05
+File-URL: https://www.cgdev.org/publication/calculating-carma-global-estimation-co2-emissions-power-sector-working-paper-145?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/16101_file_Calculating_CARMA_FINAL.pdf
+File-Format: application/pdf
 Number: 145
-Classification-JEL: 
-Keywords:  global warming, climate change, emissions, energy
+Keywords: global warming, climate change, emissions, energy
 Handle: RePEc:cgd:wpaper:145

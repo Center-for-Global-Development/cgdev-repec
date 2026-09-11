@@ -1,21 +1,24 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Sebastian Bauhoff
-Author-X-Name-First: Sebastian
-Author-X-Name-Last: Bauhoff
+Author-Name-First: Sebastian
+Author-Name-Last: Bauhoff
 Author-Workplace-Name: Center for Global Development
 Author-Email: sbauhoff@hsph.harvard.edu
 Author-Person: pba1557
 Author-Name: Roxanne Oroxom
-Author-X-Name-First: Roxanne
-Author-X-Name-Last: Oroxom
+Author-Name-First: Roxanne
+Author-Name-Last: Oroxom
 Author-Workplace-Name: Center for Global Development
 Author-Email: roroxom@cgdev.org
 Title: The Effects of an ID Requirement for Health Insurance on Infants' Health Care Utilization and Health Outcomes: Evidence from Peru's Seguro Integral de Salud
 Abstract: Many governments require individuals to prove their identity to qualify for public programs, which risks excluding beneficiaries who lack identification documents. We examine the effects of an ID requirement introduced in 2011 for Peru's national health insurance program Seguro Integral de Salud. Using a difference-in-differences design and repeated cross-sectional data from a national household survey covering births between 2008 and 2014, we find no measurable effect on service utilization or health outcomes among infants despite significant variation in ID ownership when the requirement went into effect. Possible reasons for the lack of effect include imperfect enforcement of the requirement and various government stop-gaps.
 Length: 45 pages
 Creation-Date: 2019-08-12
-File-URL: https://www.cgdev.org/publication/effects-id-requirement-health-insurance-infants-health-care-utilization-and-health
-Classification-JEL:  I13, I15, I18
-Keywords: identification; Peru; Latin America; health insurance
+File-URL: https://www.cgdev.org/publication/effects-id-requirement-health-insurance-infants-health-care-utilization-and-health?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/WP514-Bauhoff-Oroxom-Formatted.pdf
+File-Format: application/pdf
+Classification-JEL: I13, I15, I18
+Keywords: identification, Peru, Latin America, health insurance
 Number: 514
 Handle: RePEc:cgd:wpaper:514

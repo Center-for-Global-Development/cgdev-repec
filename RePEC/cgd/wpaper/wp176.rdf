@@ -1,14 +1,15 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Aaditya Mattoo
-Author-X-Name-First: Aaditya
-Author-X-Name-Last: Mattoo
+Author-Name-First: Aaditya
+Author-Name-Last: Mattoo
 Author-Name: Arvind Subramanian
-Author-X-Name-First: Arvind 
-Author-X-Name-Last: Subramanian
+Author-Name-First: Arvind
+Author-Name-Last: Subramanian
+Author-Person: psu108
 Title: Criss-Crossing Globalization: Uphill Flows of Skill-Intensive Goods and Foreign Direct Investment
 Abstract: This paper documents an unusual and possibly significant phenomenon: the export of skills, embodied in
 goods, services or capital from poorer to richer countries. We first present a set of stylized facts. Using a
-measure which combines the sophistication of a country�s exports with the average income level of destination
+measure which combines the sophistication of a country’s exports with the average income level of destination
 countries, we show that the performance of a number of developing countries,notably China, Mexico and
 South Africa, matches that of much more advanced countries, such as Japan, Spain and USA. Creating a new
 combined dataset on FDI (covering greenfield investment as well as mergers and acquisitions) we show that
@@ -19,10 +20,12 @@ their destination that matters. In both cross-sectional and panel regressions, w
 that a measure of uphill flows of sophisticated goods is significantly associated with better growth performance.
 These results suggest the need for a deeper analysis of whether development benefits might derive not from
 deifying comparative advantage but from defying it.
-Length:  38 pages
-Creation-Date:  2009-08
-File-URL: http://www.cgdev.org/content/publications/detail/1422581
+Length: 38 pages
+Creation-Date: 2009-08
+File-URL: https://www.cgdev.org/publication/criss-crossing-globalization-uphill-flows-skill-intensive-goods-and-foreign-direct?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1422581_file_Mattoo_Subramania_Uphill_Skill.pdf
+File-Format: application/pdf
 Number: 176
-Classification-JEL: 
-Keywords: foreign direct investment; globalization; skill flow; economic development
+Keywords: foreign direct investment, globalization, skill flow, economic development
 Handle: RePEc:cgd:wpaper:176

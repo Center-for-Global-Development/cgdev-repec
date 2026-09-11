@@ -1,10 +1,10 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Christopher Blattman
-Author-X-Name-First: Christopher
-Author-X-Name-Last: Blattman
+Author-Name-First: Christopher
+Author-Name-Last: Blattman
 Author-Name: Edward Miguel
-Author-X-Name-First: Edward
-Author-X-Name-Last: Miguel
+Author-Name-First: Edward
+Author-Name-Last: Miguel
 Title: Civil War: A Review of 50 Years of Research
 Abstract: Most nations have experienced an internal armed conflict since 1960. The past
 decade has witnessed an explosion of research into the causes and consequences
@@ -22,7 +22,7 @@ identify the causes of civil war. While most work is plagued by econometric
 identification problems, low per capita incomes, slow economic growth and
 geographic conditions favoring insurgency are the factors most robustly linked to
 civil war. We argue that micro-level analysis and data are needed to truly decipher
-war’s causes, and understand the recruitment, organization, and conduct of armed
+warâ€™s causes, and understand the recruitment, organization, and conduct of armed
 groups. Recent advances in this area are highlighted. Finally, turning to the
 economic legacies of war, we frame the literature in terms of neoclassical economic
 growth theory. Emerging stylized facts include the ability of some economies to
@@ -30,11 +30,14 @@ experience rapid macroeconomic recoveries, while certain human capital impacts
 appear more persistent. Yet econometric identification has not been adequately
 addressed, and there is little consensus on the most effective policies to avert
 conflicts or promote postwar recovery. The evidence is weakest where it is arguably
-most important: in understanding civil wars’ effects on institutions, technology, and
+most important: in understanding civil warsâ€™ effects on institutions, technology, and
 social norms.
-Length:  95 pages
-Creation-Date:  2009-03
-File-URL: http://www.cgdev.org/content/publications/detail/1421335
+Length: 95 pages
+Creation-Date: 2009-03
+File-URL: https://www.cgdev.org/publication/civil-war-review-fifty-years-research-working-paper-166?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1421335_file_Blattman_Civil_War_FINAL.pdf
+File-Format: application/pdf
 Number: 166
 Classification-JEL: H56, O10, O40, C80
 Keywords: Civil war, violence, economic development, growth

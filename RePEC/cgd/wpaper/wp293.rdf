@@ -1,25 +1,30 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Lant Pritchett and Amanda Beatty
-Author-X-Name-First: Lant  			 			
-Author-X-Name-Last: Pritchett
-Title: The Negative Consequences of Overambitious Curricula in Developing Countries - Working Paper 293
-Abstract: Learning profiles that track changes in student skills per year of schooling often find shockingly 
-low learning gains. Using data from three recent studies in South Asia and Africa, we show that 
-a majority of students spend years of instruction with no progress on basics. We argue shallow 
-learning profiles are in part the result of curricular paces moving much faster than the pace of 
-learning. To demonstrate the consequences of a gap between the curriculum and student mastery, 
-we construct a simple, formal model, which portrays learning as the result of a match between 
-student skill and instructional levels, rather than the standard (if implicit) assumption that all 
-children learn the same from the same instruction. A simulation shows that two countries with 
-exactly the same potential learning could have massively divergent learning outcomes, just because 
-of a gap between curricular and actual pace�and the country which goes faster has much lower 
-cumulative learning. We also show that our simple simulation model of curricular gaps can replicate 
-existing experimental findings, many of which are otherwise puzzling. Paradoxically, learning could 
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Lant Pritchett
+Author-Name-First: Lant
+Author-Name-Last: Pritchett
+Author-Name: Amanda Beatty
+Author-Name-First: Amanda
+Author-Name-Last: Beatty
+Title: The Negative Consequences of Overambitious Curricula in Developing Countries
+Abstract: Learning profiles that track changes in student skills per year of schooling often find shockingly
+low learning gains. Using data from three recent studies in South Asia and Africa, we show that
+a majority of students spend years of instruction with no progress on basics. We argue shallow
+learning profiles are in part the result of curricular paces moving much faster than the pace of
+learning. To demonstrate the consequences of a gap between the curriculum and student mastery,
+we construct a simple, formal model, which portrays learning as the result of a match between
+student skill and instructional levels, rather than the standard (if implicit) assumption that all
+children learn the same from the same instruction. A simulation shows that two countries with
+exactly the same potential learning could have massively divergent learning outcomes, just because
+of a gap between curricular and actual pace—and the country which goes faster has much lower
+cumulative learning. We also show that our simple simulation model of curricular gaps can replicate
+existing experimental findings, many of which are otherwise puzzling. Paradoxically, learning could
 go faster if curricula and teachers were to slow down.
-Length:  53 pages
+Length: 53 pages
 Creation-Date: 2012-04
-File-URL: http://www.cgdev.org/files/1426129_file_Pritchett_Beatty_Overambitious_FINAL.pdf
+File-URL: https://www.cgdev.org/publication/negative-consequences-overambitious-curricula-developing-countries-working-paper-293?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1426129_file_Pritchett_Beatty_Overambitious_FINAL_0.pdf
+File-Format: application/pdf
 Number: 293
 Classification-JEL: I21, I25, O15
-Keywords: 
 Handle: RePEc:cgd:wpaper:293

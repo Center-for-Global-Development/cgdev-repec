@@ -1,35 +1,38 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Valerie Gilbert Ulep
-Author-X-Name-First: Valerie
-Author-X-Name-Middle: Gilbert
-Author-X-Name-Last: Ulep
+Author-Name-First: Valerie
+Author-Name-Middle: Gilbert
+Author-Name-Last: Ulep
 Author-Workplace-Name: Philippine Institute for Development Studies, Quezon City, Philippines
 Author-Name: Anton Paterno
-Author-X-Name-First: Anton
-Author-X-Name-Last: Paterno
+Author-Name-First: Anton
+Author-Name-Last: Paterno
 Author-Workplace-Name: Department of Health, Manila, Philippines
 Author-Name: Jhanna Uy
-Author-X-Name-First: Jhanna
-Author-X-Name-Last: Uy
+Author-Name-First: Jhanna
+Author-Name-Last: Uy
 Author-Workplace-Name: Philippine Institute for Development Studies, Quezon City, Philippines
 Author-Name: Vanessa Siy Van
-Author-X-Name-First: Vanessa
-Author-X-Name-Middle: Siy
-Author-X-Name-Last: Van
+Author-Name-First: Vanessa
+Author-Name-Middle: Siy
+Author-Name-Last: Van
 Author-Workplace-Name: Ateneo de Manila University, Philippines
 Author-Name: Lyle Casas
-Author-X-Name-First: Lyle
-Author-X-Name-Last: Casas
+Author-Name-First: Lyle
+Author-Name-Last: Casas
 Author-Workplace-Name: Philippine Institute for Development Studies, Quezon City, Philippines
 Author-Name: Justin Tan
-Author-X-Name-First: Justin
-Author-X-Name-Last: Tan
+Author-Name-First: Justin
+Author-Name-Last: Tan
 Author-Workplace-Name: Ateneo de Manila University, Philippines
 Title: The Impact of the COVID-19 Pandemic on Social Health Insurance Claims for High-Burden Diseases in the Philippines
 Abstract: In the Philippines, anecdotes on the dwindling use of essential healthcare services as an indirect consequence of COVID-19 pandemic are mounting, but compelling evidence remains scarce up to this day. In this study, we examined the magnitude of decline in insurance claims of twelve (12) high-burden diseases and five (5) common procedures from 1,286 public and private hospitals. From March to September 2020, seasonally adjusted insurance claims declined by almost 60 percent before the pandemic. On aggregate, we did not observe a sharp decline in insurance claims for common procedures. While we observed broad-based decline for high-burden diseases, change in insurance claims for procedures vary across hospital type, level and ownership. We observed a 30 percent decline in procedural claims in publicly-owned end referral hospitals but with modest growth in lower-level hospitals. Less urgent procedures such as cataract surgery suffered a huge decline (70 percent) relative to more urgent procedures like chemotherapy, vaginal delivery, and cesarean sections. Governments and health systems must address the needs of both COVID and non-COVID patients to reduce the total harm caused by the pandemic.
 Length: 23 pages
 Creation-Date: 2021-05-11
 File-URL: https://www.cgdev.org/publication/impact-covid-19-pandemic-social-health-insurance-claims-high-burden-diseases-philippines?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/impact-covid-19-pandemic-social-health-insurance-claims-high-burden-diseases-philippines.pdf
+File-Format: application/pdf
 Classification-JEL: I18
 Number: 580
 Handle: RePEc:cgd:wpaper:580

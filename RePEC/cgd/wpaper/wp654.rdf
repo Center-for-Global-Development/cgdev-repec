@@ -1,24 +1,27 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Asli Demirgüç-Kunt
-Author-X-Name-First: Asli
-Author-X-Name-Last: Demirgüç-Kunt
+ï»¿Template-Type: ReDIF-Paper 1.0
+Author-Name: Asli DemirgÃ¼Ã§-Kunt
+Author-Name-First: Asli
+Author-Name-Last: DemirgÃ¼Ã§-Kunt
 Author-Workplace-Name: Center for Global Development
 Author-Person: pde226
-Author-Name: Bálint Horváth
-Author-X-Name-First: Bálint
-Author-X-Name-Last: Horváth
+Author-Name: BÃ¡lint HorvÃ¡th
+Author-Name-First: BÃ¡lint
+Author-Name-Last: HorvÃ¡th
 Author-Workplace-Name: University of Arizona
 Author-Person: pho639
 Author-Name: Harry Huizinga
-Author-X-Name-First: Harry
-Author-X-Name-Last: Huizinga
+Author-Name-First: Harry
+Author-Name-Last: Huizinga
 Author-Workplace-Name: Tilburg University and CEPR
 Author-Person: phu113
 Title: Loan Recoveries and the Financing of Zombie Firms over the Business Cycle
-Abstract: Using new data from the European Banking Authority on loan recovery outcomes, we examine how variation in loan recovery efficiency affects the transmission of financial sector and overall economic weakness to firm-level financial and real outcomes. We find that firms linked to under-capitalized banks experience higher debt, employment, and sales growth rates, if they are located in countries with less efficient loan recoveries. Furthermore, during economic downturns zombie firms—insolvent firms that continue to receive credit—achieve higher debt, employment, and sales growth, and fewer defaults if they are resident in such countries. Overall, we find that less efficient loan enforcement mitigates the transmission of financial sector and economic weakness to firm-level outcomes. This stabilizing effect, however, is likely to come at the cost of significant distortions documented in earlier literature.
+Abstract: Using new data from the European Banking Authority on loan recovery outcomes, we examine how variation in loan recovery efficiency affects the transmission of financial sector and overall economic weakness to firm-level financial and real outcomes. We find that firms linked to under-capitalized banks experience higher debt, employment, and sales growth rates, if they are located in countries with less efficient loan recoveries. Furthermore, during economic downturns zombie firmsâ€”insolvent firms that continue to receive creditâ€”achieve higher debt, employment, and sales growth, and fewer defaults if they are resident in such countries. Overall, we find that less efficient loan enforcement mitigates the transmission of financial sector and economic weakness to firm-level outcomes. This stabilizing effect, however, is likely to come at the cost of significant distortions documented in earlier literature.
 Length: 44 pages
 Creation-Date: 2023-09-22
 File-URL: https://www.cgdev.org/publication/loan-recoveries-and-financing-zombie-firms-over-business-cycle?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/loan-recoveries-and-financing-zombie-firms-over-business-cycle.pdf
+File-Format: application/pdf
 Classification-JEL: E32, G21
 Keywords: loan recovery, zombie firm, business cycle
 Number: 654

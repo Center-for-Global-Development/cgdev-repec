@@ -1,26 +1,29 @@
-Template-Type: ReDIF-Paper 1.0
+ÔªøTemplate-Type: ReDIF-Paper 1.0
 Author-Name: Justin Sandefur
-Author-X-Name-First: Justin
-Author-X-Name-Last: Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
 Author-Workplace-Name: Center for Global Development
 Author-Person: psa778
 Author-Name: Thomaz Alvares de Azevedo
-Author-X-Name-First: Thomaz Alvares
-Author-X-Name-Last: de Azevedo
+Author-Name-First: Thomaz Alvares
+Author-Name-Last: de Azevedo
 Author-Workplace-Name: MSI, A Tetra Tech Company
 Author-Name: Xiaomin Ju
-Author-X-Name-First: Xiaomin
-Author-X-Name-Last: Ju
+Author-Name-First: Xiaomin
+Author-Name-Last: Ju
 Author-Workplace-Name: Center for Global Development
 Author-Name: Thi Le
-Author-X-Name-First: Thi
-Author-X-Name-Last: Le
+Author-Name-First: Thi
+Author-Name-Last: Le
 Author-Workplace-Name: Center for Global Development
 Title: Phonics and Foreign Aid: Can America Teach the World to Read?
-Abstract: Over two decades and dozens of countries, the United States Agency for International Development has refined a package of support for early-grade reading, often referred to as ìstructured pedagogyî, which includes textbooks, teacher training, coaching, and lesson plans. Programs are implemented by American companies in public schools and evaluated using harmonized learning metrics, yielding a portfolio of 12 experimental and 15 difference-in-difference evaluations. Results vary widely, but on average programs increase oral reading fluency by approximately 3 words from a base of 13 correct words per minute in early primary. The average program costs about $200 per pupil, roughly equivalent to doubling school spending. Larger programs cost much less per pupil, but yield (insignificantly) smaller impacts. Newer programs yield somewhat bigger impacts, consistent with the idea that program evaluation can improve the quality of aid through iterative learning.
+Abstract: Over two decades and dozens of countries, the United States Agency for International Development has refined a package of support for early-grade reading, often referred to as ‚Äústructured pedagogy‚Äù, which includes textbooks, teacher training, coaching, and lesson plans. Programs are implemented by American companies in public schools and evaluated using harmonized learning metrics, yielding a portfolio of 12 experimental and 15 difference-in-difference evaluations. Results vary widely, but on average programs increase oral reading fluency by approximately 3 words from a base of 13 correct words per minute in early primary. The average program costs about $200 per pupil, roughly equivalent to doubling school spending. Larger programs cost much less per pupil, but yield (insignificantly) smaller impacts. Newer programs yield somewhat bigger impacts, consistent with the idea that program evaluation can improve the quality of aid through iterative learning.
 Length: 71 pages
 Creation-Date: 2023-11-20
 File-URL: https://www.cgdev.org/publication/phonics-and-foreign-aid-can-america-teach-world-read?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/WP668-USAID%20reading%20evals-LJ-1a.pdf
+File-Format: application/pdf
 Classification-JEL: F35, I25, O15
 Keywords: education, early-grade reading assessments, impact evaluation, foreign aid, USAID
 Number: 668

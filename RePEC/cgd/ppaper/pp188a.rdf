@@ -1,26 +1,29 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Maryam Akmal
-Author-X-Name-First: Maryam
-Author-X-Name-Last: Akmal
+Author-Name-First: Maryam
+Author-Name-Last: Akmal
 Author-Workplace-Name: Center for Global Development
 Author-Name: Lee Crawfurd
-Author-X-Name-First: Lee
-Author-X-Name-Last: Crawfurd
+Author-Name-First: Lee
+Author-Name-Last: Crawfurd
 Author-Workplace-Name: Center for Global Development
 Author-Person: pcr198
 Author-Name: Susannah Hares
-Author-X-Name-First: Susannah
-Author-X-Name-Last: Hares
+Author-Name-First: Susannah
+Author-Name-Last: Hares
 Author-Workplace-Name: Center for Global Development
 Author-Name: Ana Luiza Minardi
-Author-X-Name-First: Ana
-Author-X-Name-Middle: Luiza
-Author-X-Name-Last: Minardi
+Author-Name-First: Ana
+Author-Name-Middle: Luiza
+Author-Name-Last: Minardi
 Author-Workplace-Name: Center for Global Development
 Title: COVID-19 in Pakistan: A Phone Survey to Assess Education, Economic, and Health-Related Outcomes
-Abstract: Using a sample of 1,211 households in Pakistan, we examine the effects of COVID-19 on three key domains: education, economic, and health-related. First, during school closures, 66 percent of surveyed households report not using technology for learning at all. Wealth disparities mar access to distance learning, and richer households are 39 percent more likely to use technology for learning compared to the poorest households. This has implications for learning remediation as children head back to school. Second, more than half of the respondents report a reduction in income and one-fifth report being food insecure during the lockdown in the first week of May 2020. Only one-fifth of households reporting a reduction in income and one-fifth of respondents reporting a reduction in the number of meals consumed report being covered by the federal government�s cash transfer program. Third, while a majority of respondents (90 percent) report adopting precautionary measures such as face masks, a vast majority of respondents (78 percent) underestimate the risk of contracting a COVID-19 infection compared to tuberculosis. With schools reopening in a phased manner since mid-September, most respondents (68 percent) believe that school reopenings will further increase the risk of COVID-19 infections.
+Abstract: Using a sample of 1,211 households in Pakistan, we examine the effects of COVID-19 on three key domains: education, economic, and health-related. First, during school closures, 66 percent of surveyed households report not using technology for learning at all. Wealth disparities mar access to distance learning, and richer households are 39 percent more likely to use technology for learning compared to the poorest households. This has implications for learning remediation as children head back to school. Second, more than half of the respondents report a reduction in income and one-fifth report being food insecure during the lockdown in the first week of May 2020. Only one-fifth of households reporting a reduction in income and one-fifth of respondents reporting a reduction in the number of meals consumed report being covered by the federal government’s cash transfer program. Third, while a majority of respondents (90 percent) report adopting precautionary measures such as face masks, a vast majority of respondents (78 percent) underestimate the risk of contracting a COVID-19 infection compared to tuberculosis. With schools reopening in a phased manner since mid-September, most respondents (68 percent) believe that school reopenings will further increase the risk of COVID-19 infections.
 Length: 60 pages
 Creation-Date: 2020-10-15
 File-URL: https://www.cgdev.org/publication/covid-19-pakistan-phone-survey-assess-education-economic-and-health-related-outcomes?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/covid-19-pakistan-phone-survey-assess-education-economic-and-health-related-outcomes.pdf
+File-Format: application/pdf
 Number: 188a
 Handle: RePEc:cgd:ppaper:188a

@@ -1,26 +1,29 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Ravi Kanbur
-Author-X-Name-First: Ravi
-Author-X-Name-Last: Kanbur
+Author-Name-First: Ravi
+Author-Name-Last: Kanbur
 Author-Workplace-Name: Cornell University
 Author-Email: sk145@cornell.edu
 Author-Person: pka712
 Author-Name: Eduardo Ortiz-Juarez
-Author-X-Name-First: Eduardo
-Author-X-Name-Last: Ortiz-Juarez
-Author-Workplace-Name: King’s College London
+Author-Name-First: Eduardo
+Author-Name-Last: Ortiz-Juarez
+Author-Workplace-Name: Kingâ€™s College London
 Author-Email: eduardo.ortizj@kcl.ac.uk
 Author-Person: por80
 Author-Name: Andy Sumner
-Author-X-Name-First: Andy
-Author-X-Name-Last: Sumner
-Author-Workplace-Name: King’s College London
+Author-Name-First: Andy
+Author-Name-Last: Sumner
+Author-Workplace-Name: Kingâ€™s College London
 Author-Email: andrew.sumner@kcl.ac.uk
 Title: The Global Inequality Boomerang
 Abstract: The decline in global inequality over the last decades has spurred a "sunshine" narrative of falling global inequality that has been rather oversold, in the sense, we argue, it is likely to be temporary. Our work first formalizes the intuition that the fall in global inequality will eventually reverse. We derive the location of the turning point for a specific measure of inequality: the mean log deviation. We make use of a custom-built database of global income to estimate this turning point. We find there is a potentially startling global inequality "boomerang," possibly in the mid-to-late 2020s, which would have happened even if there were no pandemic, and that the pandemic is likely to bring forward the global inequality boomerang. The scholarly significance of the main finding is that there is a new type of Kuznets curve, where inequality first falls and then rises as middle-income countries grow fast and approach the income levels of rich countries. The policy significance is that interventions to counteract the upward movement in global inequality will require even stronger focus on lowering the within-country inequality component of global inequality.
 Length: 22 pages
 Creation-Date: 2022-05-06
 File-URL: https://www.cgdev.org/publication/global-inequality-boomerang?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/global-inequality-boomerang.pdf
+File-Format: application/pdf
 Classification-JEL: D31, D63, O15
 Keywords: global inequality, inequality boomerang, COVID-19 pandemic
 Number: 615

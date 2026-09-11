@@ -1,15 +1,15 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Carolina Celis
-Author-X-Name-First: Carolina
-Author-X-Name-Last: Celis
+Author-Name-First: Carolina
+Author-Name-Last: Celis
 Author-Workplace-Name: Inter-American Development Bank
 Author-Name: Arturo Galindo
-Author-X-Name-First: Arturo
-Author-X-Name-Last: Galindo
+Author-Name-First: Arturo
+Author-Name-Last: Galindo
 Author-Workplace-Name: Inter-American Development Bank
 Author-Name: Liliana Rojas-Suarez
-Author-X-Name-First: Liliana
-Author-X-Name-Last: Rojas-Suarez
+Author-Name-First: Liliana
+Author-Name-Last: Rojas-Suarez
 Author-Workplace-Name: Center for Global Development
 Author-Person: pro527
 Title: Stylized Facts on the Quality of Banking Regulation in Latin America and the Caribbean
@@ -17,6 +17,9 @@ Abstract: This paper presents findings from a comprehensive survey of 18 central
 Length: 25 pages
 Creation-Date: 2024-10-10
 File-URL: https://www.cgdev.org/publication/stylized-facts-quality-banking-regulation-latin-america-and-caribbean?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/stylized-facts-quality-banking-regulation-latin-america-and-caribbean.pdf
+File-Format: application/pdf
 Classification-JEL: E58, G21, G28
 Keywords: Financial Regulation, Banking Supervision, Basel III Adoption
 Number: 705

@@ -1,7 +1,7 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Tom Slayton
-Author-X-Name-First: Tom
-Author-X-Name-Last: Slayton
+Author-Name-First: Tom
+Author-Name-Last: Slayton
 Author-Email: tslayton@cgdev.org
 Title: Rice Crisis Forensics: How Asian Governments Carelessly Set the World Rice Market on Fire
 Abstract: The world rice market was aflame last spring and for several months it looked as if
@@ -22,10 +22,12 @@ of decision makers in several key Asian rice exporting and importing countries. 
 describing the cascading negative effects of these seemingly rational domestic
 policies, this paper aims to help policy makers in the rice exporting and importing
 nations to avoid a repeat of the disastrous price spike of 2008.
-Length:  43 pages
-Creation-Date:  2009-03
-File-URL: http://www.cgdev.org/content/publications/detail/1421260
+Length: 43 pages
+Creation-Date: 2009-03
+File-URL: https://www.cgdev.org/publication/rice-crisis-forensics-how-asian-governments-carelessly-set-world-rice-market-fire?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1421260_file_Slayton_Rice_Crisis_Forensics_FINAL.pdf
+File-Format: application/pdf
 Number: 163
-Classification-JEL: 
 Keywords: rice, inflation, prices
 Handle: RePEc:cgd:wpaper:163

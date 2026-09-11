@@ -1,13 +1,13 @@
-Template-Type: ReDIF-Paper 1.0
+ÔªøTemplate-Type: ReDIF-Paper 1.0
 Author-Name: Sanjeev Gupta
-Author-X-Name-First: Sanjeev
-Author-X-Name-Last: Gupta
+Author-Name-First: Sanjeev
+Author-Name-Last: Gupta
 Author-Workplace-Name: Center for Global Development
 Author-Email: sgupta@cgdev.org
-Author-Name: Jo„o Tovar Jalles
-Author-X-Name-First: Jo„o
-Author-X-Name-Middle: Tovar
-Author-X-Name-Last: Jalles
+Author-Name: Jo√£o Tovar Jalles
+Author-Name-First: Jo√£o
+Author-Name-Middle: Tovar
+Author-Name-Last: Jalles
 Author-Workplace-Name: Assistant Professor of Economics at the University of Lisbon
 Author-Email: joaojalles@gmail.com
 Author-Person: pja203
@@ -16,7 +16,10 @@ Abstract: We estimate that the short to medium-term fiscal impact of previous pa
 Length: 34 pages
 Creation-Date: 2021-03-02
 File-URL: https://www.cgdev.org/publication/can-covid-induce-governments-implement-tax-reforms?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/WP567-Gupta-Jalles-Pandemic-tax-reforms.pdf
+File-Format: application/pdf
 Classification-JEL: C33, C36, D63, E32, E62, H20
-Keywords: fiscal policy; pandemics; local projection; impulse response functions; tax reforms; binary choice models
+Keywords: fiscal policy, pandemics, local projection, impulse response functions, tax reforms, binary choice models
 Number: 567
 Handle: RePEc:cgd:wpaper:567

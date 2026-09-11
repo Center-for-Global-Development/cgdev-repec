@@ -1,16 +1,17 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Simon Johnson
-Author-X-Name-First: Simon
-Author-X-Name-Last: Johnson
+Author-Name-First: Simon
+Author-Name-Last: Johnson
 Author-Name: William Larson
-Author-X-Name-First: William
-Author-X-Name-Last: Larson
+Author-Name-First: William
+Author-Name-Last: Larson
 Author-Name: Chris Papageorgiou
-Author-X-Name-First: Chris
-Author-X-Name-Last: Papageorgiou
+Author-Name-First: Chris
+Author-Name-Last: Papageorgiou
 Author-Name: Arvind Subramanian
-Author-X-Name-First: Arvind
-Author-X-Name-Last: Subramanian
+Author-Name-First: Arvind
+Author-Name-Last: Subramanian
+Author-Person: psu108
 Title: Is Newer Better? Penn World Table Revisions and Their Impact on Growth Estimates
 Abstract: This paper sheds light on two problems in the Penn World Table (PWT) GDP estimates. First, we
 show that these estimates vary substantially across different versions of the PWT despite being derived from
@@ -19,13 +20,16 @@ that it is intrinsic to the methodology deployed by the PWT to estimate growth r
 matters for the cross-country growth literature. While growth studies that use low-frequency data remain
 robust to data revisions, studies that use annual data are less robust. Second, the PWT methodology leads
 to GDP estimates that are not valued at purchasing power parity (PPP) prices. This is surprising because the
-raison d’être of the PWT is to adjust national estimates of GDP by valuing output at common international
+raison dâ€™Ãªtre of the PWT is to adjust national estimates of GDP by valuing output at common international
 (PPP) prices so that the resulting PPP-adjusted estimates of GDP are comparable across countries. We propose
 an approach to address these two problems of variability and valuation.
-Length:  61 pages
-Creation-Date:  2009-11
-File-URL: http://www.cgdev.org/content/publications/detail/1423224
+Length: 61 pages
+Creation-Date: 2009-11
+File-URL: https://www.cgdev.org/publication/newer-better-penn-world-table-revisions-and-their-impact-growth-estimates-working-paper?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1423224_file_Johnson_et_al_Penn_Tables.pdf
+File-Format: application/pdf
 Number: 191
 Classification-JEL: O11, O40, O47
-Keywords: purchasing power parity; penn world table; methodology; growth; gdp estimates; cross-county data
+Keywords: purchasing power parity, penn world table, methodology, growth, gdp estimates, cross-county data
 Handle: RePEc:cgd:wpaper:191

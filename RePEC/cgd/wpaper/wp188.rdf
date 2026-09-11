@@ -1,21 +1,22 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Aaditya Mattoo
-Author-X-Name-First: Aaditya
-Author-X-Name-Last: Mattoo
+Author-Name-First: Aaditya
+Author-Name-Last: Mattoo
 Author-Name: Arvind Subramanian
-Author-X-Name-First: Arvind
-Author-X-Name-Last: Subramanian
+Author-Name-First: Arvind
+Author-Name-Last: Subramanian
+Author-Person: psu108
 Author-Name: Dominique van der Mensbrugghe
-Author-X-Name-First: Dominique
-Author-X-Name-Last: van der Mensbrugghe
+Author-Name-First: Dominique
+Author-Name-Last: van der Mensbrugghe
 Author-Name: Jianwu He
-Author-X-Name-First: Jianwu
-Author-X-Name-Last: He
+Author-Name-First: Jianwu
+Author-Name-Last: He
 Title: Can Global De-Carbonization Inhibit Developing-Country Industrialization?
 Abstract: Most economic analyses of climate change have focused on the aggregate impact on countries of mitigation
 actions. We depart first in disaggregating the impact by sector, focusing particularly on manufacturing output
 and exports because of the potential growth consequences. Second, we decompose the impact of an agreement
-on emissions reductions into three components: the change in the price of carbon due to each country�s
+on emissions reductions into three components: the change in the price of carbon due to each country’s
 emission cuts per se; the further change in this price due to emissions tradability; and the changes due to
 any international transfers (private and public). Manufacturing output and exports in low carbon intensity
 countries such as Brazil are not adversely affected. In contrast, in high carbon intensity countries, such as
@@ -24,10 +25,13 @@ exports by 9-11 percent. The increase in the carbon price induced by emissions t
 output most while the Dutch disease effects of transfers hurt exports most. If the growth costs of these
 structural changes are judged to be substantial, the current policy consensus, which favors emissions tradability
 (on efficiency grounds) supplemented with financial transfers (on equity grounds), needs re-consideration.
-Length:  38 pages
-Creation-Date:  2009-11
-File-URL: http://www.cgdev.org/content/publications/detail/1423203
+Length: 38 pages
+Creation-Date: 2009-11
+File-URL: https://www.cgdev.org/publication/can-global-de-carbonization-inhibit-developing-country-industrialization-working-paper?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1423203_file_Subramanian_De_Carbon_265_.pdf
+File-Format: application/pdf
 Number: 188
 Classification-JEL: F13, F18, H23, Q56
-Keywords: trade; environment; climate change; emissions trading
+Keywords: trade, environment, climate change, emissions trading
 Handle: RePEc:cgd:wpaper:188

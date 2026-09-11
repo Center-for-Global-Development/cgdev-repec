@@ -1,40 +1,43 @@
-Template-Type: ReDIF-Paper 1.0
+ÔªøTemplate-Type: ReDIF-Paper 1.0
 Author-Name: Nita K. Madhav
-Author-X-Name-First: Nita
-Author-X-Name-Middle: K.
-Author-X-Name-Last: Madhav
+Author-Name-First: Nita
+Author-Name-Middle: K.
+Author-Name-Last: Madhav
 Author-Workplace-Name: Ginkgo Bioworks
 Author-Email: nmadhav@ginkgobioworks.com
 Author-Name: Ben Oppenheim
-Author-X-Name-First: Ben
-Author-X-Name-Last: Oppenheim
+Author-Name-First: Ben
+Author-Name-Last: Oppenheim
 Author-Workplace-Name: Ginkgo Bioworks
 Author-Name: Nicole Stephenson
-Author-X-Name-First: Nicole
-Author-X-Name-Last: Stephenson
+Author-Name-First: Nicole
+Author-Name-Last: Stephenson
 Author-Workplace-Name: Ginkgo Bioworks
 Author-Name: Rinette Badker
-Author-X-Name-First: Rinette
-Author-X-Name-Last: Badker
+Author-Name-First: Rinette
+Author-Name-Last: Badker
 Author-Workplace-Name: Ginkgo Bioworks
 Author-Name: Dean T. Jamison
-Author-X-Name-First: Dean
-Author-X-Name-Middle: T.
-Author-X-Name-Last: Jamison
+Author-Name-First: Dean
+Author-Name-Middle: T.
+Author-Name-Last: Jamison
 Author-Workplace-Name: University of California, San Francisco
 Author-Name: Cathine Lam
-Author-X-Name-First: Cathine
-Author-X-Name-Last: Lam
+Author-Name-First: Cathine
+Author-Name-Last: Lam
 Author-Workplace-Name: Ginkgo Bioworks
 Author-Name: Amanda Meadows
-Author-X-Name-First: Amanda
-Author-X-Name-Last: Meadows
+Author-Name-First: Amanda
+Author-Name-Last: Meadows
 Author-Workplace-Name: Ginkgo Bioworks
 Title: Estimated Future Mortality from Pathogens of Epidemic and Pandemic Potential
-Abstract: Epidemics and pandemics pose a sporadic and sometimes severe threat to human health. How should policymakers prioritize preventing and preparing for such events, relative to other needs? To answer this question, we used computational epidemiology and extreme events modeling simulations to estimate the risk of future mortality from low-frequency, high severity epidemics and pandemics in two important categoriesórespiratory diseases (in particular those caused by pandemic influenza viruses and novel coronaviruses) and viral hemorrhagic fevers (VHFs) such as Ebola and Marburg virus diseases. We estimate a global annual average of 2.5 million deaths, attributed to respiratory pandemics. We estimate an annual average of 26,000 VHF deaths globally, 72 percent of which would be in Africa. Annual averages conceal vast year by year variation, and the reported analyses convey that variationóas well as variation across regions and by age. Our estimates suggest that both the frequency and severity of such events is higher than previously believedóand this is likely to be a lower bound estimate given the focus of this chapter on deaths caused by a subset of pathogens. Our simulations suggest that an event having the mortality level of COVID-19 should not be considered a ìonce in a centuryî risk, but rather occurring with an annual probability of 2-3 percent (that is, a one in 33-50-year event). Despite the substantial uncertainty in heavy-tail distributions, policymakers can use these estimates to develop risk-informed financing, prevention, preparedness, and response plans.
+Abstract: Epidemics and pandemics pose a sporadic and sometimes severe threat to human health. How should policymakers prioritize preventing and preparing for such events, relative to other needs? To answer this question, we used computational epidemiology and extreme events modeling simulations to estimate the risk of future mortality from low-frequency, high severity epidemics and pandemics in two important categories‚Äîrespiratory diseases (in particular those caused by pandemic influenza viruses and novel coronaviruses) and viral hemorrhagic fevers (VHFs) such as Ebola and Marburg virus diseases. We estimate a global annual average of 2.5 million deaths, attributed to respiratory pandemics. We estimate an annual average of 26,000 VHF deaths globally, 72 percent of which would be in Africa. Annual averages conceal vast year by year variation, and the reported analyses convey that variation‚Äîas well as variation across regions and by age. Our estimates suggest that both the frequency and severity of such events is higher than previously believed‚Äîand this is likely to be a lower bound estimate given the focus of this chapter on deaths caused by a subset of pathogens. Our simulations suggest that an event having the mortality level of COVID-19 should not be considered a ‚Äúonce in a century‚Äù risk, but rather occurring with an annual probability of 2-3 percent (that is, a one in 33-50-year event). Despite the substantial uncertainty in heavy-tail distributions, policymakers can use these estimates to develop risk-informed financing, prevention, preparedness, and response plans.
 Length: 78 pages
 Creation-Date: 2023-11-13
 File-URL: https://www.cgdev.org/publication/estimated-future-mortality-pathogens-epidemic-and-pandemic-potential?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/estimated-future-mortality-pathogens-epidemic-and-pandemic-potential.pdf
+File-Format: application/pdf
 Keywords: Epidemics, pandemics, influenza, coronavirus, risk modeling
 Number: 665
 Handle: RePEc:cgd:wpaper:665

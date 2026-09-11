@@ -1,22 +1,31 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Sarah Dykstra, Benjamin Dykstra, and Justin Sandefur		
-Author-X-Name-First: Sarah			 			
-Author-X-Name-Last: Dykstra
-Title: We Just Ran Twenty-Three Million Queries of the World Bank's Website - Working Paper 362
+ï»¿Template-Type: ReDIF-Paper 1.0
+Author-Name: Sarah Dykstra
+Author-Name-First: Sarah
+Author-Name-Last: Dykstra
+Author-Name: Benjamin Dykstra
+Author-Name-First: Benjamin
+Author-Name-Last: Dykstra
+Author-Name: Justin Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
+Author-Person: psa778
+Title: We Just Ran Twenty-Three Million Queries of the World Bank's Website
 Abstract: Much of the data underlying global poverty and inequality estimates is not in the public
-domain, but can be accessed in small pieces using the World Bank’s PovcalNet online tool. To
+domain, but can be accessed in small pieces using the World Bankâ€™s PovcalNet online tool. To
 overcome these limitations and reproduce this database in a format more useful to researchers,
-we ran approximately 23 million queries of the World Bank’s web site, accessing only information
+we ran approximately 23 million queries of the World Bankâ€™s web site, accessing only information
 that was already in the public domain. This web scraping exercise produced 10,000 points on the
 cumulative distribution of income or consumption from each of 942 surveys spanning 127 countries
 over the period 1977 to 2012. This short note describes our methodology, briefly discusses some of
 the relevant intellectual property issues, and illustrates the kind of calculations that are facilitated
 by this data set, including growth incidence curves and poverty rates using alternative PPP indices.
 The full data can be downloaded at www.cgdev.org/povcalnet.
-
-Length:  20 pages
+Length: 20 pages
 Creation-Date: 2014-04
-File-URL: http://www.cgdev.org/sites/default/files/dykstra-sandefur-povcal-net-world-bank_1.pdf
+File-URL: https://www.cgdev.org/publication/we-just-ran-twenty-three-million-queries-world-banks-website-working-paper-362?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/dykstra-sandefur-povcal-net-world-bank_2.pdf
+File-Format: application/pdf
 Number: 362
 Classification-JEL: D31, I32, O57
 Keywords: poverty, inequality, consumption, income distribution, open data

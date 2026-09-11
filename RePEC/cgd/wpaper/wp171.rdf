@@ -1,16 +1,20 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Michael Clemens
-Author-X-Name-First: Michael
-Author-X-Name-Last: Clemens
+Author-Name-First: Michael
+Author-Name-Last: Clemens
+Author-Person: pcl20
 Author-Name: Samuel Bazzi
-Author-X-Name-First: Samuel
-Author-X-Name-Last: Bazzi
+Author-Name-First: Samuel
+Author-Name-Last: Bazzi
 Title: Blunt Instruments: On Establishing the Causes of Economic Growth
 Abstract: Concern has intensified in recent years that many instrumental variables used in widely-cited growth regressions may be invalid, weak, or both. Attempts to remedy this general problem remain inadequate. We demonstrate that a range of published growth regressions may contain spurious results because of hidden problems with the instrumental variables they use. We urge several steps to surpass these difficulties: grounding of growth regressions in slightly more generalized theoretical models, deployment of the latest methods for estimating sensitivity to violations of exclusion restrictions, opening the black box of GMM with supportive evidence of instrument strength, and utilization of weak-instrument robust tests and estimators.
-Length:  47 pages
-Creation-Date:  2009-05
-File-URL: http://www.cgdev.org/content/publications/detail/1422132/
+Length: 47 pages
+Creation-Date: 2009-05
+File-URL: https://www.cgdev.org/publication/blunt-instruments-establishing-causes-economic-growth-working-paper-171?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1422132_file_Bazzi_Clemens_blunt_instruments_FINAL.pdf
+File-Format: application/pdf
 Number: 171
-Classification-JEL: F35, C12, O4 
-Keywords: IV, instrumental variables, , 2SLS, two-stage least squares, Generalized Method of Moments, GMM, Blundell-Bond, Arellano-Bond, exclusion restriction, economic growth, regression, weak instruments, valid instruments, overidentification, underidentification, identification problem, growth determinants, foreign aid, institutions, geography, legal origins, too many instruments.
+Classification-JEL: F35, C12, O4
+Keywords: IV, instrumental variables, , 2SLS, two-stage least squares, Generalized Method of Moments, GMM, Blundell-Bond, Arellano-Bond, exclusion restriction, economic growth, regression, weak instruments, valid instruments, overidentification, underidentification, identification problem, growth determinants, foreign aid, institutions, geography, legal origins, too many instruments
 Handle: RePEc:cgd:wpaper:171

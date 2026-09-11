@@ -1,14 +1,17 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Nandini Harihareswara
-Author-X-Name-First: Nandini
-Author-X-Name-Last: Harihareswara
+Author-Name-First: Nandini
+Author-Name-Last: Harihareswara
 Author-Name: Howard Miller
-Author-X-Name-First: Howard
-Author-X-Name-Last: Miller
+Author-Name-First: Howard
+Author-Name-Last: Miller
 Title: An Analysis of the Binding Constraints on Digital Financial Inclusion in India Using a Decision Tree Methodology
 Abstract: The past decade has seen significant innovation and growth in the volume and value of digital payments in India. However, we find that the associated gains have been heavily concentrated in favor of wealthier and urban customers and have had less impact on lower income and rural populations. While some customers now have a far greater selection of quick, cheap, and convenient digital payments methods, as much as 65 percent of the population remains effectively excluded. Using a decision tree framework, we test a range of factors on the supply and demand sides that could be binding constraints on further digital finance penetration. We find that an unlevel playing field in favor of the (primarily state-owned) banking sector results in a lack of effective competition that could be inhibiting greater innovation and outreach in favor of lower-income and marginalized people. This unlevel playing field is potentially a function of institutional weakness combined with the nexus of control of the government and the banking sector, which is reinforced by the position of the National Payments Corporation of India. This control may also be viewed by the government as necessary to protect economic stability in a very dynamic market. To the extent that institutional deficiencies are the root cause of regulatory barriers to the entry of new providers and the scope of digital financial services offered, they are a binding constraint on advancing digital financial inclusion. Under this market structure, the outreach and inherent business models of digital payments and transfers do not provide sufficient perceived benefits to attract large segments of the population. Further, a lack of trust in providers combines with the perception of low benefits to generate an additional binding constraint, preventing the market from reaching a critical mass at which the bulk of the population would have the means and the incentives to use the system. Therefore, the market remains at an equilibrium below its potential.
 Length: 85 pages
 Creation-Date: 2021-04-29
 File-URL: https://www.cgdev.org/publication/analysis-binding-constraints-digital-financial-inclusion-india-using-decision-tree?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/Analysis-of-binding-constraints-digital-financial-inclusion-india-using-decision-tree.pdf
+File-Format: application/pdf
 Number: 210
 Handle: RePEc:cgd:ppaper:210

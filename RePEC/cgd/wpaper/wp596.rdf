@@ -1,20 +1,20 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Lee Crawfurd
-Author-X-Name-First: Lee
-Author-X-Name-Last: Crawfurd
+Author-Name-First: Lee
+Author-Name-Last: Crawfurd
 Author-Workplace-Name: Center for Global Development
 Author-Person: pcr198
 Author-Name: Susannah Hares
-Author-X-Name-First: Susannah
-Author-X-Name-Last: Hares
+Author-Name-First: Susannah
+Author-Name-Last: Hares
 Author-Workplace-Name: Center for Global Development
 Author-Name: Ana Minardi
-Author-X-Name-First: Ana
-Author-X-Name-Last: Minardi
+Author-Name-First: Ana
+Author-Name-Last: Minardi
 Author-Workplace-Name: Center for Global Development
 Author-Name: Justin Sandefur
-Author-X-Name-First: Justin
-Author-X-Name-Last: Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
 Author-Workplace-Name: Center for Global Development
 Author-Person: psa778
 Title: Understanding Education Policy Preferences: Survey Experiments with Policymakers in 35 Developing Countries
@@ -22,6 +22,9 @@ Abstract: Foreign aid donors and international organizations supporting educatio
 Length: 55 pages
 Creation-Date: 2021-11-30
 File-URL: https://www.cgdev.org/publication/understanding-education-policy-preferences-survey-experiments-policymakers-35-developing?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/understanding-education-policy-preferences-survey-experiments-policymakers-35-developing.pdf
+File-Format: application/pdf
 Classification-JEL: H40, H52, I22, I25, O15
 Keywords: foundational literacy, vocational education, bureaucracy, policy preferences, conjoint, discrete choice
 Number: 596

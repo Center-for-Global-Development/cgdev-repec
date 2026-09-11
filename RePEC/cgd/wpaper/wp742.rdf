@@ -1,27 +1,30 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Miriam Bruhn
-Author-X-Name-First: Miriam
-Author-X-Name-Last: Bruhn
+Author-Name-First: Miriam
+Author-Name-Last: Bruhn
 Author-Workplace-Name: World Bank
 Author-Email: mbruhn@worldbank.org
 Author-Person: pbr267
 Author-Name: Asli Demirguc-Kunt
-Author-X-Name-First: Asli
-Author-X-Name-Last: Demirguc-Kunt
+Author-Name-First: Asli
+Author-Name-Last: Demirguc-Kunt
 Author-Workplace-Name: Center for Global Development
 Author-Email: ademirguckunt@gmail.com
 Author-Person: pde226
 Author-Name: Dorothe Singer
-Author-X-Name-First: Dorothe
-Author-X-Name-Last: Singer
+Author-Name-First: Dorothe
+Author-Name-Last: Singer
 Author-Workplace-Name: World Bank
 Author-Email: dsinger@worldbank.org
 Author-Person: psi626
 Title: Government Support and Firm Performance During COVID-19
-Abstract: This paper assesses the medium-run effects of government support to firms during the COVID-19 crisis and whether the effectiveness of this support varied with its timing. Using data from three rounds of the World Bank�s Enterprise Surveys COVID-19 Follow-up Surveys carried out between May 2020 and August 2022, it relates government support in Round 1 and 2 with firm performance in Round 3. Our results add to the existing literature on government support during the COVID-19 shock and previous crises, which has provided little evidence on how the effect of this support varies with its timing. Controlling for a host of background characteristics, firms that received support in Round 1 performed better in terms of Round 3 sales, but only if they did not have continued support. Firms that also received support in Round 2 had similar Round 3 sales to those who received no support. Firms that received government support only in Round 2 experienced no boost in Round 3 performance. The findings suggest that government support should be provided promptly, but it should also be phased out quickly.
+Abstract: This paper assesses the medium-run effects of government support to firms during the COVID-19 crisis and whether the effectiveness of this support varied with its timing. Using data from three rounds of the World Bank’s Enterprise Surveys COVID-19 Follow-up Surveys carried out between May 2020 and August 2022, it relates government support in Round 1 and 2 with firm performance in Round 3. Our results add to the existing literature on government support during the COVID-19 shock and previous crises, which has provided little evidence on how the effect of this support varies with its timing. Controlling for a host of background characteristics, firms that received support in Round 1 performed better in terms of Round 3 sales, but only if they did not have continued support. Firms that also received support in Round 2 had similar Round 3 sales to those who received no support. Firms that received government support only in Round 2 experienced no boost in Round 3 performance. The findings suggest that government support should be provided promptly, but it should also be phased out quickly.
 Length: 38 pages
 Creation-Date: 2026-03-23
 File-URL: https://www.cgdev.org/publication/government-support-and-firm-performance-during-covid-19?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/government-support-and-firm-performance-during-covid-19.pdf
+File-Format: application/pdf
 Classification-JEL: D22, D24, H81, O47
 Keywords: Government support, COVID-19, productivity, firms
 Number: 742

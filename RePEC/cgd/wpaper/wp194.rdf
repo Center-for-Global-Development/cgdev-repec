@@ -1,13 +1,13 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: James Fearon
-Author-X-Name-First: James
-Author-X-Name-Last: Fearon
+Author-Name-First: James
+Author-Name-Last: Fearon
 Author-Name: Macartan Humphreys
-Author-X-Name-First: Macartan
-Author-X-Name-Last: Humphreys
+Author-Name-First: Macartan
+Author-Name-Last: Humphreys
 Author-Name: Jeremy Weinstein
-Author-X-Name-First: Jeremy
-Author-X-Name-Last: Weinstein
+Author-Name-First: Jeremy
+Author-Name-Last: Weinstein
 Title: Development Assistance, Institution Building, and Social Cohesion after Civil War: Evidence from a Field Experiment in Liberia
 Abstract: Can brief, foreign-funded efforts to build local institutions have positive effects on local patterns of governance,
 cooperation, and well-being? Prior research suggests that such small-scale, externally driven interventions are
@@ -20,10 +20,12 @@ We find powerful evidence that the program was successful in increasing social c
 it reinforced democratic political attitudes and increased confidence in local decision-making procedures, but
 only weak evidence that material well-being was positively affected. There is essentially no evidence of adverse
 effects.
-Length:  40 pages
-Creation-Date:  2009-12
-File-URL: http://www.cgdev.org/content/publications/detail/1423322
+Length: 40 pages
+Creation-Date: 2009-12
+File-URL: https://www.cgdev.org/publication/development-assistance-institution-building-and-social-cohesion-after-civil-war-evidence?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1423322_file_Weinstein_CGD_WP.pdf
+File-Format: application/pdf
 Number: 194
-Classification-JEL: 
-Keywords: Liberia; reconstruction; post-conflict; institution building; democracy; development; peacebuilding
+Keywords: Liberia, reconstruction, post-conflict, institution building, democracy, development, peacebuilding
 Handle: RePEc:cgd:wpaper:194

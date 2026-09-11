@@ -1,19 +1,19 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Sergio C�rdenas
-Author-X-Name-First: Sergio
-Author-X-Name-Last: C�rdenas
-Author-Workplace-Name: Centro de Investigaci�n y Docencia Econ�micas (CIDE)
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Sergio Cárdenas
+Author-Name-First: Sergio
+Author-Name-Last: Cárdenas
+Author-Workplace-Name: Centro de Investigación y Docencia Económicas (CIDE)
 Author-Email: sergio.cardenas@cide.edu
 Author-Name: David K. Evans
-Author-X-Name-First: David
-Author-X-Name-Middle: K.
-Author-X-Name-Last: Evans
+Author-Name-First: David
+Author-Name-Middle: K.
+Author-Name-Last: Evans
 Author-Workplace-Name: Center for Global Development
 Author-Email: devans@cgdev.org
 Author-Person: pev50
 Author-Name: Peter Holland
-Author-X-Name-First: Peter
-Author-X-Name-Last: Holland
+Author-Name-First: Peter
+Author-Name-Last: Holland
 Author-Workplace-Name: World Bank
 Author-Email: pholland@worldbank.org
 Title: Parent Training and Child Development at Low Cost? Evidence from a Randomized Field Experiment in Mexico
@@ -21,6 +21,9 @@ Abstract: Can at-scale, government-implemented parent training programs improve 
 Length: 44 pages
 Creation-Date: 2023-08-09
 File-URL: https://www.cgdev.org/publication/parent-training-and-child-development-low-cost-evidence-randomized-field-experiment?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/parent-training-and-child-development-low-cost-evidence-randomized-field-experiment.pdf
+File-Format: application/pdf
 Keywords: Early childhood education, early childhood development, low- and middle-income countries, human capital, parenting
 Number: 651
 Handle: RePEc:cgd:wpaper:651

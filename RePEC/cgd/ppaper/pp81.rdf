@@ -1,14 +1,17 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Benjamin Leo
-Author-X-Name-First: Benjamin
-Author-X-Name-Last: Leo
+Author-Name-First: Benjamin
+Author-Name-Last: Leo
 Author-Name: Todd Moss
-Author-X-Name-First: Todd
-Author-X-Name-Last: Moss
+Author-Name-First: Todd
+Author-Name-Last: Moss
 Title: Inside the Portfolio of the Overseas Private Investment Corporation
-Abstract: The Overseas Private Investment Corporation (OPIC) is the US government's development finance institution. It provides investors with financing, political risk insurance, and support for private equity investment funds when commercial funding cannot be obtained elsewhere. Its mandate is to mobilize private capital to help address critical development challenges and to advance US foreign policy and national security priorities. However, balancing risks, financial needs, and development benefits is riven with numerous tensions, statutory restrictions, and tradeoffs. This raises an important policy question - how well does OPIC�s actual portfolio balance these competing goals? Since much data about the OPIC portfolio is unavailable in an accessible format, we built the OPIC Scraped Portfolio database to address this question. Using this new resource, we provide descriptive statistics about OPIC commitments over time, including regional and sector-level distribution, as well as based on developing countries' commercial and political risk profiles. We conclude the paper with a number of high-level takeaways.
+Abstract: The Overseas Private Investment Corporation (OPIC) is the US government's development finance institution. It provides investors with financing, political risk insurance, and support for private equity investment funds when commercial funding cannot be obtained elsewhere. Its mandate is to mobilize private capital to help address critical development challenges and to advance US foreign policy and national security priorities. However, balancing risks, financial needs, and development benefits is riven with numerous tensions, statutory restrictions, and tradeoffs. This raises an important policy question - how well does OPIC’s actual portfolio balance these competing goals? Since much data about the OPIC portfolio is unavailable in an accessible format, we built the OPIC Scraped Portfolio database to address this question. Using this new resource, we provide descriptive statistics about OPIC commitments over time, including regional and sector-level distribution, as well as based on developing countries' commercial and political risk profiles. We conclude the paper with a number of high-level takeaways.
 Length: 41 pages
 Creation-Date: 2016-04-04
 File-URL: https://www.cgdev.org/publication/inside-portfolio-overseas-private-investment-corporation?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/CGD-Policy-Paper-81-Leo-Moss-Inside-the-OPIC-Portfolio.pdf
+File-Format: application/pdf
 Number: 81
 Handle: RePEc:cgd:ppaper:81

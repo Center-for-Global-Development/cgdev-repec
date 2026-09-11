@@ -1,7 +1,19 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Jenny C. Aker, Michael W. Klein, Stephen A. O�Connell and Muzhe Yang
-Author-X-Name-First: Jenny
-Author-X-Name-Last: AKer
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Jenny C. Aker
+Author-Name-First: Jenny
+Author-Name-Middle: C.
+Author-Name-Last: Aker
+Author-Name: Michael W. Klein
+Author-Name-First: Michael
+Author-Name-Middle: W.
+Author-Name-Last: Klein
+Author-Name: Stephen A. O’Connell
+Author-Name-First: Stephen
+Author-Name-Middle: A.
+Author-Name-Last: O’Connell
+Author-Name: Muzhe Yang
+Author-Name-First: Muzhe
+Author-Name-Last: Yang
 Title: Are Borders Barriers? The Impact of International and Internal Ethnic Borders on Agricultural Markets in West Africa
 Abstract: This paper addresses two important economic issues for Africa: the contribution of national borders and
 ethnicity to market segmentation and integration between and within countries. Market pair regression analysis
@@ -16,9 +28,12 @@ intranational market segmentation in sub-Saharan Africa. We provide suggestive e
 mechanism behind the internal border effect is related to the role of ethnicity in facilitating access to credit in
 agricultural markets. We argue that the results are not driven by differences in price volatility or observables
 across borders.
-Length:  49 pages
-Creation-Date:  2010-04
-File-URL: http://www.cgdev.org/content/publications/detail/1424038/
+Length: 49 pages
+Creation-Date: 2010-04
+File-URL: https://www.cgdev.org/publication/are-borders-barriers-impact-international-and-internal-ethnic-borders-agricultural?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1424038_file_Aker_et_al_Borders_FINAL.pdf
+File-Format: application/pdf
 Number: 208
 Classification-JEL: O1, Q1
 Keywords: Africa, border effects, agriculture, regression discontinuity design

@@ -1,13 +1,16 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Edgar A. Whitley
-Author-X-Name-First: Edgar
-Author-X-Name-Middle: A.
-Author-X-Name-Last: Whitley
-Title: Trusted Digital Identity Provision: GOV.UK Verify’s Federated Approach
-Abstract: The UK’s recently launched GOV.UK Verify service relies on a novel federated approach for digital identity verification. Accredited private companies are tasked with verifying the identities of individuals to enable them to access various government services and portals. The private identity providers can draw on a number of public and private databases to validate users’ identities to a given level of identity assurance. The paper provides an overview of the GOV.UK Verify approach to identity verification. It describes the government’s motivations for developing such a system; the standards, principles, and governance arrangements that underpin it; and how the identity proofing and verification works in practice. It considers the expansion of the Verify model for other government and private sector uses and discusses the exclusion, privacy, and liability risks associated with the use of the system. Finally, the paper highlights important lessons for other countries seeking to develop similar systems for digital access.
+Author-Name-First: Edgar
+Author-Name-Middle: A.
+Author-Name-Last: Whitley
+Title: Trusted Digital Identity Provision: GOV.UK Verifyâ€™s Federated Approach
+Abstract: The UKâ€™s recently launched GOV.UK Verify service relies on a novel federated approach for digital identity verification. Accredited private companies are tasked with verifying the identities of individuals to enable them to access various government services and portals. The private identity providers can draw on a number of public and private databases to validate usersâ€™ identities to a given level of identity assurance. The paper provides an overview of the GOV.UK Verify approach to identity verification. It describes the governmentâ€™s motivations for developing such a system; the standards, principles, and governance arrangements that underpin it; and how the identity proofing and verification works in practice. It considers the expansion of the Verify model for other government and private sector uses and discusses the exclusion, privacy, and liability risks associated with the use of the system. Finally, the paper highlights important lessons for other countries seeking to develop similar systems for digital access.
 Length: 95 pages
 Creation-Date: 2018-11-07
 File-URL: https://www.cgdev.org/publication/trusted-digital-identity-provision-gov-uk-verify-federated-approach?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/Trusted-Digital-ID-Provision-govuk.pdf
+File-Format: application/pdf
 Keywords: Digital identity, identity assurance, federated identity, privacy, GOV.UK Verify
 Number: 131
 Handle: RePEc:cgd:ppaper:131

@@ -1,13 +1,17 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Michael Clemens and David McKenzie	
-Author-X-Name-First: Michael			 			
-Author-X-Name-Last: Clemens
-Title: Why Don't Remittances Appear to Affect Growth? - Working Paper 366
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Michael Clemens
+Author-Name-First: Michael
+Author-Name-Last: Clemens
+Author-Person: pcl20
+Author-Name: David McKenzie
+Author-Name-First: David
+Author-Name-Last: McKenzie
+Title: Why Don't Remittances Appear to Affect Growth?
 Abstract: While measured remittances by migrant workers have soared in recent years,
 macroeconomic studies have difficulty detecting their effect on economic growth. We
 review existing explanations for this puzzle and propose three new ones. First, we
 offer evidence that a large majority of the recent rise in measured remittances may
-be illusory�arising from changes in measurement, not changes in real financial flows.
+be illusory—arising from changes in measurement, not changes in real financial flows.
 Second, we show that even if these increases were correctly measured, cross-country
 regressions would have too little power to detect their effects on growth. Third, we
 point out that the greatest driver of rising remittances is rising migration, which
@@ -16,11 +20,13 @@ little reason to expect large growth effects of remittances in the origin econom
 Migration and remittances clearly have first-order effects on poverty at the origin,
 on the welfare of migrants and their families, and on global GDP; but detecting their
 effects on growth of the origin economy is likely to remain elusive.
-
-Length:  45 pages
+Length: 45 pages
 Creation-Date: 2014-05
-File-URL: http://www.cgdev.org/sites/default/files/why-dont-remittances-affect-growth_0.pdf
+File-URL: https://www.cgdev.org/publication/why-dont-remittances-appear-affect-growth-working-paper-366?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/why-dont-remittances-affect-growth_0.pdf
+File-Format: application/pdf
 Number: 366
 Classification-JEL: F24, F22, E01, O15
-Keywords: remittances, growth, migration, measurement 
+Keywords: remittances, growth, migration, measurement
 Handle: RePEc:cgd:wpaper:366

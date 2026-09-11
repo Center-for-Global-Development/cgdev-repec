@@ -1,11 +1,11 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Alan Gelb
-Author-X-Name-First: Alan
-Author-X-Name-Last: Gelb
+Author-Name-First: Alan
+Author-Name-Last: Gelb
 Author-Workplace-Name: Center for Global Development
 Author-Name: Anit Mukherjee
-Author-X-Name-First: Anit
-Author-X-Name-Last: Mukherjee
+Author-Name-First: Anit
+Author-Name-Last: Mukherjee
 Author-Workplace-Name: Center for Global Development
 Author-Person: pmu278
 Title: Digital Technology in Social Assistance Transfers for COVID-19 Relief: Lessons from Selected Cases
@@ -13,5 +13,8 @@ Abstract: Many countries have launched unprecedented relief packages to cushion 
 Length: 21 pages
 Creation-Date: 2020-09-02
 File-URL: https://www.cgdev.org/publication/digital-technology-social-assistance-transfers-covid-19-relief-lessons-selected-cases?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/digital-technology-social-assistance-transfers-covid-19-relief-lessons-selected-cases.pdf
+File-Format: application/pdf
 Number: 181
 Handle: RePEc:cgd:ppaper:181

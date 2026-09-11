@@ -1,43 +1,46 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Noam Angrist
-Author-X-Name-First: Noam
-Author-X-Name-Last: Angrist
+Author-Name-First: Noam
+Author-Name-Last: Angrist
 Author-Workplace-Name: University of Oxford
 Author-Workplace-Name: World Bank
 Author-Person: pan599
 Author-Name: David K. Evans
-Author-X-Name-First: David
-Author-X-Name-Middle: K.
-Author-X-Name-Last: Evans
+Author-Name-First: David
+Author-Name-Middle: K.
+Author-Name-Last: Evans
 Author-Workplace-Name: Center for Global Development
 Author-Person: pev50
 Author-Name: Deon Filmer
-Author-X-Name-First: Deon
-Author-X-Name-Last: Filmer
+Author-Name-First: Deon
+Author-Name-Last: Filmer
 Author-Workplace-Name: World Bank
 Author-Person: pfi118
 Author-Name: Rachel Glennerster
-Author-X-Name-First: Rachel
-Author-X-Name-Last: Glennerster
-Author-Workplace-Name: United Kingdom Foreign, Commonwealth &amp; Development Office (FCDO)
+Author-Name-First: Rachel
+Author-Name-Last: Glennerster
+Author-Workplace-Name: United Kingdom Foreign, Commonwealth & Development Office (FCDO)
 Author-Person: pgl73
 Author-Name: F. Halsey Rogers
-Author-X-Name-First: F. 
-Author-X-Name-Middle: Halsey
-Author-X-Name-Last: Rogers
+Author-Name-First: F.
+Author-Name-Middle: Halsey
+Author-Name-Last: Rogers
 Author-Workplace-Name: World Bank
 Author-Person: pro315
 Author-Name: Shwetlena Sabarwal
-Author-X-Name-First: Shwetlena
-Author-X-Name-Last: Sabarwal
+Author-Name-First: Shwetlena
+Author-Name-Last: Sabarwal
 Author-Workplace-Name: World Bank
 Author-Person: psa613
 Title: How to Improve Education Outcomes Most Efficiently? A Comparison of 150 Interventions Using the New Learning-Adjusted Years of Schooling Metric
-Abstract: Many low- and middle-income countries lag far behind high-income countries in educational access and student learning. Limited resources mean that policymakers must make tough choices about which investments to make to improve education. Although hundreds of education interventions have been rigorously evaluated, making comparisons between the results is challenging. Some studies report changes in years of schooling; others report changes in learning. Standard deviations, the metric typically used to report learning gains, measure gains relative to a local distribution of test scores. This metric makes it hard to judge if the gain is worth the cost in absolute terms. This paper proposes using learning-adjusted years of schooling (LAYS)—which combines access and quality and compares gains to an absolute, cross-country standard—as a new metric for reporting gains from education interventions. The paper applies LAYS to compare the effectiveness (and cost-effectiveness, where cost is available) of interventions from 150 impact evaluations across 46 countries. The results show that some of the most cost-effective programs deliver the equivalent of three additional years of high-quality schooling (that is, schooling at quality comparable to the highest-performing education systems) for just $100 per child—compared with zero years for other classes of interventions.
+Abstract: Many low- and middle-income countries lag far behind high-income countries in educational access and student learning. Limited resources mean that policymakers must make tough choices about which investments to make to improve education. Although hundreds of education interventions have been rigorously evaluated, making comparisons between the results is challenging. Some studies report changes in years of schooling; others report changes in learning. Standard deviations, the metric typically used to report learning gains, measure gains relative to a local distribution of test scores. This metric makes it hard to judge if the gain is worth the cost in absolute terms. This paper proposes using learning-adjusted years of schooling (LAYS)â€”which combines access and quality and compares gains to an absolute, cross-country standardâ€”as a new metric for reporting gains from education interventions. The paper applies LAYS to compare the effectiveness (and cost-effectiveness, where cost is available) of interventions from 150 impact evaluations across 46 countries. The results show that some of the most cost-effective programs deliver the equivalent of three additional years of high-quality schooling (that is, schooling at quality comparable to the highest-performing education systems) for just $100 per childâ€”compared with zero years for other classes of interventions.
 Length: 39 pages
 Creation-Date: 2020-10-23
-File-URL: https://www.cgdev.org/publication/how-improve-education-outcomes-most-efficiently-comparison-150-interventions-using-new?utm_source=repec&utm_medium=referral&utm_campaign=repec
-Classification-JEL: H43, H520, I2
-Keywords: Education; Cost-Benefit Analysis; Government Policies; Government Expenditures; Impact Evaluations
+File-URL: https://www.cgdev.org/publication/how-improve-education-outcomes-most-efficiently-evidence-review?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/how-improve-education-outcomes-most-efficiently-evidence-review.pdf
+File-Format: application/pdf
+Classification-JEL: H43, H52, I2
+Keywords: Education, Cost-Benefit Analysis, Government Policies, Government Expenditures, Impact Evaluations
 Number: 558
 Handle: RePEc:cgd:wpaper:558

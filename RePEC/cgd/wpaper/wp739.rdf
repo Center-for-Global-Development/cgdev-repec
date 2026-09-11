@@ -1,21 +1,24 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Lee Crawfurd
-Author-X-Name-First: Lee
-Author-X-Name-Last: Crawfurd
+Author-Name-First: Lee
+Author-Name-Last: Crawfurd
 Author-Workplace-Name: Center for Global Development
 Author-Person: pcr198
 Author-Name: James Hu
-Author-X-Name-First: James
-Author-X-Name-Last: Hu
+Author-Name-First: James
+Author-Name-Last: Hu
 Author-Workplace-Name: Coefficient Giving
 Author-Name: Theodore Mitchell
-Author-X-Name-First: Theodore
-Author-X-Name-Last: Mitchell
+Author-Name-First: Theodore
+Author-Name-Last: Mitchell
 Author-Workplace-Name: Center for Global Development
 Title: Beyond Hot Spots: Estimating Population Lead Exposure from Battery Recycling
 Abstract: One in three children worldwide has harmful levels of lead exposure. Lead-acid batteries are the main use of lead by weight, and many are recycled unsafely, but it is uncertain how much of human exposure can be traced to this recycling. In this paper, we provide new modelled estimates suggesting that around 33 percent of lead exposure in low- and lower-middle-income countries may come from battery recycling, although there remains significant uncertainty. The vast majority of harm comes from mass population low-level exposure, rather than localised hotspots. Previous studies have typically focused on small populations with high exposure living within hundreds of metres of polluted sites, but recent reduced-form quasi-experimental evidence demonstrates smaller negative effects for people living within much wider areas, affecting many more people. Our simulation model reconciles these approaches, and shows that expanding the area of concern around each recycling site increases the estimated share of global lead exposure attributable to battery recycling by an order of magnitude, from just 0.50 percent when considering only the high exposures within a few hundred metres of a site.
 Length: 49 pages
 Creation-Date: 2026-01-21
 File-URL: https://www.cgdev.org/publication/estimating-population-lead-exposure-battery-recycling?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/estimating-population-lead-exposure-battery-recycling.pdf
+File-Format: application/pdf
 Number: 739
 Handle: RePEc:cgd:wpaper:739

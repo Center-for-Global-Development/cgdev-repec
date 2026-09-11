@@ -1,18 +1,22 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Lant Pritchett, Justin Sandefur
-Author-X-Name-First: Lant
-Author-X-Name-Last: Pritchett
-Author-X-Name-First: Justin
-Author-X-Name-Last: Sandefur
+ÔªøTemplate-Type: ReDIF-Paper 1.0
+Author-Name: Lant Pritchett
+Author-Name-First: Lant
+Author-Name-Last: Pritchett
 Author-Email: lpritchett@cgdev.org
+Author-Name: Justin Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
 Author-Email: jsandefur@cgdev.org
-Title: Context Matters for Size: Why External Validity Claims and Development Practice Don't Mix-Working Paper 336
-Abstract: In this paper we examine how policymakers and practitioners should interpret the impact evaluation literature when presented with conflicting experimental and non-experimental estimates of the same intervention across varying contexts. We show three things. First, as is well known, non-experimental estimates of a treatment effect comprise a causal treatment effect and a bias term due to endogenous selection into treatment. When non-experimental estimates vary across contexts any claim for external validity of an experimental result must make the assumption that (a) treatment effects are constant across contexts, while (b) selection processes vary across contexts. This assumption is rarely stated or defended in systematic reviews of evidence. Second, as an illustration of these issues, we examine two thoroughly researched literatures in the economics of educationóclass size effects and gains from private schoolingówhich provide experimental and non-experimental estimates of causal effects from the same context and across multiple contexts.
-
-We show that the range of ìtrueî causal effects in these literatures implies OLS estimates from the right context are, at present, a better guide to policy than experimental estimates from a different context. Third, we show that in important cases in economics, parameter heterogeneity is driven by economy- or institution-wide contextual factors, rather than personal characteristics, making it difficult to overcome external validity concerns through estimation of heterogeneous treatment effects within a single localized sample. We conclude with recommendations for research and policy, including the need to evaluate programs in context, and avoid simple analogies to clinical medicine in which ìsystematic reviewsî attempt to identify best-practices by putting most (or all) weight on the most ìrigorousî evidence with no allowance for context.
-Length:  55 pages
-Creation-Date:  2013-08
-File-URL: http://www.cgdev.org/sites/default/files/context-matters-for-size_0.pdf
+Author-Person: psa778
+Title: Context Matters for Size: Why External Validity Claims and Development Practice Don't Mix
+Abstract: In this paper we examine how policymakers and practitioners should interpret the impact evaluation literature when presented with conflicting experimental and non-experimental estimates of the same intervention across varying contexts. We show three things. First, as is well known, non-experimental estimates of a treatment effect comprise a causal treatment effect and a bias term due to endogenous selection into treatment. When non-experimental estimates vary across contexts any claim for external validity of an experimental result must make the assumption that (a) treatment effects are constant across contexts, while (b) selection processes vary across contexts. This assumption is rarely stated or defended in systematic reviews of evidence. Second, as an illustration of these issues, we examine two thoroughly researched literatures in the economics of education‚Äîclass size effects and gains from private schooling‚Äîwhich provide experimental and non-experimental estimates of causal effects from the same context and across multiple contexts.
+We show that the range of ‚Äútrue‚Äù causal effects in these literatures implies OLS estimates from the right context are, at present, a better guide to policy than experimental estimates from a different context. Third, we show that in important cases in economics, parameter heterogeneity is driven by economy- or institution-wide contextual factors, rather than personal characteristics, making it difficult to overcome external validity concerns through estimation of heterogeneous treatment effects within a single localized sample. We conclude with recommendations for research and policy, including the need to evaluate programs in context, and avoid simple analogies to clinical medicine in which ‚Äúsystematic reviews‚Äù attempt to identify best-practices by putting most (or all) weight on the most ‚Äúrigorous‚Äù evidence with no allowance for context.
+Length: 55 pages
+Creation-Date: 2013-08
+File-URL: https://www.cgdev.org/publication/context-matters-size-why-external-validity-claims-and-development-practice-dont-mix?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/context-matters-for-size_1.pdf
+File-Format: application/pdf
 Number: 336
 Classification-JEL: D04, I2, O2
 Keywords: external validity, treatment effects, policy evaluation, causal inference

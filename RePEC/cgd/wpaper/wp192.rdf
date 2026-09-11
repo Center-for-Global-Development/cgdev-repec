@@ -1,14 +1,14 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Dan Hammer
-Author-X-Name-First: Dan
-Author-X-Name-Last: Hammer
+Author-Name-First: Dan
+Author-Name-Last: Hammer
 Author-Name: Robin Kraft
-Author-X-Name-First: Robin
-Author-X-Name-Last: Kraft
+Author-Name-First: Robin
+Author-Name-Last: Kraft
 Author-Name: David Wheeler
-Author-X-Name-First: David
-Author-X-Name-Last: Wheeler
-Title: FORMA: Forest Monitoring for Action� Rapid Identification of Pan-tropical Deforestation Using Moderate-Resolution Remotely Sensed Data
+Author-Name-First: David
+Author-Name-Last: Wheeler
+Title: FORMA: Forest Monitoring for Action— Rapid Identification of Pan-tropical Deforestation Using Moderate-Resolution Remotely Sensed Data
 Abstract: Rising concern about carbon emissions from deforestation has led donors to finance UN-REDD (Reducing
 Emissions from Deforestation and Forest Degradation in Developing Countries), a program that offers direct
 compensation for forest conservation. Sustainable operation of UN-REDD and other direct-compensation
@@ -21,10 +21,12 @@ possible. At current resolution, with efficient coding in publicly available sof
 global updates on one desktop computer in a few hours. Maps of probable deforestation at 1 km resolution
 will be accessible with Google Earth and Google Maps, with an open facility for ground-truthing each pixel
 via photographs and text comments.
-Length:  25 pages
-Creation-Date:  2009-11
-File-URL: http://www.cgdev.org/content/publications/detail/1423248
+Length: 25 pages
+Creation-Date: 2009-11
+File-URL: https://www.cgdev.org/publication/forma-forest-monitoring-action-rapid-identification-pan-tropical-deforestation-using?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1423248_file_Hammer_Kraft_Wheeler_FORMA_FINAL.pdf
+File-Format: application/pdf
 Number: 192
-Classification-JEL: 
-Keywords: remote sensing; forest; deforestation; conservation; climate change
+Keywords: remote sensing, forest, deforestation, conservation, climate change
 Handle: RePEc:cgd:wpaper:192

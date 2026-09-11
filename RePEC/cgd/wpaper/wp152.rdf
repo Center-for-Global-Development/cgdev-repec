@@ -1,13 +1,14 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Michael Clemens
-Author-X-Name-First: Michael
-Author-X-Name-Last: Clemens
+Author-Name-First: Michael
+Author-Name-Last: Clemens
 Author-Workplace-Name: Center for Global Development
 Author-Workplace-Name: IZA
 Author-Email: mclemens@cgdev.org
+Author-Person: pcl20
 Author-Name: Satish Chand
-Author-X-Name-First: Satish
-Author-X-Name-Last: Chand
+Author-Name-First: Satish
+Author-Name-Last: Chand
 Author-Workplace-Name: University of New South Wales
 Author-Workplace-Name: ANU
 Title: Human Capital Investment under Exit Options: Evidence from a Natural Quasi-Experiment
@@ -15,7 +16,10 @@ Abstract: When countries select immigrants based on skill, what happens in the m
 Length: 42 pages
 Creation-Date: 2008-09
 Revision-Date: 2019-02
-File-URL: https://www.cgdev.org/publication/human-capital-investment-under-exit-options-evidence-natural-quasi-experiment
+File-URL: https://www.cgdev.org/publication/human-capital-investment-under-exit-options-evidence-natural-quasi-experiment?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/human-capital-investment-under-exit-options-revision.pdf
+File-Format: application/pdf
 Number: 152
 Classification-JEL: F22, J24, N30, O15
 Handle: RePEc:cgd:wpaper:152

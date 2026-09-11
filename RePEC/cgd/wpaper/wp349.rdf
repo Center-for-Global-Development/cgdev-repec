@@ -1,32 +1,35 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Mohammad Niaz Asadullah, Nazmul Chaudhury
-Author-X-Name-First: Mohammad
-Author-X-Name-Middle: Niaz
-Author-X-Name-Last: Asadullah
-Author-X-Name-First: Nazmul
-Author-X-Name-Last: Chaudhury
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Mohammad Niaz Asadullah
+Author-Name-First: Mohammad Niaz
+Author-Name-Last: Asadullah
 Author-Email: m.asadullah@reading.ac.uk
+Author-Name: Nazmul Chaudhury
+Author-Name-First: Nazmul
+Author-Name-Last: Chaudhury
 Author-Email: nchaudhury@worldbank.org
-Title: Primary Schooling, Student Learning, and School Quality in Rural Bangladesh-Working Paper 349
-Abstract: Using a primary school curricular standard basic mathematics competence test, this paper 
-documents the low level of student achievement amongst 10-18 year old rural children in 
-Bangladesh and tests the extent to which years spent in school increases learning. Our sample 
-includes children currently enrolled in school as well as those out of school. About half of the 
-children failed to pass the written competence test, a finding that also holds for those completing 
-primary schooling. Even after holding constant a wide range of factors such as household income, 
-parental characteristics, current enrollment status, and a direct measure of child ability, there remains 
-a statistically significant correlation between schooling attained and basic mathematics competence 
-above and beyond primary school completion. This pattern is more pronounced for girls who have 
-lower competence compared to boys despite higher grade completion. 
-We further show that the schooling-learning gradient and the gender gap therein are not explained 
-by common differences in family background. Aggregate institutional indicators of school quality 
-matters for overall learning outcomes, however, does not mitigate against the gender gap. These 
-findings have wide implications for anti-poverty policies that emphasize on quantitative expansion 
+Title: Primary Schooling, Student Learning, and School Quality in Rural Bangladesh
+Abstract: Using a primary school curricular standard basic mathematics competence test, this paper
+documents the low level of student achievement amongst 10-18 year old rural children in
+Bangladesh and tests the extent to which years spent in school increases learning. Our sample
+includes children currently enrolled in school as well as those out of school. About half of the
+children failed to pass the written competence test, a finding that also holds for those completing
+primary schooling. Even after holding constant a wide range of factors such as household income,
+parental characteristics, current enrollment status, and a direct measure of child ability, there remains
+a statistically significant correlation between schooling attained and basic mathematics competence
+above and beyond primary school completion. This pattern is more pronounced for girls who have
+lower competence compared to boys despite higher grade completion.
+We further show that the schooling-learning gradient and the gender gap therein are not explained
+by common differences in family background. Aggregate institutional indicators of school quality
+matters for overall learning outcomes, however, does not mitigate against the gender gap. These
+findings have wide implications for anti-poverty policies that emphasize on quantitative expansion
 of education in developing countries, without concurrent improvements in learning.
-Length:  31 pages
-Creation-Date:  2013-12
-File-URL: http://www.cgdev.org/sites/default/files/primary-schooling-student-learning-school-quality-rural-bangladesh.pdf
+Length: 31 pages
+Creation-Date: 2013-12
+File-URL: https://www.cgdev.org/publication/primary-schooling-student-learning-and-school-quality-rural-bangladesh-working-paper-349?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/primary-schooling-student-learning-school-quality-rural-bangladesh_1.pdf
+File-Format: application/pdf
 Number: 349
 Classification-JEL: I21, Z12, O12, O15
-Keywords: Cognitive ability; gender inequality; school quality
+Keywords: Cognitive ability, gender inequality, school quality
 Handle: RePEc:cgd:wpaper:349

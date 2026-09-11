@@ -1,30 +1,33 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Lee Crawfurd
-Author-X-Name-First: Lee
-Author-X-Name-Last: Crawfurd
+Author-Name-First: Lee
+Author-Name-Last: Crawfurd
 Author-Workplace-Name: Center for Global Development
 Author-Person: pcr198
 Author-Name: David K. Evans
-Author-X-Name-First: David
-Author-X-Name-Middle: K.
-Author-X-Name-Last: Evans
+Author-Name-First: David
+Author-Name-Middle: K.
+Author-Name-Last: Evans
 Author-Workplace-Name: Center for Global Development
 Author-Person: pev50
 Author-Name: Susannah Hares
-Author-X-Name-First: Susannah
-Author-X-Name-Last: Hares
+Author-Name-First: Susannah
+Author-Name-Last: Hares
 Author-Workplace-Name: Center for Global Development
 Author-Name: Justin Sandefur
-Author-X-Name-First: Justin
-Author-X-Name-Last: Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
 Author-Workplace-Name: Center for Global Development
 Author-Person: psa778
 Title: Live Tutoring Calls Did Not Improve Learning during the COVID-19 Pandemic in Sierra Leone
-Abstract: Education systems regularly face unexpected school closures, whether due to disease outbreaks, natural disasters, or other adverse shocks. In low-income countries where internet access is scarce, distance learning—the most common educational solution—is often passive, via TV or radio, with little opportunity for teacher-student interaction. In this paper we evaluate the effectiveness of live tutoring calls from teachers, designed to supplement radio instruction during the 2020 school closures prompted by the COVID-19 pandemic. We do this with a randomised controlled trial with 4,399 primary school students in Sierra Leone. Tutoring calls led to some limited increase in educational activity, but had no effect on mathematics or language test scores, whether for girls or boys, and whether provided by public or private school teachers. Even having received tutoring calls, one in three children reported not listening to educational radio at all, so limited take-up may partly explain our results.
+Abstract: Education systems regularly face unexpected school closures, whether due to disease outbreaks, natural disasters, or other adverse shocks. In low-income countries where internet access is scarce, distance learningâ€”the most common educational solutionâ€”is often passive, via TV or radio, with little opportunity for teacher-student interaction. In this paper we evaluate the effectiveness of live tutoring calls from teachers, designed to supplement radio instruction during the 2020 school closures prompted by the COVID-19 pandemic. We do this with a randomised controlled trial with 4,399 primary school students in Sierra Leone. Tutoring calls led to some limited increase in educational activity, but had no effect on mathematics or language test scores, whether for girls or boys, and whether provided by public or private school teachers. Even having received tutoring calls, one in three children reported not listening to educational radio at all, so limited take-up may partly explain our results.
 Length: 23 pages
 Creation-Date: 2021-09-01
 Revision-Date: 2023-06-01
 File-URL: https://www.cgdev.org/publication/live-tutoring-calls-did-not-improve-learning-during-covid-19-pandemic-sierra-leone?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/live-tutoring-calls-did-not-improve-learning-during-covid-19-pandemic-sierra-leone.pdf
+File-Format: application/pdf
 Classification-JEL: I10, I20, I25, O15
 Keywords: Education, COVID, distance learning, teachers
 Number: 591

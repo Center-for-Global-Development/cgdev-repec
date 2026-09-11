@@ -1,24 +1,27 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Nora Lustig
-Author-X-Name-First: Nora
-Author-X-Name-Last: Lustig
+Author-Name-First: Nora
+Author-Name-Last: Lustig
 Author-Workplace-Name: Tulane University
 Author-Workplace-Name: Center for Global Development
 Author-Person: plu143
 Author-Name: Jon Jellema
-Author-X-Name-First: Jon
-Author-X-Name-Last: Jellema
+Author-Name-First: Jon
+Author-Name-Last: Jellema
 Author-Workplace-Name: Commitment to Equity Institute (CEQ)
 Author-Name: Valentina Martinez Pabon
-Author-X-Name-First: Valentina
-Author-X-Name-Middle: Martinez
-Author-X-Name-Last: Pabon
+Author-Name-First: Valentina
+Author-Name-Middle: Martinez
+Author-Name-Last: Pabon
 Author-Workplace-Name: Tulane University
 Title: Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?
 Abstract: Using microsimulations, we assess whether budget neutral universal income floors are fiscally viable in twelve SSA countries. We consider three universal basic income (UBI) scenarios of decreasing levels of generosity: poverty line, average poverty gap, and current spending on transfers and subsidies per person (spending neutral). The viability of the policies is assessed by comparing the results on poverty and average tax rates obtained from the simulated scenarios with those in the current system (baseline). We find that poverty line and poverty gap UBI programs would not be viable. Spending neutral UBI programs could potentially be viable in Botswana, Ghana and Zambia. If resources are targeted to the poor, a poverty line scenario is viable in Botswana, Ghana, Namibia, and South Africa.
 Length: 38 pages
 Creation-Date: 2021-07-13
 File-URL: https://www.cgdev.org/publication/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf
+File-Format: application/pdf
 Classification-JEL: H22, I38, D31
 Keywords: universal basic incomes, fiscal policy, fiscal incidence, poverty, fiscal impoverishment, taxes, sub-Saharan Africa
 Number: 588

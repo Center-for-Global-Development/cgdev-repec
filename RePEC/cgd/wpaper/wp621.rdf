@@ -1,29 +1,32 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Matthew Collin
-Author-X-Name-First: Matthew
-Author-X-Name-Last: Collin
+Author-Name-First: Matthew
+Author-Name-Last: Collin
 Author-Workplace-Name: World Bank
 Author-Person: pco702
 Author-Name: Vincenzo Di Maro
-Author-X-Name-First: Vincenzo
-Author-X-Name-Last: Di Maro
+Author-Name-First: Vincenzo
+Author-Name-Last: Di Maro
 Author-Workplace-Name: World Bank
 Author-Person: pdi32
 Author-Name: David K. Evans
-Author-X-Name-First: David
-Author-X-Name-Middle: K.
-Author-X-Name-Last: Evans
+Author-Name-First: David
+Author-Name-Middle: K.
+Author-Name-Last: Evans
 Author-Workplace-Name: Center for Global Development
 Author-Person: pev50
 Author-Name: Fredrick Manang
-Author-X-Name-First: Fredrick
-Author-X-Name-Last: Manang
+Author-Name-First: Fredrick
+Author-Name-Last: Manang
 Author-Workplace-Name: University of Dodoma
 Title: Property Tax Compliance in Tanzania: Can Nudges Help?
 Abstract: Low tax compliance in low- and middle-income countries around the world limits the ability of governments to offer effective public services. This paper reports the results of a randomly rolled out text message campaign aimed at promoting tax compliance among landowners in Dar es Salaam, Tanzania. Landowners were randomly assigned to one of four groups designed to test different aspects of tax morale. They received a simple text message reminder to pay their tax (a test of salience), a message highlighting the connection between taxes and public services (reciprocity), a message communicating that people who did not pay were not contributing to local or national development (social pressure), or no message (control). Recipients of any message were 18 percent (or 2 percentage points) more likely to pay any property tax by the end of the study period. Each type of message resulted in gains in payment rates, although social pressure messages delivered the lowest gains. Total payment amounts were highest for those who received reciprocity messages. Nudges were most effective in areas with lower initial rates of tax compliance. The average estimated benefit-cost ratio across treatments is 36:1 due to the low cost of the intervention, with higher cost-effectiveness for reciprocity messages.
 Length: 30 pages
 Creation-Date: 2022-08-08
 File-URL: https://www.cgdev.org/publication/property-tax-compliance-tanzania-can-nudges-help?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/property-tax-compliance-tanzania-nudges.pdf
+File-Format: application/pdf
 Classification-JEL: H26, H13, O17
 Keywords: tax compliance, tax morale, public finance, nudges
 Number: 621

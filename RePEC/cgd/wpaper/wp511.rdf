@@ -1,17 +1,18 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Artur Kovalchuk
-Author-X-Name-First: Artur
-Author-X-Name-Last: Kovalchuk
+Author-Name-First: Artur
+Author-Name-Last: Kovalchuk
 Author-Email: akovalchuk.akm@kse.org.ua
 Author-Workplace-Name: Kyiv School of Economics
 Author-Name: Charles Kenny
-Author-X-Name-First: Charles
-Author-X-Name-Last: Kenny
+Author-Name-First: Charles
+Author-Name-Last: Kenny
 Author-Email: ckenny@cgdev.org
 Author-Workplace-Name: Center for Global Development
+Author-Person: pke79
 Author-Name: Mallika Snyder
-Author-X-Name-First: Mallika
-Author-X-Name-Last: Snyder
+Author-Name-First: Mallika
+Author-Name-Last: Snyder
 Author-Workplace-Name: Center for Global Development
 Title: Examining the Impact of E-Procurement in Ukraine
 Abstract: This paper examines the impact of Ukraine’s ambitious procurement reform on outcomes amongst a set of procurements that used competitive tendering. The ProZorro system placed all of the country’s government procurement online, introduced an auction approach as the default procurement method, and extended transparency. The reform was introduced with a dramatic increase in the proportion of government procurement that was conducted competitively. This paper examines the impact of ProZorro and reform on contracts that were procured competitively both prior to and after the introduction of the new system. It finds some evidence of impact of the new system on increasing the number of bidders, cost savings, and reduced contracting times.
@@ -19,6 +20,9 @@ Keywords: E-procurement, Transparency, Competition
 Classification-JEL: H57, D73
 Length: 21 pages
 Creation-Date: 2019-06-11
-File-URL: https://www.cgdev.org/publication/examining-impact-e-procurement-ukraine
+File-URL: https://www.cgdev.org/publication/examining-impact-e-procurement-ukraine?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/examining-impact-e-procurement-ukraine.pdf
+File-Format: application/pdf
 Number: 511
 Handle: RePEc:cgd:wpaper:511

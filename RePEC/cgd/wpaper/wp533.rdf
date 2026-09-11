@@ -1,20 +1,25 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Justin Sandefur
-Author-X-Name-First: Justin
-Author-X-Name-Last: Sandefur
+Author-Name-First: Justin
+Author-Name-Last: Sandefur
 Author-Workplace-Name: Center for Global Development
 Author-Email: jsandefur@cgdev.org
+Author-Person: psa778
 Author-Name: Arvind Subramanian
-Author-X-Name-First: Arvind
-Author-X-Name-Last: Subramanian
+Author-Name-First: Arvind
+Author-Name-Last: Subramanian
 Author-Workplace-Name: Peterson Institute for International Economices
 Author-Workplace-Name: Harvard Kennedy School
 Author-Email: asubramanian@piie.com
+Author-Person: psu108
 Title: The IMF’s Growth Forecasts for Poor Countries Don’t Match Its COVID Narrative
 Abstract: The International Monetary Fund’s forecasts of GDP growth in 2020 suggest a substantially muted impact of the COVID crisis—about 3 percentage points smaller—for developing countries compared to advanced economies. Simple cross-country regressions show this discrepancy cannot be explained by external vulnerabilities to trade disruptions, financial crises, or commodity price shocks, which mostly suggest a more severe crisis in the developing world. It also cannot be explained by the domestic shock, because—while current case totals are greater in advanced economies—the policy responses of social distancing and lockdowns which will directly constrain economic activity have been similar across both groups of countries, and fiscal policy responses have been significantly weaker in developing countries. We hope that the relative optimism will not induce complacency and elicit a less-than-forceful response by countries themselves nor legitimize an ungenerous, conditionality-addled response on the part of the international community in the face of an unprecedented calamity.
 Length: 24 pages
 Creation-Date: 2020-05-14
 File-URL: https://www.cgdev.org/publication/imfs-growth-forecasts-poor-countries-dont-match-its-covid-narrative?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/imfs-growth-forecasts-poor-countries-dont-match-its-covid-narrative.pdf
+File-Format: application/pdf
 Classification-JEL: I15, E37, O47
 Keywords: IMF, coronavirus, covid-19, growth forecasts
 Number: 533

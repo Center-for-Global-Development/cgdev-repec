@@ -1,21 +1,24 @@
-Template-Type: ReDIF-Paper 1.0
+ÔªøTemplate-Type: ReDIF-Paper 1.0
 Author-Name: Sebastian Bauhoff
-Author-X-Name-First: Sebastian
-Author-X-Name-Last: Bauhoff
+Author-Name-First: Sebastian
+Author-Name-Last: Bauhoff
 Author-Workplace-Name: Department of Global Health and Population, Harvard T.H. Chan School of Public Health, Harvard University
 Author-Workplace-Name: Center for Global Development
 Author-Email: sbauhoff@hsph.harvard.edu
 Author-Person: pba1557
 Author-Name: Nikkil Sudharsanan
-Author-X-Name-First: Nikkil
-Author-X-Name-Last: Sudharsanan
+Author-Name-First: Nikkil
+Author-Name-Last: Sudharsanan
 Author-Workplace-Name: Heidelberg Institute of Global Health, Heidelberg University
 Author-Email: nikkil.sudharsanan@uni-heidelberg.de
 Title: The Insurance Cascade Framework to Diagnose Bottlenecks and Improve the Effectiveness of Health Insurance Programs: An Application to India
-Abstract: Many low- and middle-income countries are looking to achieve universal health coverage by implementing large social health insurance schemes. India has been a frontrunner in this effort, introducing state and national health insurance schemes, especially for tertiary care. Despite these efforts, Indian households remain at risk of high out-of-pocket spending due to inpatient hospitalizations. We examine bottlenecks to the effectiveness of health insurance schemes in India by using the ìinsurance cascade,î a framework that traces the steps from enrolling eligible households to ultimately delivering their benefits at no charge. For each cascade step, we characterize potential constraints, discuss findings from existing literature, and describe what data could inform interventions to alleviate the bottlenecks. The existing evidence suggests substantial bottlenecks across all cascade steps, with especially large gaps in beneficiariesí awareness of how to enroll in schemes, what the schemes cover, and how to access scheme benefits. However, there is limited evidence for other cascade steps and existing data sources lack information to determine where exactly on the cascade individuals are lost and what steps contribute most to the poor functioning of these schemes. More systematic and comprehensive data are required to fully characterize the cascade and to identify potential solutions.
+Abstract: Many low- and middle-income countries are looking to achieve universal health coverage by implementing large social health insurance schemes. India has been a frontrunner in this effort, introducing state and national health insurance schemes, especially for tertiary care. Despite these efforts, Indian households remain at risk of high out-of-pocket spending due to inpatient hospitalizations. We examine bottlenecks to the effectiveness of health insurance schemes in India by using the ‚Äúinsurance cascade,‚Äù a framework that traces the steps from enrolling eligible households to ultimately delivering their benefits at no charge. For each cascade step, we characterize potential constraints, discuss findings from existing literature, and describe what data could inform interventions to alleviate the bottlenecks. The existing evidence suggests substantial bottlenecks across all cascade steps, with especially large gaps in beneficiaries‚Äô awareness of how to enroll in schemes, what the schemes cover, and how to access scheme benefits. However, there is limited evidence for other cascade steps and existing data sources lack information to determine where exactly on the cascade individuals are lost and what steps contribute most to the poor functioning of these schemes. More systematic and comprehensive data are required to fully characterize the cascade and to identify potential solutions.
 Length: 14 pages
 Creation-Date: 2021-06-07
 File-URL: https://www.cgdev.org/publication/insurance-cascade-framework-diagnose-bottlenecks-and-improve-effectiveness-health?utm_source=repec&utm_medium=referral&utm_campaign=repec
-Keywords: health insurance; universal health coverage; out-of-pocket spending; use of benefits
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/Insurance-cascade-framework-diagnose-bottlenecks-and-improve-effectiveness-health.pdf
+File-Format: application/pdf
+Keywords: health insurance, universal health coverage, out-of-pocket spending, use of benefits
 Number: 583
 Handle: RePEc:cgd:wpaper:583

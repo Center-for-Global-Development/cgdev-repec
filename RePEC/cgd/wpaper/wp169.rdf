@@ -1,11 +1,11 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: James Habyarimana
-Author-X-Name-First: James
-Author-X-Name-Last: Habyarimana
+Author-Name-First: James
+Author-Name-Last: Habyarimana
 Author-Email: jhabyarimana@cgdev.org
 Author-Name: William Jack
-Author-X-Name-First: William
-Author-X-Name-Last: Jack
+Author-Name-First: William
+Author-Name-Last: Jack
 Title: Heckle and Chide: Results of a Randomized Road Safety Intervention in Kenya
 Abstract: In economies with weak enforcement of traffic regulations, drivers who adopt
 excessively risky behavior impose externalities on other vehicles, and on their own
@@ -24,11 +24,13 @@ indicate that insurance claims fell by a half to two-thirds, from an annual rate
 about 10 percent without the intervention, and that claims involving injury or death
 fell by at least 50 percent. Results of a driver survey eight months into the
 intervention suggest passenger heckling was a contributing factor to the
-improvement in safety. 
-Length:  37 pages
-Creation-Date:  2009-04
-File-URL: http://www.cgdev.org/content/publications/detail/1421541 
+improvement in safety.
+Length: 37 pages
+Creation-Date: 2009-04
+File-URL: https://www.cgdev.org/publication/heckle-and-chide-results-randomized-road-safety-intervention-kenya-working-paper-169?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1421541_file_Habyarimana_Jack_Heckle_FINAL.pdf
+File-Format: application/pdf
 Number: 169
-Classification-JEL: 
-Keywords: Kenya, traffic, driving regulations, matatus, safety 
+Keywords: Kenya, traffic, driving regulations, matatus, safety
 Handle: RePEc:cgd:wpaper:169

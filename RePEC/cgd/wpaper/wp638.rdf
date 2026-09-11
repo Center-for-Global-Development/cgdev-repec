@@ -1,16 +1,16 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Masha Bertling
-Author-X-Name-First: Masha
-Author-X-Name-Last: Bertling
+Author-Name-First: Masha
+Author-Name-Last: Bertling
 Author-Workplace-Name: Harvard Graduate School of Education
 Author-Name: Abhijeet Singh
-Author-X-Name-First: Abhijeet
-Author-X-Name-Last: Singh
+Author-Name-First: Abhijeet
+Author-Name-Last: Singh
 Author-Workplace-Name: Center for Global Development
 Author-Person: psi581
 Author-Name: Karthik Muralidharan
-Author-X-Name-First: Karthik
-Author-X-Name-Last: Muralidharan
+Author-Name-First: Karthik
+Author-Name-Last: Muralidharan
 Author-Workplace-Name: University of California, San Diego
 Author-Person: pmu102
 Title: Psychometric Quality of Measures of Learning Outcomes in Low- and Middle-Income Countries
@@ -18,5 +18,8 @@ Abstract: We investigate the properties of measures of learning outcomes, as the
 Length: 39 pages
 Creation-Date: 2023-03-21
 File-URL: https://www.cgdev.org/publication/psychometric-quality-measures-learning-outcomes-low-and-middle-income-countries?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/psychometric-quality-measures-learning-outcomes-low-and-middle-income-countries.pdf
+File-Format: application/pdf
 Number: 638
 Handle: RePEc:cgd:wpaper:638

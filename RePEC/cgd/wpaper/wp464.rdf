@@ -1,29 +1,32 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Manoj Mohanan
-Author-X-Name-First: Manoj
-Author-X-Name-Last: Mohanan
+Author-Name-First: Manoj
+Author-Name-Last: Mohanan
 Author-Workplace-Name: Duke University
 Author-Name: Grant Miller
-Author-X-Name-First: Grant
-Author-X-Name-Last: Miller
+Author-Name-First: Grant
+Author-Name-Last: Miller
 Author-Workplace-Name: Stanford University & NBER
 Author-Name: Katherine Donato
-Author-X-Name-First: Katherine
-Author-X-Name-Last: Donato
+Author-Name-First: Katherine
+Author-Name-Last: Donato
 Author-Workplace-Name: Harvard University
 Author-Name: Yulya Truskinovsky
-Author-X-Name-First: Yulya
-Author-X-Name-Last: Truskinovsky
+Author-Name-First: Yulya
+Author-Name-Last: Truskinovsky
 Author-Workplace-Name: Harvard T.H. Chan School of Public Health
-Author-Name: Marcos Vera-Hernández
-Author-X-Name-First: Marcos
-Author-X-Name-Last: Vera-Hernández
+Author-Name: Marcos Vera-HernÃ¡ndez
+Author-Name-First: Marcos
+Author-Name-Last: Vera-HernÃ¡ndez
 Author-Workplace-Name: University College London & IFS
 Title: Different Strokes for Different Folks: Experimental Evidence on the Effectiveness of Input and Output Incentive Contracts for Health Care Providers with Different Levels of Skills
-Abstract: A central issue in designing performance incentive contracts is whether to reward the production of outputs versus use of inputs: the former rewards efficiency and innovation in production, while the latter imposes less risk on agents. Agents with varying levels of skill may perform better under different contractual bases as well—more skilled workers may be better able to innovate, for example. We study these issues empirically through an experiment enabling us to observe and verify outputs (health outcomes) and inputs (guideline adherence) in Indian maternity care. We find that both output and input incentive contracts achieved comparable reductions in post-partum hemorrhage (PPH) rates, the dimension of maternity care most sensitive to provider behavior and the largest cause of maternal mortality. Interestingly, and in line with the theory, providers with advanced qualifications performed better and used new health delivery strategies under output incentives, while providers with and without advanced qualifications performed equally under input incentives.
+Abstract: A central issue in designing performance incentive contracts is whether to reward the production of outputs versus use of inputs: the former rewards efficiency and innovation in production, while the latter imposes less risk on agents. Agents with varying levels of skill may perform better under different contractual bases as wellâ€”more skilled workers may be better able to innovate, for example. We study these issues empirically through an experiment enabling us to observe and verify outputs (health outcomes) and inputs (guideline adherence) in Indian maternity care. We find that both output and input incentive contracts achieved comparable reductions in post-partum hemorrhage (PPH) rates, the dimension of maternity care most sensitive to provider behavior and the largest cause of maternal mortality. Interestingly, and in line with the theory, providers with advanced qualifications performed better and used new health delivery strategies under output incentives, while providers with and without advanced qualifications performed equally under input incentives.
 Length: 92 pages
 Creation-Date: 2017-10-11
-File-URL: https://www.cgdev.org/publication/different-strokes-different-folks-experimental-evidence-effectiveness-input-and-output
+File-URL: https://www.cgdev.org/publication/different-strokes-different-folks-experimental-evidence-effectiveness-input-and-output?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/different-strokes-different-folks.pdf
+File-Format: application/pdf
 Number: 464
-Classification-JEL: D86, J41, O15
+Classification-JEL: D86, J41, O15
 Handle: RePEc:cgd:wpaper:464

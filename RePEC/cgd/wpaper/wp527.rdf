@@ -1,14 +1,17 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Martin Ravallion
-Author-X-Name-First: Martin
-Author-X-Name-Last: Ravallion
+Author-Name-First: Martin
+Author-Name-Last: Ravallion
 Author-Workplace-Name: Georgetown University
 Title: SDG1: The Last Three Percent
-Abstract: There is a little-noticed but important difference between the World Bank’s original goal for poverty reduction and the subsequent UN Sustainable Development Goal (SDG). While both target the “$1.90 a day” poverty rate, the Bank’s goal was a 3% rate by 2030, while the SDG is to “eradicate” poverty by 2030. A simple linear projection of current progress against extreme poverty in the world does suggest that we are on track to attaining the UN’s goal. However, linear projection is deceptive if development does not reach the poorest as effectively. There are a priori reasons why the last few percent could be harder to reach with current development policies. Consistently with that hypothesis, the paper documents recent signs of a levelling off in progress for the poorest in East Asia—the star performer regionally over the longer term. This is evident in the region’s slower progress recently in both lifting the floor—thus reaching the poorest—and in reducing the poverty rate. This levelling off is also found on average for the 18 developing countries that have reduced their poverty rate from over 10% (around the current global rate) to under 3% during 1981-2017. Similarly to East Asia, progress in reaching the poorest declined once the last 3% had been reached, though some countries did better than others. Overall, the results suggest that “business as usual” (even by the standards of the relatively successful countries) will not suffice to eradicate extreme poverty. 
+Abstract: There is a little-noticed but important difference between the World Bank’s original goal for poverty reduction and the subsequent UN Sustainable Development Goal (SDG). While both target the “$1.90 a day” poverty rate, the Bank’s goal was a 3% rate by 2030, while the SDG is to “eradicate” poverty by 2030. A simple linear projection of current progress against extreme poverty in the world does suggest that we are on track to attaining the UN’s goal. However, linear projection is deceptive if development does not reach the poorest as effectively. There are a priori reasons why the last few percent could be harder to reach with current development policies. Consistently with that hypothesis, the paper documents recent signs of a levelling off in progress for the poorest in East Asia—the star performer regionally over the longer term. This is evident in the region’s slower progress recently in both lifting the floor—thus reaching the poorest—and in reducing the poverty rate. This levelling off is also found on average for the 18 developing countries that have reduced their poverty rate from over 10% (around the current global rate) to under 3% during 1981-2017. Similarly to East Asia, progress in reaching the poorest declined once the last 3% had been reached, though some countries did better than others. Overall, the results suggest that “business as usual” (even by the standards of the relatively successful countries) will not suffice to eradicate extreme poverty.
 Length: 22 pages
 Creation-Date: 2020-03-30
 File-URL: https://www.cgdev.org/publication/sdg1-last-three-percent?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/WP527-Ravallion-Three-Percent-revision-july-2020.pdf
+File-Format: application/pdf
 Classification-JEL: I32, I38, O15
-Keywords: Poverty; inequality; poorest; floor; social assistance
+Keywords: Poverty, inequality, poorest, floor, social assistance
 Number: 527
 Handle: RePEc:cgd:wpaper:527

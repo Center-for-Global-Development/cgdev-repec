@@ -1,10 +1,15 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Ali Enami , Nora Lustig and Alireza Taqdiri
-Author-X-Name-First: Ali	
-Author-X-Name-Last: Enami
-Title: Fiscal Policy, Inequality and Poverty in Iran: Assessing the Impact and Effectiveness of Taxes and Transfers the Poor in the Developing World - Working Paper 442
-Abstract: 
-Using the Iranian Household Expenditure and Income Survey (HEIS) for 2011/12, we apply
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Ali Enami
+Author-Name-First: Ali
+Author-Name-Last: Enami
+Author-Name: Nora Lustig
+Author-Name-First: Nora
+Author-Name-Last: Lustig
+Author-Name: Alireza Taqdiri
+Author-Name-First: Alireza
+Author-Name-Last: Taqdiri
+Title: Fiscal Policy, Inequality and Poverty in Iran: Assessing the Impact and Effectiveness of Taxes and Transfers the Poor in the Developing World
+Abstract: Using the Iranian Household Expenditure and Income Survey (HEIS) for 2011/12, we apply
 the marginal contribution approach to determine the impact and effectiveness of each fiscal
 intervention, and the fiscal system as a whole, on inequality and poverty. Net direct and indirect
 taxes combined reduce the Gini coefficient by 0.0644 points and the headcount ratio by 61 percent.
@@ -23,11 +28,13 @@ largely spared from being taxed. In contrast, since the bulk of transfers are no
 they are not very effective: the most effective ones achieve 20 percent of their poverty reduction
 potential. The effectiveness of the Targeted Subsidy Program could be improved by eliminating the
 transfer to top deciles and re-allocating the freed funds to the poor.
-Length:42 pages
-Creation-Date:  2016-11
-File-URL: http://www.cgdev.org/publication/fiscal-policy-inequality-poverty-iran
+Length: 42 pages
+Creation-Date: 2016-11
+File-URL: https://www.cgdev.org/publication/fiscal-policy-inequality-poverty-iran?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/fiscal-policy-inequality-poverty-iran.pdf
+File-Format: application/pdf
 Number: 442
 Classification-JEL: D31, H22, I38
-Keywords: inequality, poverty, marginal contribution, CEQ framework, policy simulation
+Keywords: inequality, poverty, marginal contribution, CEQ framework, policy simulation
 Handle: RePEc:cgd:wpaper:442
-

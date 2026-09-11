@@ -1,7 +1,7 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Charles Kenny
-Author-X-Name-First: Charles
-Author-X-Name-Last: Kenny
+Author-Name-First: Charles
+Author-Name-Last: Kenny
 Author-Workplace-Name: Center for Global Development
 Author-Person: pke79
 Title: Emigration as a Growth Strategy
@@ -9,5 +9,8 @@ Abstract: The model of manufacturing export-led growth followed by a number of c
 Length: 31 pages
 Creation-Date: 2026-03-19
 File-URL: https://www.cgdev.org/publication/emigration-growth-strategy?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/emigration-growth-strategy.pdf
+File-Format: application/pdf
 Number: 385
 Handle: RePEc:cgd:ppaper:385

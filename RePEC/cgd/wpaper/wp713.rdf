@@ -1,18 +1,21 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Amanda M. Countryman
-Author-X-Name-First: Amanda
-Author-X-Name-Middle: M.
-Author-X-Name-Last: Countryman
+Author-Name-First: Amanda
+Author-Name-Middle: M.
+Author-Name-Last: Countryman
 Author-Workplace-Name: Colorado State University
 Author-Person: pco872
 Author-Name: Anthony McDonnell
-Author-X-Name-First: Anthony
-Author-X-Name-Last: McDonnell
+Author-Name-First: Anthony
+Author-Name-Last: McDonnell
 Author-Workplace-Name: Center for Global Development
 Title: Modelling the Global Economic Impact of Antimicrobial Resistance in Humans
 Abstract: Antimicrobial resistance (AMR) is a complex global challenge that negatively affects human health and has widespread economic consequences. This research investigates the economy-wide effects of AMR in humans by considering five AMR-scenarios to understand the potential global and country-level impacts of resistance. This work simulates the combined impacts of AMR-induced changes in population, healthcare costs, labour, hospitality, and tourism in a computable general equilibrium modeling framework. Findings show absolute changes in global GDP in 2050 ranging from $269 billion with better treatment of bacterial infections, to nearly $990 billion when a combined, four-part intervention approach is employed. Alternatively, results show that global GDP may decline by $1.67 trillion by 2050 with accelerated resistance. There are relatively larger potential gains for lower income countries if combined intervention strategies are pursued, which is driven by positive effects on labour, followed by tourism and hospitality. Conversely, upper-middle- and high-income countries stand to lose relatively more in terms of GDP and welfare if resistance accelerates over time as demand for hospitality and tourism declines in tandem with negative effects on labour. AMR imposes tremendous societal burdens across countries and this work highlights the potential gains that may be achieved if intervention strategies are pursued contrasted with the negative impacts that could occur with a rise in resistance.
 Length: 30 pages
 Creation-Date: 2025-01-29
 File-URL: https://www.cgdev.org/publication/modelling-global-economic-impact-antimicrobial-resistance-humans?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/modelling-global-economic-impact-antimicrobial-resistance-humans.pdf
+File-Format: application/pdf
 Number: 713
 Handle: RePEc:cgd:wpaper:713

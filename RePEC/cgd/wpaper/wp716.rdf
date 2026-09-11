@@ -1,37 +1,40 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Travis Baseler
-Author-X-Name-First: Travis
-Author-X-Name-Last: Baseler
+Author-Name-First: Travis
+Author-Name-Last: Baseler
 Author-Workplace-Name: University of Rochester
 Author-Email: travis.baseler@rochester.edu
 Author-Person: pba1694
 Author-Name: Thomas Ginn
-Author-X-Name-First: Thomas
-Author-X-Name-Last: Ginn
+Author-Name-First: Thomas
+Author-Name-Last: Ginn
 Author-Workplace-Name: Center for Global Development
 Author-Email: tginn@cgdev.org
 Author-Name: Ibrahim Kasirye
-Author-X-Name-First: Ibrahim
-Author-X-Name-Last: Kasirye
+Author-Name-First: Ibrahim
+Author-Name-Last: Kasirye
 Author-Workplace-Name: Economic Policy Research Centre
 Author-Email: ikasirye@eprcug.org
 Author-Person: pka363
 Author-Name: Belinda Muya
-Author-X-Name-First: Belinda
-Author-X-Name-Last: Muya
+Author-Name-First: Belinda
+Author-Name-Last: Muya
 Author-Workplace-Name: International Rescue Committee
 Author-Email: belinda.muya@rescue.org
 Author-Name: Andrew Zeitlin
-Author-X-Name-First: Andrew
-Author-X-Name-Last: Zeitlin
+Author-Name-First: Andrew
+Author-Name-Last: Zeitlin
 Author-Workplace-Name: Georgetown University
 Author-Email: az332@georgetown.edu
 Author-Person: pze70
 Title: Cash and Small Business Groups for Ugandans and Refugees
-Abstract: Constraints that inhibit small business growth are potentially amplified for groups with limited access to existing business networks like refugees and women. Programs that facilitate intergroup contact, in addition to capital, could potentially raise welfare, especially if incentives are aligned for participants to share information and invest effort in each other's outcomes. In a randomized trial with microentrepreneurs, we vary business grants, inclusion in a mentorship group, the gender and nationality composition of groups, and a "shared fate" component that compensates group members for the success of other members� businesses. We find that grants substantially improve business outcomes for men, women, refugees, and hosts. Combining mentorship with cash has an additional positive effect for refugee men, but a negative effect relative to cash alone for women who run higher-profit firms. Mentors with higher baseline profits significantly improve mentees' business outcomes, while differences across group gender and nationality compositions are small. The shared fate addition worsens early outcomes in aligned groups but does not affect mixed groups.
+Abstract: Constraints that inhibit small business growth are potentially amplified for groups with limited access to existing business networks like refugees and women. Programs that facilitate intergroup contact, in addition to capital, could potentially raise welfare, especially if incentives are aligned for participants to share information and invest effort in each other's outcomes. In a randomized trial with microentrepreneurs, we vary business grants, inclusion in a mentorship group, the gender and nationality composition of groups, and a "shared fate" component that compensates group members for the success of other members’ businesses. We find that grants substantially improve business outcomes for men, women, refugees, and hosts. Combining mentorship with cash has an additional positive effect for refugee men, but a negative effect relative to cash alone for women who run higher-profit firms. Mentors with higher baseline profits significantly improve mentees' business outcomes, while differences across group gender and nationality compositions are small. The shared fate addition worsens early outcomes in aligned groups but does not affect mixed groups.
 Length: 67 pages
 Creation-Date: 2025-03-31
 File-URL: https://www.cgdev.org/publication/cash-and-small-business-groups-ugandans-and-refugees?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/cash-and-small-business-groups-ugandans-and-refugees.pdf
+File-Format: application/pdf
 Classification-JEL: D22, D74, D83, L14, L26, O12, O15
 Keywords: Microentrepreneurship, Networks, Mentorship, Refugees
 Number: 716

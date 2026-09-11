@@ -1,34 +1,37 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Edwine Barasa
-Author-X-Name-First: Edwine
-Author-X-Name-Last: Barasa
+Author-Name-First: Edwine
+Author-Name-Last: Barasa
 Author-Workplace-Name: KEMRI-Wellcome Trust Research Programme, Nairobi, Kenya
 Author-Workplace-Name: Center for Tropical Medicine and Global Health, University of Oxford, Oxford, United Kingdom
 Author-Name: Jacob Kazungu
-Author-X-Name-First: Jacob
-Author-X-Name-Last: Kazungu
+Author-Name-First: Jacob
+Author-Name-Last: Kazungu
 Author-Workplace-Name: KEMRI-Wellcome Trust Research Programme, Nairobi, Kenya
 Author-Name: Stacey Orangi
-Author-X-Name-First: Stacey
-Author-X-Name-Last: Orangi
+Author-Name-First: Stacey
+Author-Name-Last: Orangi
 Author-Workplace-Name: KEMRI-Wellcome Trust Research Programme, Nairobi, Kenya
 Author-Name: Evelyn Kabia
-Author-X-Name-First: Evelyn
-Author-X-Name-Last: Kabia
+Author-Name-First: Evelyn
+Author-Name-Last: Kabia
 Author-Workplace-Name: KEMRI-Wellcome Trust Research Programme, Nairobi, Kenya
 Author-Name: Morris Ogero
-Author-X-Name-First: Morris
-Author-X-Name-Last: Ogero
+Author-Name-First: Morris
+Author-Name-Last: Ogero
 Author-Workplace-Name: KEMRI-Wellcome Trust Research Programme, Nairobi, Kenya
 Author-Name: Kadondi Kasera
-Author-X-Name-First: Kadondi
-Author-X-Name-Last: Kasera
+Author-Name-First: Kadondi
+Author-Name-Last: Kasera
 Author-Workplace-Name: Ministry of Health, Kenya
 Title: Assessing the Indirect Health Effects of the COVID-19 Pandemic in Kenya
 Abstract: This paper presents an analysis of the indirect health effects of the COVID-19 pandemic in Kenya. We employed a mixed-methods approach, combining the analysis of secondary quantitative data obtained from the Kenya Health Information System database (from January 2019 to November 2020) and a qualitative inquiry involving key informant interviews and document reviews. Quantitative data were analysed using an interrupted time series analysis (using March 2020 as the intervention period). Thematic analysis approach was employed to analyse qualitative data. Quantitative findings were mixed, with statistically significant reduction in inpatient utilization, and increase in the number of sexual violence cases per OPD visit that could be attributed to COVID-19 and its mitigation measures. Key informants reported that while financing of essential health services and domestic supply chains were not affected, international supply chains, health workforce, health infrastructure, service provision, and patient access were disrupted. However, the negative effects were thought to be transient, with mitigation measures leading to a bounce back. Our findings provide insights into the likely early effects of the pandemic and its mitigation measures in Kenya. However, more in-depth analyses are needed to fully explore both the direct and indirect effects of the pandemic as more and better-quality data become available.
-Length:  26 pages
+Length: 26 pages
 Creation-Date: 2021-03-30
 File-URL: https://www.cgdev.org/publication/assessing-indirect-health-effects-covid-19-pandemic-kenya?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/WP570-Kenya-Indirect-COVID-impacts-final.pdf
+File-Format: application/pdf
 Classification-JEL: I18
 Number: 570
 Handle: RePEc:cgd:wpaper:570

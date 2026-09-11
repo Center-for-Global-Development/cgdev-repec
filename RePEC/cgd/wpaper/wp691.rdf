@@ -1,29 +1,29 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Simeon Lauterbach
-Author-X-Name-First: Simeon
-Author-X-Name-Last: Lauterbach
+Author-Name-First: Simeon
+Author-Name-Last: Lauterbach
 Author-Workplace-Name: Geneva Graduate Institute
 Author-Email: simeon.lauterbach@graduateinstitute.ch
 Author-Name: Lee Crawfurd
-Author-X-Name-First: Lee
-Author-X-Name-Last: Crawfurd
+Author-Name-First: Lee
+Author-Name-Last: Crawfurd
 Author-Workplace-Name: Center for Global Development
 Author-Email: lcrawfurd@cgdev.org
 Author-Person: pcr198
 Author-Name: Jocelyne C. Kirezi
-Author-X-Name-First: Jocelyne
-Author-X-Name-Middle: C.
-Author-X-Name-Last: Kirezi
+Author-Name-First: Jocelyne
+Author-Name-Middle: C.
+Author-Name-Last: Kirezi
 Author-Workplace-Name: VVOB - education for development
 Author-Email: Jocelyne.Cyiza.KIREZI@vvob.org
 Author-Name: Aimable Nsabimana
-Author-X-Name-First: Aimable
-Author-X-Name-Last: Nsabimana
+Author-Name-First: Aimable
+Author-Name-Last: Nsabimana
 Author-Workplace-Name: UNU-WIDER
 Author-Email: aimable.nsabimana@wider.unu.edu
 Author-Name: Jef Peeraer
-Author-X-Name-First: Jef
-Author-X-Name-Last: Peeraer
+Author-Name-First: Jef
+Author-Name-Last: Peeraer
 Author-Workplace-Name: VVOB - education for development
 Author-Email: jef.peeraer@vvob.org
 Title: Improving School Leadership in Rwanda
@@ -31,6 +31,9 @@ Abstract: This study investigates the short-term impacts of a school leadership 
 Length: 56 pages
 Creation-Date: 2024-04-11
 File-URL: https://www.cgdev.org/publication/improving-school-leadership-rwanda?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/improving-school-leadership-rwanda.pdf
+File-Format: application/pdf
 Classification-JEL: I22, I28, O15
 Keywords: School leadership, professional development, school management
 Number: 691

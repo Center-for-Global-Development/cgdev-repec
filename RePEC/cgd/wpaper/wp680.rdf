@@ -1,7 +1,7 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Shahid Yusuf
-Author-X-Name-First: Shahid
-Author-X-Name-Last: Yusuf
+Author-Name-First: Shahid
+Author-Name-Last: Yusuf
 Author-Workplace-Name: Growth Dialogue
 Author-Workplace-Name: Center for Global Development
 Title: The Case for Globalization and Robust Global Value Chains Grows Stronger
@@ -9,5 +9,8 @@ Abstract: Discontent has dogged globalization for over two decades even as it ha
 Length: 74 pages
 Creation-Date: 2024-02-08
 File-URL: https://www.cgdev.org/publication/case-globalization-and-robust-global-value-chains-grows-stronger?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/case-globalization-and-robust-global-value-chains-grows-stronger.pdf
+File-Format: application/pdf
 Number: 680
 Handle: RePEc:cgd:wpaper:680

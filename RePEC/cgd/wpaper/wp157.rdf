@@ -1,7 +1,7 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Jenny Aker
-Author-X-Name-First: Jenny
-Author-X-Name-Last: Aker
+Author-Name-First: Jenny
+Author-Name-Last: Aker
 Author-Email: jaker@cgdev.org
 Title: Rainfall Shocks, Markets, and Food Crises: Evidence from the Sahel
 Abstract: How do markets respond to extreme rainfall in West Africa? This paper examines
@@ -18,10 +18,12 @@ markets are affected by drought, as was the case in 2004/2005, the year of a
 severe food crisis. The results suggest that early warning systems in West Africa
 should focus on the spatial impact of drought at the sub-regional level, as well as
 monitor prices in key forecasting markets during the harvest period.
-Length:  51 pages
-Creation-Date:  2008-12
-File-URL: http://www.cgdev.org/content/publications/detail/1417887
+Length: 51 pages
+Creation-Date: 2008-12
+File-URL: https://www.cgdev.org/publication/rainfall-shocks-markets-and-food-crises-evidence-sahel-working-paper-157?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/1417887_file_Aker_Niger_Food_Crisis_FINAL.pdf
+File-Format: application/pdf
 Number: 157
-Classification-JEL:
-Keywords:  Markets, food crisis, Africa, climate change, vector autoregressive model
+Keywords: Markets, food crisis, Africa, climate change, vector autoregressive model
 Handle: RePEc:cgd:wpaper:157

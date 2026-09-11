@@ -1,17 +1,23 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Nancy Birdsall and Christian J. Meyer
-Author-X-Name-First: Nancy
-Author-X-Name-Last: Birdsall
-Author-X-Name-First: Christian
-Author-X-Name-Last: Meyer
-Author-Email: nbirdsall@cgdev.org	
+ÔªøTemplate-Type: ReDIF-Paper 1.0
+Author-Name: Nancy Birdsall
+Author-Name-First: Nancy
+Author-Name-Last: Birdsall
+Author-Email: nbirdsall@cgdev.org
+Author-Person: pbi249
+Author-Name: Christian J. Meyer
+Author-Name-First: Christian
+Author-Name-Middle: J.
+Author-Name-Last: Meyer
 Author-Email: cmeyer@cgdev.org
 Title: The Median Is the Message: A Good-Enough Measure of Material Well-Being and Shared Development Progress
-Abstract: We argue that survey-based median household consumption expenditure (or income) per capita be incorporated into standard development indicators, as a simple, robust, and durable indicator of typical individual material well-being in a country. Using household survey data available for low- and middle-income countries from the World Bankís PovcalNet tool, we show that as a measure of income-related well-being, it is far superior to the commonly used GDP per capita as well as survey-based measures at the mean. We also argue that survey-based median measures are ìdistributionawareî, i.e. when used as the denominator of various widely available indicators such as mean consumption expenditure per capita they provide a ìgood-enoughî indicator of consumption (or income) inequality. Finally, as a post-2015 indicator of progress at the country-level in promoting shared development and reducing inequality, we propose that the rate of increase in median consumption per capita after taxes and transfers exceed the rate of increase in average consumption in the same period.
-Length:  46 pages
-Creation-Date:  2014-01
-File-URL: http://www.cgdev.org/sites/default/files/median-message-good-enough-measure-shared-development-progress_final.pdf
+Abstract: We argue that survey-based median household consumption expenditure (or income) per capita be incorporated into standard development indicators, as a simple, robust, and durable indicator of typical individual material well-being in a country. Using household survey data available for low- and middle-income countries from the World Bank‚Äôs PovcalNet tool, we show that as a measure of income-related well-being, it is far superior to the commonly used GDP per capita as well as survey-based measures at the mean. We also argue that survey-based median measures are ‚Äúdistributionaware‚Äù, i.e. when used as the denominator of various widely available indicators such as mean consumption expenditure per capita they provide a ‚Äúgood-enough‚Äù indicator of consumption (or income) inequality. Finally, as a post-2015 indicator of progress at the country-level in promoting shared development and reducing inequality, we propose that the rate of increase in median consumption per capita after taxes and transfers exceed the rate of increase in average consumption in the same period.
+Length: 46 pages
+Creation-Date: 2014-01
+File-URL: https://www.cgdev.org/publication/median-message-good-enough-measure-material-well-being-and-shared-development-progress?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/median-message-good-enough-measure-shared-development-progress_final_0.pdf
+File-Format: application/pdf
 Number: 351
-Classification-JEL:  D31, H22, I32, O15
+Classification-JEL: D31, H22, I32, O15
 Keywords: welfare measure, median, consumption, inequality, distribution
 Handle: RePEc:cgd:wpaper:351

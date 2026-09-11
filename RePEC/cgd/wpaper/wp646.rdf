@@ -1,23 +1,23 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Andrew Brudevold-Newman
-Author-X-Name-First: Andrew
-Author-X-Name-Last: Brudevold-Newman
+Author-Name-First: Andrew
+Author-Name-Last: Brudevold-Newman
 Author-Workplace-Name: World Bank
 Author-Email: abrudevoldnewman@worldbank.org
 Author-Name: Maddalena Honorati
-Author-X-Name-First: Maddalena
-Author-X-Name-Last: Honorati
+Author-Name-First: Maddalena
+Author-Name-Last: Honorati
 Author-Workplace-Name: World Bank
 Author-Email: mhonorati@worldbank.org
 Author-Person: pho257
 Author-Name: Gerald Ipapa
-Author-X-Name-First: Gerald
-Author-X-Name-Last: Ipapa
+Author-Name-First: Gerald
+Author-Name-Last: Ipapa
 Author-Workplace-Name: University of Delaware
 Author-Email: gipapa@udel.edu
 Author-Name: Pamela Jakiela
-Author-X-Name-First: Pamela
-Author-X-Name-Last: Jakiela
+Author-Name-First: Pamela
+Author-Name-Last: Jakiela
 Author-Workplace-Name: Williams College
 Author-Workplace-Name: BREAD
 Author-Workplace-Name: Center for Global Development
@@ -26,18 +26,21 @@ Author-Workplace-Name: J-PAL
 Author-Email: pj5@williams.edu
 Author-Person: pja260
 Author-Name: Owen Ozier
-Author-X-Name-First: Owen
-Author-X-Name-Last: Ozier
+Author-Name-First: Owen
+Author-Name-Last: Ozier
 Author-Workplace-Name: Williams College
 Author-Workplace-Name: BREAD
 Author-Workplace-Name: IZA
 Author-Workplace-Name: J-PAL
 Author-Email: owen.ozier@williams.edu
-Title: A Firm of One�s Own: Experimental Evidence on Credit Constraints and Occupational Choice
+Title: A Firm of One’s Own: Experimental Evidence on Credit Constraints and Occupational Choice
 Abstract: We evaluate two labor market interventions targeting young women in Nairobi, Kenya. The first was a multifaceted program involving vocational training, in-kind transfers of physical capital, and ongoing mentoring. The second was an unrestricted cash grant. Both interventions shift women into self-employment, impacts which persist after six years. Both programs also increase income in the short-term, but those effects disappear over time. Though the two treatments have similar impacts on labor market outcomes, women in the multifaceted program report significantly higher wellbeing six years after treatment relative to both women in the control group and those who received the grants.
 Length: 55 pages
 Creation-Date: 2023-05-17
 File-URL: https://www.cgdev.org/publication/firm-ones-own-experimental-evidence-credit-constraints-and-occupational-choice?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/firm-ones-own-experimental-evidence-credit-constraints-and-occupational-choice.pdf
+File-Format: application/pdf
 Classification-JEL: J24, M53, O12
 Keywords: youth unemployment, vocational training, cash grants, microenterprises, entrepreneurship, occupational choice, credit constraints, Africa, gende
 Number: 646

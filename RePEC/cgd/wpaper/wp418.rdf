@@ -1,19 +1,22 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Benjamin Leo
-Author-X-Name-First: Benjamin
-Author-X-Name-Last: Leo
+Author-Name-First: Benjamin
+Author-Name-Last: Leo
 Author-Name: Robert Morello
-Author-X-Name-First: Robert
-Author-X-Name-Last: Morello
-Title: Asking What the People Want: Using Mobile Phone Surveys to Identify Citizen Priorities - Working Paper 418
-Abstract: Using an experimental design, we assess the feasibility of interactive voice recognition (IVR) surveys for gauging citizens’ development priorities. Our project focuses on four low-income countries (Afghanistan, Ethiopia, Mozambique, and Zimbabwe), which exhibit significant differences in mobile penetration rates and linguistic fractionalization. In this paper, we consider sensitivities of using a single mobile phone-based survey instrument to solicit citizens’ development priorities for a host of actors operating within the country. We analyze whether people’s stated priorities change based on the specified executing actor, timeframe, or question format. A separate Center for Global Development (CGD) working paper provides detailed analysis on a range of methodological issues, including: survey design, implementation, sample weighting, response incentives, and national representativeness. We find that mobile phone-based approaches may be an effective tool for gathering information about citizen priorities. In terms of the specific research questions, we find that people’s priorities rarely change based on the specified actor (e.g., national government or external partners). There also is only a modest timeframe effect on citizens’ revealed concerns, which is limited to less frequently cited development themes and priorities. Lastly, it appears that a closed-ended question format may adequately capture citizen’s priorities compared to open-ended formats. Although, this finding is preliminary and should be tested further due to several methodological challenges
-in this study. Overall, these findings suggest that a single survey may be an appropriate tool for multiple development actors’ usage – such as bilateral donors, multilateral agencies, and the national
-government – across multiple contexts.
+Author-Name-First: Robert
+Author-Name-Last: Morello
+Title: Asking What the People Want: Using Mobile Phone Surveys to Identify Citizen Priorities
+Abstract: Using an experimental design, we assess the feasibility of interactive voice recognition (IVR) surveys for gauging citizensâ€™ development priorities. Our project focuses on four low-income countries (Afghanistan, Ethiopia, Mozambique, and Zimbabwe), which exhibit significant differences in mobile penetration rates and linguistic fractionalization. In this paper, we consider sensitivities of using a single mobile phone-based survey instrument to solicit citizensâ€™ development priorities for a host of actors operating within the country. We analyze whether peopleâ€™s stated priorities change based on the specified executing actor, timeframe, or question format. A separate Center for Global Development (CGD) working paper provides detailed analysis on a range of methodological issues, including: survey design, implementation, sample weighting, response incentives, and national representativeness. We find that mobile phone-based approaches may be an effective tool for gathering information about citizen priorities. In terms of the specific research questions, we find that peopleâ€™s priorities rarely change based on the specified actor (e.g., national government or external partners). There also is only a modest timeframe effect on citizensâ€™ revealed concerns, which is limited to less frequently cited development themes and priorities. Lastly, it appears that a closed-ended question format may adequately capture citizenâ€™s priorities compared to open-ended formats. Although, this finding is preliminary and should be tested further due to several methodological challenges
+in this study. Overall, these findings suggest that a single survey may be an appropriate tool for multiple development actorsâ€™ usage â€“ such as bilateral donors, multilateral agencies, and the national
+government â€“ across multiple contexts.
 Length: 42 pages
 Creation-Date: 2015-10
-File-URL: http://www.cgdev.org/publication/asking-what-people-want-using-mobile-phone-surveys-identify-citizen-priorities-working
+File-URL: https://www.cgdev.org/publication/asking-what-people-want-using-mobile-phone-surveys-identify-citizen-priorities-working?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/CGD-Working-Paper-418-Leo_Morello-What-the-People-Want_0.pdf
+File-Format: application/pdf
 Number: 418
 Classification-JEL: O33, O14, O55, D78, F35
-Keywords: mobile phone surveys, mobile phones, priority setting, zimbabwe, ethiopia,
-mozambique, afghanistan
+Keywords: mobile phone surveys, mobile phones, priority setting, zimbabwe, ethiopia
+mozambique, afghanistan
 Handle: RePEc:cgd:wpaper:418

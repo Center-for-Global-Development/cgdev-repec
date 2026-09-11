@@ -1,16 +1,19 @@
-Template-type: ReDIF-Series 1.0
+﻿Template-Type: ReDIF-Series 1.0
 Name: Working Papers
+Description: CGD working papers present new research and analysis on global development policy, aimed at researchers and policymakers. Topics include aid effectiveness, education, global health, migration, trade, climate, and financial systems in developing countries.
 Provider-Name: Center for Global Development
-Provider-Homepage: http://www.cgdev.org
+Provider-Homepage: https://www.cgdev.org
 Provider-Institution: RePEc:edi:cgdevus
 Maintainer-Name: Publications Manager
 Maintainer-Email: publications@cgdev.org
 Type: ReDIF-Paper
 Handle: RePEc:cgd:wpaper
-Template-type: ReDIF-Series 1.0
+
+Template-Type: ReDIF-Series 1.0
 Name: Policy Papers
+Description: CGD policy papers translate research into practical recommendations for policymakers on global development issues.
 Provider-Name: Center for Global Development
-Provider-Homepage: http://www.cgdev.org
+Provider-Homepage: https://www.cgdev.org
 Provider-Institution: RePEc:edi:cgdevus
 Maintainer-Name: Publications Manager
 Maintainer-Email: publications@cgdev.org

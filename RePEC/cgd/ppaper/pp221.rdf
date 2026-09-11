@@ -1,23 +1,26 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Firman Witoelar
-Author-X-Name-First: Firman
-Author-X-Name-Last: Witoelar
+Author-Name-First: Firman
+Author-Name-Last: Witoelar
 Author-Workplace-Name: Australian National University
 Author-Person: pwi229
 Author-Name: Teguh Yudo Wicaksono
-Author-X-Name-First: Teguh Yudo
-Author-X-Name-Last: Wicaksono
+Author-Name-First: Teguh Yudo
+Author-Name-Last: Wicaksono
 Author-Workplace-Name: Mandiri Institute
 Author-Person: pwi410
 Author-Name: Carlos Mangunsong
-Author-X-Name-First: Carlos
-Author-X-Name-Last: Mangunsong
+Author-Name-First: Carlos
+Author-Name-Last: Mangunsong
 Author-Workplace-Name: DTS Indonesia
 Author-Person: pma3036
 Title: Binding Constraints on Digital Financial Inclusion in Indonesia: An Analysis Using the Decision Tree Approach
-Abstract: Despite the concerted efforts of the Indonesian government to increase financial inclusion and the e-commerce–led growth of digital payment services, a large proportion of the country’s population remains financially excluded. Much of the growth and innovation has mainly benefited those already financially included. To understand this outcome, we use the decision tree approach developed by Claessens and Rojas-Suárez (2020), focusing on one of the products with the largest potential to increase financial inclusion in the country: e-money. Our analysis finds that a crucial binding constraint on the expansion of e-money services is a regulatory framework that creates an unlevel playing field between banks and nonbank providers of digital financial services. Regulatory restrictions applied to nonbanks on cashout services, agent recruitment, and know-your-customer processes are at the core of the problem. In addition, a perception of low benefits from the usage of formal financial services results in a lack of the critical mass of customers necessary to ensure the profitability of agents, particularly in remote and rural areas, and thus the expansion of e-money services. We also find other constraints that are not binding at the national level but are binding for some specific groups. The low provision of digital infrastructure in rural areas outside Java is one of them. In addition, constraints such as low trust in providers, though not binding, should be addressed in order to maximize the gains that could be obtained from relaxing the binding constraints.
+Abstract: Despite the concerted efforts of the Indonesian government to increase financial inclusion and the e-commerceâ€“led growth of digital payment services, a large proportion of the countryâ€™s population remains financially excluded. Much of the growth and innovation has mainly benefited those already financially included. To understand this outcome, we use the decision tree approach developed by Claessens and Rojas-SuÃ¡rez (2020), focusing on one of the products with the largest potential to increase financial inclusion in the country: e-money. Our analysis finds that a crucial binding constraint on the expansion of e-money services is a regulatory framework that creates an unlevel playing field between banks and nonbank providers of digital financial services. Regulatory restrictions applied to nonbanks on cashout services, agent recruitment, and know-your-customer processes are at the core of the problem. In addition, a perception of low benefits from the usage of formal financial services results in a lack of the critical mass of customers necessary to ensure the profitability of agents, particularly in remote and rural areas, and thus the expansion of e-money services. We also find other constraints that are not binding at the national level but are binding for some specific groups. The low provision of digital infrastructure in rural areas outside Java is one of them. In addition, constraints such as low trust in providers, though not binding, should be addressed in order to maximize the gains that could be obtained from relaxing the binding constraints.
 Length: 83 pages
 Creation-Date: 2021-07-28
 File-URL: https://www.cgdev.org/publication/binding-constraints-digital-financial-inclusion-indonesia-analysis-using-decision-tree?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/Indonesia-decision-tree.pdf
+File-Format: application/pdf
 Number: 221
 Handle: RePEc:cgd:ppaper:221

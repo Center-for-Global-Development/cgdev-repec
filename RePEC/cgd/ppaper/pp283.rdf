@@ -1,12 +1,12 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Rabah Arezki
-Author-X-Name-First: Rabah
-Author-X-Name-Last: Arezki
+Author-Name-First: Rabah
+Author-Name-Last: Arezki
 Author-Workplace-Name: Harvard Kennedy School
 Author-Person: par153
 Author-Name: Adnan Mazarei
-Author-X-Name-First: Adnan
-Author-X-Name-Last: Mazarei
+Author-Name-First: Adnan
+Author-Name-Last: Mazarei
 Author-Workplace-Name: Peterson Institute for International Economics
 Author-Person: pma2768
 Title: MENA and the Global Energy Conundrum
@@ -14,5 +14,8 @@ Abstract: The Middle East and North Africa region (MENA) is addicted to fossil f
 Length: 23 pages
 Creation-Date: 2023-01-19
 File-URL: https://www.cgdev.org/publication/mena-and-global-energy-conundrum?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/mena-and-global-energy-conundrum.pdf
+File-Format: application/pdf
 Number: 283
 Handle: RePEc:cgd:ppaper:283

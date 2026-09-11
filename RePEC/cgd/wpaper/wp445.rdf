@@ -1,8 +1,14 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Matt Collin , Samantha Cook and Kimmo Soram�ki
-Author-X-Name-First: Matt
-Author-X-Name-Last: Collin
-Title: The Impact of Anti-Money Laundering Regulation on Payment Flows: Evidence from SWIFT Data - Working Paper 445
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Matt Collin
+Author-Name-First: Matt
+Author-Name-Last: Collin
+Author-Name: Samantha Cook
+Author-Name-First: Samantha
+Author-Name-Last: Cook
+Author-Name: Kimmo Soramäki
+Author-Name-First: Kimmo
+Author-Name-Last: Soramäki
+Title: The Impact of Anti-Money Laundering Regulation on Payment Flows: Evidence from SWIFT Data
 Abstract: Regulatory pressure on international banks to fight money laundering (ML) and terrorist financing
 (TF) increased substantially in the past decade. At the same time there has been a rise in the number
 of complaints of banks denying transactions or closing the accounts of customers either based in
@@ -14,12 +20,13 @@ number of cross border payments received from other jurisdictions, but no change
 sent. We also find that a greylisted country is more likely to see a decline in payments from other
 countries with weak AML/CFT institutions. We find limited evidence that these effects manifest in
 cross border trade or other flows. Given that countries that are placed on these lists tend to be
-poorer on average, these impacts are likely to be more strongly felt in developing countries.
-Length:50 pages
+poorer on average, these impacts are likely to be more strongly felt in developing countries.
+Length: 50 pages
 Creation-Date: 2016-12
-File-URL: http://www.cgdev.org/impact-anti-money-laundering-SWIFT-data
+File-URL: https://www.cgdev.org/impact-anti-money-laundering-SWIFT-data?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/impact-anti-money-laundering-SWIFT-data.pdf
+File-Format: application/pdf
 Number: 445
-Classification-JEL: 
-Keywords:  Money laundering, de-risking, banking, payment flows
+Keywords: Money laundering, de-risking, banking, payment flows
 Handle: RePEc:cgd:wpaper:445
-

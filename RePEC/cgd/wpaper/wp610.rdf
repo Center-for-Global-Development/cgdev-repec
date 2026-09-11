@@ -1,8 +1,8 @@
-Template-Type: ReDIF-Paper 1.0
+﻿Template-Type: ReDIF-Paper 1.0
 Author-Name: Michael A. Clemens
-Author-X-Name-First: Michael
-Author-X-Name-Middle: A.
-Author-X-Name-Last: Clemens
+Author-Name-First: Michael
+Author-Name-Middle: A.
+Author-Name-Last: Clemens
 Author-Workplace-Name: Center for Global Development
 Author-Person: pcl20
 Title: The Economic and Fiscal Effects on the United States from Reduced Numbers of Refugees and Asylum Seekers
@@ -10,6 +10,9 @@ Abstract: International migrants who seek protection also participate in the eco
 Length: 52 pages
 Creation-Date: 2022-03-23
 File-URL: https://www.cgdev.org/publication/economic-and-fiscal-effects-united-states-reduced-numbers-refugees-and-asylum-seekers?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/economic-and-fiscal-effects-united-states-reduced-numbers-refugees-and-asylum-seekers.pdf
+File-Format: application/pdf
 Classification-JEL: F62, H60, J61
 Number: 610
 Handle: RePEc:cgd:wpaper:610

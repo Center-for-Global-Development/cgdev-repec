@@ -1,22 +1,22 @@
-Template-Type: ReDIF-Paper 1.0
+ï»¿Template-Type: ReDIF-Paper 1.0
 Author-Name: Facundo Alvaredo
-Author-X-Name-First: Facundo
-Author-X-Name-Last: Alvaredo
+Author-Name-First: Facundo
+Author-Name-Last: Alvaredo
 Author-Workplace-Name: PSE-WIL, LSE-III, and IIEP-UBA
 Author-Person: pal97
-Author-Name: François Bourguignon
-Author-X-Name-First: François
-Author-X-Name-Last: Bourguignon
+Author-Name: FranÃ§ois Bourguignon
+Author-Name-First: FranÃ§ois
+Author-Name-Last: Bourguignon
 Author-Workplace-Name: Paris School of Economics and University of New York in Abu Dhabi
 Author-Person: pbo225
 Author-Name: Francisco Ferreira
-Author-X-Name-First: Francisco
-Author-X-Name-Last: Ferreira
+Author-Name-First: Francisco
+Author-Name-Last: Ferreira
 Author-Workplace-Name: London School of Economics and IZA
 Author-Person: pfe146
 Author-Name: Nora Lustig
-Author-X-Name-First: Nora
-Author-X-Name-Last: Lustig
+Author-Name-First: Nora
+Author-Name-Last: Lustig
 Author-Workplace-Name: Tulane University and Center for Global Development
 Author-Person: plu143
 Title: Inequality Bands: Seventy-Five Years of Measuring Income Inequality in Latin America
@@ -24,6 +24,9 @@ Abstract: Drawing on a comprehensive compilation of quantile shares and inequali
 Length: 55 pages
 Creation-Date: 2025-06-03
 File-URL: https://www.cgdev.org/publication/inequality-bands-seventy-five-years-measuring-income-inequality-latin-america?utm_source=repec&utm_medium=referral&utm_campaign=repec
+File-Format: text/html
+File-URL: https://www.cgdev.org/sites/default/files/inequality-bands-seventy-five-years-measuring-income-inequality-latin-america.pdf
+File-Format: application/pdf
 Classification-JEL: D31, D63, O54
 Keywords: income inequality, measurement, Latin America and the Caribbean
 Number: 719
