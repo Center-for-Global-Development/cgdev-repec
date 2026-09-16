@@ -1,4 +1,5 @@
 # Never convert line endings or otherwise touch file bytes.
-# The archive contains legacy CRLF and CR-only files that RePEc has parsed
-# for years; they must round-trip through git unchanged.
+# Every .rdf is stored as UTF-8 with a BOM and CRLF line endings, and RePEc
+# harvests the files byte-for-byte; git must not normalize them on checkout
+# or commit.
 * -text

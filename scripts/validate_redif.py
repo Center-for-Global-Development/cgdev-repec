@@ -9,9 +9,11 @@ a malformed record fails visibly here instead of silently never appearing
 on IDEAS/EconPapers. Legacy files are grandfathered by only validating
 what changed.
 
-Checks are limited to what RePEc's harvester actually needs; stylistic
-issues are warnings only. File bytes are read permissively (UTF-8, then
-Windows-1252) because the archive predates any consistent encoding.
+Errors are things that break harvesting or that RePEc's data check flags;
+stylistic departures from the archive's conventions are warnings only.
+Since the 2026 cleanup every record is UTF-8 with a BOM and CRLF line
+endings; bytes are still read permissively so a stray legacy file cannot
+crash the check.
 """
 
 import re
@@ -23,6 +25,21 @@ REPO = Path(__file__).resolve().parent.parent
 # RePEC/cgd/wpaper/wp123.rdf -> series "wpaper", prefix "wp", number "123"
 SERIES = {"wpaper": "wp", "ppaper": "pp"}
 DATE_RE = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
+
+
+def check_bytes(raw: bytes):
+    """Warn when a file departs from the corpus convention (UTF-8 BOM, CRLF,
+    one trailing newline). These do not break RePEc but keep the archive
+    uniform and diff-friendly."""
+    warnings = []
+    if not raw.startswith(b"\xef\xbb\xbf"):
+        warnings.append("no UTF-8 BOM (archive convention is UTF-8 with BOM)")
+    crlf = raw.count(b"\r\n")
+    if raw.count(b"\n") != crlf or raw.count(b"\r") != crlf:
+        warnings.append("line endings are not uniformly CRLF")
+    if not raw.endswith(b"\n"):
+        warnings.append("no trailing newline")
+    return warnings
 
 
 def read_fields(path: Path):
@@ -63,8 +80,21 @@ def validate(path: Path):
         return errors, warnings
     number = m.group(1)
 
+    warnings += check_bytes(path.read_bytes())
     fields = read_fields(path)
     names = [k for k, _ in fields]
+
+    # Fields RePEc's data check rejects. Author-Name-Middle was purged from the
+    # whole archive in Sept 2026 (253 data-check errors); Author-X-Name-* is the
+    # non-standard variant contractors' templates used to emit.
+    for key in names:
+        if key == "author-name-middle":
+            errors.append("Author-Name-Middle is not a valid ReDIF field — fold the initial into Author-Name only")
+            break
+    for key in names:
+        if key.startswith("author-x-name"):
+            errors.append("Author-X-Name-* is not valid ReDIF — use Author-Name-First / Author-Name-Last")
+            break
 
     def get(key):
         return next((v for k, v in fields if k == key), None)
@@ -78,16 +108,22 @@ def validate(path: Path):
     if handle != expected_handle:
         errors.append(f"Handle must be {expected_handle!r} to match the filename, got {handle!r}")
 
-    if not get("title"):
+    title = get("title")
+    if not title:
         errors.append("missing Title")
+    elif re.search(r"(Working|Policy) Paper \d+\s*$", title):
+        warnings.append("Title ends with a series suffix (\"... Working Paper N\"); the series and Number already carry that")
     if "author-name" not in names:
         errors.append("missing Author-Name")
 
-    file_url = get("file-url")
-    if not file_url:
+    file_urls = [v for k, v in fields if k == "file-url"]
+    if not file_urls:
         warnings.append("no File-URL — record will have no full-text link")
-    elif not re.match(r"^https?://", file_url):
-        errors.append(f"File-URL is not an http(s) URL: {file_url!r}")
+    for file_url in file_urls:
+        if not re.match(r"^https?://", file_url):
+            errors.append(f"File-URL is not an http(s) URL: {file_url!r}")
+    if file_urls and not any(u.lower().endswith(".pdf") for u in file_urls):
+        warnings.append("no PDF File-URL — convention is a landing-page block followed by a PDF block")
 
     creation = get("creation-date")
     if not creation:
